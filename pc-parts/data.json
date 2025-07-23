@@ -20,9 +20,9 @@
   {
     "category": "GPU",
     "model": "RX6600",
-    "description": "Asrock Radeon RX 6600 Challenger D 8GB GDDR6 Graphics Card \u2013 Black | White",
+    "description": "Asrock Radeon RX 6600 Challenger CLD | CLW 8GB GDDR6 Graphics Card \u2013 Black | White",
     "shop": "bermorzone",
-    "price": 12750.0,
+    "price": 12495.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-radeon-rx-6600-challenger-d-8gb-gddr6-graphics-card/"
   },
@@ -208,6 +208,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX4070S",
+    "description": "Gigabyte GeForce RTX 4070 SUPER WINDFORCE OC 12G Graphics Card",
+    "shop": "bermorzone",
+    "price": 38950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-4070-super-windforce-oc-12g-graphics-card/"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070XT",
     "description": "Sapphire PULSE AMD Radeon RX 9070 XT 16GB Graphics Card SPR-11348-03-20G",
     "shop": "bermorzone",
@@ -232,15 +241,6 @@
     "price": 17895.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/intel-video-cards/asrock-intel-arc-b580-challenger-12gb-oc-b580-cl-12go-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6600",
-    "description": "ASRock Radeon Challenger RX 6600 8GB CLD PCI Express 4.0 Video Card",
-    "shop": "bermorzone",
-    "price": 12595.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-radeon-rx-6600-8gb-cld-pci-express-4-0-video-card/"
   },
   {
     "category": "GPU",
@@ -523,6 +523,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5070",
+    "description": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 192-Bit OC | NON-OC Graphics Card",
+    "shop": "bermorzone",
+    "price": 36950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-192-bit-oc-non-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070",
     "description": "Sapphire PULSE AMD Radeon RX 9070 16GB Graphics Card SPR-11349-03-20G",
     "shop": "bermorzone",
@@ -607,7 +616,7 @@
     "model": "ARCB580",
     "description": "Asrock Intel Arc B580 Steel Legend 12GB OC Graphics Card",
     "shop": "bermorzone",
-    "price": 19000.0,
+    "price": 17995.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/intel-video-cards/asrock-intel-arc-b580-steel-legend-12gb-oc-graphics-card/"
   },
@@ -664,6 +673,15 @@
     "price": 39950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-4070-super-eagle-oc-12g-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "Gigabyte GeForce RTX 5060 EAGLE OC 8G Graphics Card \u2013 Black | ICE",
+    "shop": "bermorzone",
+    "price": 21000.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-5060-eagle-oc-8g-graphics-card-black-ice/"
   },
   {
     "category": "GPU",
@@ -772,15 +790,6 @@
     "price": 18950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5060-dual-8gb-gddr7-128-bit-oc-non-oc-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7800XT",
-    "description": "Powercolor Fighter AMD Radeon RX 7800 XT 16GB GDDR6Graphics Card",
-    "shop": "bermorzone",
-    "price": 31545.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-fighter-amd-radeon-rx-7800-xt-16gb-gddr6graphics-card/"
   },
   {
     "category": "GPU",
@@ -1087,6 +1096,15 @@
     "price": 65950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-tuf-gaming-geforce-rtx-5070-ti-16gb-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 Graphics Card",
+    "shop": "bermorzone",
+    "price": 90000.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-graphics-card/"
   },
   {
     "category": "GPU",
@@ -1462,9 +1480,18 @@
     "model": "RTX5080",
     "description": "Gigabyte Aorus GeForce RTX 5080 MASTER 16G Graphics Card GV-N5080AORUS-M-16GD",
     "shop": "bermorzone",
-    "price": 90950.0,
+    "price": 88950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-aorus-geforce-rtx-5080-master-16g-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G GDDR7 Graphics Card",
+    "shop": "bermorzone",
+    "price": 89950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-aorus-geforce-rtx-5080-master-ice-16g-gddr7-graphics-card/"
   },
   {
     "category": "GPU",
@@ -1474,15 +1501,6 @@
     "price": 49950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-4070-ti-super-eagle-oc-16g-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "Gigabyte GeForce RTX 5060 EAGLE OC 8G Graphics Card \u2013 Black | ICE",
-    "shop": "bermorzone",
-    "price": 21000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-5060-eagle-oc-8g-graphics-card-black-ice/"
   },
   {
     "category": "GPU",
@@ -1981,15 +1999,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5070",
-    "description": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 192-Bit OC | NON-OC Graphics Card",
-    "shop": "bermorzone",
-    "price": 36950.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-192-bit-oc-non-oc-graphics-card/"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5070TI",
     "description": "Palit GeForce RTX 5070 Ti GameRock 16GB 256 Bit GDDR7 OC | NON-OC Graphics Card",
     "shop": "bermorzone",
@@ -2002,7 +2011,7 @@
     "model": "RTX5090",
     "description": "Palit Geforce RTX 5090 GameRock GDDR7 32GB OC | NON-OC Graphics Card",
     "shop": "bermorzone",
-    "price": 150000.0,
+    "price": 148950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5090-gamerock-oc-non-oc-graphics-card/"
   },
@@ -2068,15 +2077,6 @@
     "price": 215000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/pny-geforce-rtx-5090-argb-epic-x-rgb-oc-triple-fan-32gb-gddr7-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Sapphire NITRO+ AMD Radeon RX 9070 16GB Graphics Card SPR-11349-01-20G",
-    "shop": "bermorzone",
-    "price": 44000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-nitro-amd-radeon-rx-9070-16gb-graphics-card/"
   },
   {
     "category": "GPU",
@@ -2686,7 +2686,7 @@
     "model": "RTX5060TI-16GB",
     "description": "MSI GeForce RTX 5060 Ti 16GB GDDR7 128 bit VANGUARD SOC Graphics Card",
     "shop": "bermorzone",
-    "price": 35500.0,
+    "price": 33950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5060-ti-16gb-gddr7-128-bit-vanguard-soc-graphics-card/"
   },
@@ -3358,6 +3358,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX7600XT",
+    "description": "Asrock AMD Radeon RX 7600 XT Steel Legend 16GB OC Graphics Card",
+    "shop": "bermorzone",
+    "price": 21895.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-amd-radeon-rx-7600-xt-steel-legend-16gb-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
     "model": "GTX1050TI",
     "description": "Colorful GTX1050Ti NB 4G-V GDDR5 Gaming Graphic Card",
     "shop": "bermorzone",
@@ -3418,15 +3427,6 @@
     "price": 41950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-4070-super-gaming-oc-12g-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "Gigabyte GeForce RTX 4070 SUPER WINDFORCE OC 12G Graphics Card",
-    "shop": "bermorzone",
-    "price": 38950.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-geforce-rtx-4070-super-windforce-oc-12g-graphics-card/"
   },
   {
     "category": "GPU",
@@ -3571,6 +3571,15 @@
     "price": 34950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/zotac-rtx-4070-twin-edge-oc-12gb-gddr6x-192-bit-3xdp-hdmi-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "ASRock Radeon Challenger RX 6600 8GB CLD PCI Express 4.0 Video Card",
+    "shop": "bermorzone",
+    "price": 12495.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-radeon-rx-6600-8gb-cld-pci-express-4-0-video-card/"
   },
   {
     "category": "GPU",
@@ -4381,15 +4390,6 @@
     "price": 65000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-amd-radeon-rx-6950-xt-oc-formula-16gb-gddr6-256bit-rx6950xt-ocf-16g/"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7600XT",
-    "description": "Asrock AMD Radeon RX 7600 XT Steel Legend 16GB OC Graphics Card",
-    "shop": "bermorzone",
-    "price": 21895.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/asrock-amd-radeon-rx-7600-xt-steel-legend-16gb-oc-graphics-card/"
   },
   {
     "category": "GPU",
@@ -5374,6 +5374,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX7800XT",
+    "description": "Powercolor Fighter AMD Radeon RX 7800 XT 16GB GDDR6 Graphics Card",
+    "shop": "bermorzone",
+    "price": 31545.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-fighter-amd-radeon-rx-7800-xt-16gb-gddr6graphics-card/"
+  },
+  {
+    "category": "GPU",
     "model": "RX6650XT",
     "description": "PowerColor Hellhound AMD Radeon RX 6650 XT 8GB GDDR6 Graphics Card",
     "shop": "bermorzone",
@@ -6238,15 +6247,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5080",
-    "description": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 Graphics Card",
-    "shop": "bermorzone",
-    "price": 90000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-graphics-card/"
-  },
-  {
-    "category": "GPU",
     "model": "GTX1650",
     "description": "ASUS TUF Gaming GeForce\u00ae GTX 1650 4GB GDDR6 TUF-GTX1650-4GD6-GAMING",
     "shop": "bermorzone",
@@ -6730,15 +6730,6 @@
     "price": 23500.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-aorus-geforce-rtx-5060-elite-8g-graphics-card-gv-n5060aorus-e-8gd/"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE 16G GDDR7 Graphics Card",
-    "shop": "bermorzone",
-    "price": 102000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/gigabyte-aorus-geforce-rtx-5080-master-ice-16g-gddr7-graphics-card/"
   },
   {
     "category": "GPU",
@@ -7975,6 +7966,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX9070",
+    "description": "Sapphire NITRO+ AMD Radeon RX 9070 16GB Graphics Card SPR-11349-01-20G",
+    "shop": "bermorzone",
+    "price": 44000.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-nitro-amd-radeon-rx-9070-16gb-graphics-card/"
+  },
+  {
+    "category": "GPU",
     "model": "RX6800XT",
     "description": "SAPPHIRE NITRO+ Radeon RX 6800 XT SE Gaming Graphics Card",
     "shop": "bermorzone",
@@ -8312,7 +8312,7 @@
     "description": "Sapphire Nitro + AMD Radeon RX 7800 XT Gaming OC 16GB GDDR6 Dual HDMI/Dual DP Graphics Card",
     "shop": "datablitz",
     "price": 34350.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/sapphire-nitro-amd-radeon-rx-7800-xt-gaming-oc-16gb-gddr6-dual-hdmi-dual-dp-graphics-card"
   },
   {
@@ -8708,7 +8708,7 @@
     "description": "Gigabyte Radeon RX 9070 XT Gaming OC 16GB Graphics Card",
     "shop": "datablitz",
     "price": 47495.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-graphics-card"
   },
   {
@@ -8798,7 +8798,7 @@
     "description": "Zotac Gaming Geforce RTX 5060 Ti 16GB Twin Edge OC GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 28995.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-gddr7-graphics-card"
   },
   {
@@ -9500,7 +9500,7 @@
     "description": "ASRock AMD Radeon RX 7600 Steel Legend 8GB OC GDDR6 Graphics Card",
     "shop": "datablitz",
     "price": 17550.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-7600-steel-legend-8gb-oc-gddr6-graphics-card"
   },
   {
@@ -9662,7 +9662,7 @@
     "description": "Gigabyte GeForce RTX 5060 Windforce OC 8GB GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 19950.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5060-windforce-oc-8gb-gddr7-graphics-card"
   },
   {
@@ -9682,6 +9682,15 @@
     "price": 55095.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/inno3d-geforce-rtx-5070-ti-x3-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Gigabyte GeForce RTX 5070 Eagle OC Ice SFF 12GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 43695.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -10153,6 +10162,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5090",
+    "description": "Asus ROG Astral LC GeForce RTX 5090 OC 32GB GDDR7 Gaming Graphics Card",
+    "shop": "datablitz",
+    "price": 214995.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-astral-lc-geforce-rtx-5090-oc-32gb-gddr7-gaming-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070XT",
     "description": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB Graphics Card",
     "shop": "datablitz",
@@ -10171,15 +10189,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte GeForce RTX 5070 Eagle OC Ice SFF 12GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 43695.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5090",
     "description": "Gigabyte Geforce RTX 5090 Gaming OC 32GB GDDR7 Graphics Card",
     "shop": "datablitz",
@@ -10195,6 +10204,15 @@
     "price": 60450.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus TUF Gaming GeForce RTX 5070 Ti OC 16GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 67850.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-geforce-rtx-5070-ti-oc-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -10483,6 +10501,15 @@
     "price": 29650.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5060-ti-windforce-16gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Mercury AMD Radeon RX 9070 XT OC Gaming Ed. with RGB 16GB GDDR6 Graphics Card (RX-97TRGBBB9)",
+    "shop": "datablitz",
+    "price": 50950.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/xfx-mercury-amd-radeon-rx-9070-xt-oc-gaming-ed-with-rgb-16gb-gddr6-graphics-card-rx-97trgbbb9"
   },
   {
     "category": "GPU",
@@ -10936,15 +10963,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5090",
-    "description": "Asus ROG Astral LC GeForce RTX 5090 OC 32GB GDDR7 Gaming Graphics Card",
-    "shop": "datablitz",
-    "price": 214995.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-astral-lc-geforce-rtx-5090-oc-32gb-gddr7-gaming-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5060TI-8GB",
     "description": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge OC GDDR7 Graphics Card (ZT-B50610H-10M)",
     "shop": "datablitz",
@@ -11059,15 +11077,6 @@
     "price": 166695.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus TUF Gaming GeForce RTX 5070 Ti OC 16GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 67850.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-geforce-rtx-5070-ti-oc-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -11734,15 +11743,6 @@
     "price": 49995.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9070-xt-steel-legend-dark-16gb-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "XFX Mercury AMD Radeon RX 9070 XT OC Gaming Ed. with RGB 16GB GDDR6 Graphics Card (RX-97TRGBBB9)",
-    "shop": "datablitz",
-    "price": 50950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/xfx-mercury-amd-radeon-rx-9070-xt-oc-gaming-ed-with-rgb-16gb-gddr6-graphics-card-rx-97trgbbb9"
   },
   {
     "category": "GPU",
@@ -12731,7 +12731,7 @@
     "description": "MSI GeForce RTX 5060 Ti 16GB GDDR7 Ventus 3X OC Graphics Card",
     "shop": "datablitz",
     "price": 30850.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-ti-16gb-gddr7-ventus-3x-oc-graphics-card"
   },
   {
@@ -14567,7 +14567,7 @@
     "description": "MSI RTX 5060 Ti Ventus 2X OC Plus 16GB Graphics Card",
     "shop": "dynaquest",
     "price": 30650.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://dynaquestpc.com/products/msi-rtx-5060-ti-ventus-2x-oc-plus-16gb-graphics-card"
   },
   {
@@ -16400,11 +16400,11 @@
   {
     "category": "GPU",
     "model": "RX9070XT",
-    "description": "ASROCK RX9070XT TC 16GO (90-GA5HZZ-00UANF)",
+    "description": "ASROCK RX9070 XT TC 16GO (90-GA5HZZ-00UANF)",
     "shop": "itworld",
     "price": 53499.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9070xt-tc-16go-asrock-rx9070xt-tc-16go-90-ga5hzz-00uanf-16548?page=7&category=172"
+    "link": "https://www.itworldph.com/shop/rx9070xt-tc-16go-asrock-rx9070-xt-tc-16go-90-ga5hzz-00uanf-16548?page=7&category=172"
   },
   {
     "category": "GPU",
@@ -19300,8 +19300,8 @@
     "model": "RX9070XT",
     "description": "Gigabyte Radeon RX 9070 XT GAMING OC 16G 16GB GDDR6 RDNA 4 Graphics Card \u2013 GV-R9070XTGAMING-OC...",
     "shop": "netcodex",
-    "price": 45995.0,
-    "availability": "Out of Stock",
+    "price": 46495.0,
+    "availability": "In Stock",
     "link": "https://netcodex.ph/product/gigabyte-radeon-rx-9070-xt-gaming-oc16gb-gddr6-256-bit-rdna-4-architecture-graphics-card/"
   },
   {
