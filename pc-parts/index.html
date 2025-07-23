@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>GPU Tracker</title>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="../banner.jpg" alt="Manong Unboxing Banner">
+    <h1>GPU Tracker</h1>
+    <p class="disclaimer">
+      Data from PH online sellers – GPU only for now. Prices and availability may change anytime.
+    </p>
+    <nav>
+      <a href="index.html">📊 Table</a>
+      <a href="graphs.html">📈 Graphs</a>
+      <a href="summary.html">🧾 Summary</a>
+      <a href="../index.html">← Back to manong.dev</a>
+    </nav>
+  </header>
+
+  <input type="text" id="globalSearch" placeholder="Search all columns..." />
+
+  <table id="gpuTable" class="display" style="width:90%; margin: auto;">
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Model</th>
+        <th>Description</th>
+        <th>Shop</th>
+        <th>Price</th>
+        <th>Availability</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+  <script src="table.js"></script>
+</body>
+</html>
