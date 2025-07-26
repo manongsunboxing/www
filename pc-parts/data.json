@@ -778,7 +778,7 @@
     "model": "RTX5060TI-16GB",
     "description": "MSI GeForce RTX 5060 Ti 16GB VENTUS 2X OC PLUS Graphics Card",
     "shop": "bermorzone",
-    "price": 29995.0,
+    "price": 28950.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5060-ti-16gb-ventus-2x-oc-non-oc-plus-graphics-card/"
   },
@@ -1879,15 +1879,6 @@
     "price": 56895.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-plus-gddr7-graphics-card/"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI GeForce RTX 5070 Ti 16GB GAMING TRIO OC GDDR7 Graphics Card",
-    "shop": "bermorzone",
-    "price": 59950.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-plus-gddr7-graphics-card/"
   },
   {
     "category": "GPU",
@@ -7409,6 +7400,15 @@
   {
     "category": "GPU",
     "model": "RTX5070TI",
+    "description": "MSI GeForce RTX 5070 Ti 16GB GAMING TRIO OC GDDR7 Graphics Card",
+    "shop": "bermorzone",
+    "price": 59950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-plus-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
     "description": "MSI GeForce RTX 5070 Ti 16GB INSPIRE 3X OC PLUS GDDR7 Graphics Card",
     "shop": "bermorzone",
     "price": 57950.0,
@@ -7630,6 +7630,15 @@
     "price": 16000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5050-stormx-8gb-gddr6-oc-non-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "Palit GeForce RTX 5060 White OC 8GB GDDR7 Graphics Card",
+    "shop": "bermorzone",
+    "price": 19910.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5060-white-oc-8gb-gddr7-graphics-card/"
   },
   {
     "category": "GPU",
@@ -8501,7 +8510,7 @@
     "description": "Gigabyte GeForce RTX 4060 Eagle OC 8GB Graphics Card (GV-N4060EAGLE-OC-8GD)",
     "shop": "datablitz",
     "price": 18795.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-eagle-oc-8gb-graphics-card-gv-n4060eagle-oc-8gd"
   },
   {
@@ -8582,7 +8591,7 @@
     "description": "Sapphire Pure AMD Radeon RX 7700 XT Gaming OC 12GB GDDR6 Dual HDMI/Dual DP Graphics CARD",
     "shop": "datablitz",
     "price": 28650.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/sapphire-nitro-amd-radeon-rx-7700-xt-gaming-oc-12gb-gddr6-dual-hdmi-dual-dp-graphics-card"
   },
   {
@@ -8636,7 +8645,7 @@
     "description": "Gigabyte GeForce RTX 5070 Ti Windforce SFF 16GB GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 54995.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5070-ti-windforce-sff-16gb-gddr7-graphics-card"
   },
   {
@@ -9226,6 +9235,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5080",
     "description": "Manli Polar Fox GeForce RTX 5080 OC 16GB GDDR7 RGB Triple Cooler Graphics Card (M-N508PO/D716G-M3630)",
     "shop": "datablitz",
@@ -9256,7 +9274,7 @@
     "model": "RTX3050-6GB",
     "description": "MSI Geforce RTX 3050 Ventus 2X 6GB OC GDDR6 Graphics Card",
     "shop": "datablitz",
-    "price": 11050.0,
+    "price": 10895.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-3050-ventus-2x-6gb-oc-gddr6-graphics-card-1"
   },
@@ -9383,7 +9401,7 @@
     "description": "Gigabyte GeForce RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 84950.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5080-aero-oc-sff-16gb-gddr7-graphics-card"
   },
   {
@@ -9484,15 +9502,6 @@
     "price": 18250.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-8gb-solo-gddr7-graphics-card-zt-b50600g-10l"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 28995.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -10486,6 +10495,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060",
+    "description": "Gigabyte GeForce RTX 5060 Gaming OC 8GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 21650.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5060-gaming-oc-8gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "AYANEO-7600M",
     "description": "Ayaneo Starship Graphics Dock AMD Radeon RX 7600M XT (Nebula Red)",
     "shop": "datablitz",
@@ -10625,7 +10643,7 @@
     "description": "Gigabyte GeForce RTX 5070 Ti Eagle OC Ice SFF 16GB GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 65950.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb-gddr7-graphics-card"
   },
   {
@@ -11575,6 +11593,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 50895.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-ti-gamingpro-s-16gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9060XT-16GB",
     "description": "Sapphire Nitro+ AMD Radeon RX 9060 XT Gaming OC 16GB Dual HDMI Graphics Card",
     "shop": "datablitz",
@@ -11698,15 +11725,6 @@
     "price": 56950.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-strix-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "Gigabyte GeForce RTX 5060 Gaming OC 8GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 21650.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5060-gaming-oc-8gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -12619,6 +12637,24 @@
   },
   {
     "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "ColorFul GeForce RTX 3050 6GB V4-V GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 9550.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3050-6gb-v4-v-gddr6-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Asus ROG Astral Geforce RTX 5090 OC 32GB GDDR7 Gaming Graphics Card + Asus ROG Thor 1000W Platinum III Gaming Power Supply Bundle",
+    "shop": "datablitz",
+    "price": 229990.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-astral-geforce-rtx-5090-oc-32gb-gddr7-gaming-graphics-card-asus-rog-thor-1000w-platinum-iii-gaming-power-supply-bundle"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5050",
     "description": "INNO3D GeForce RTX 5050 TWIN X2 8GB GDDR6 Graphics Card (N50502-08D6-174071N)",
     "shop": "datablitz",
@@ -12643,15 +12679,6 @@
     "price": 17995.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5050-gaming-oc-8gb-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 50895.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-ti-gamingpro-s-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -13681,29 +13708,11 @@
   },
   {
     "category": "GPU",
-    "model": "RTX3080",
-    "description": "ZOTAC GAMING GeForce RTX 3080 Trinity OC LHR 12GB GDDR6X Graphics Card (ZT-A30820J-10PLHR)",
-    "shop": "datablitz",
-    "price": 56995.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3080-trinity-oc-lhr-12gb-gddr6x-graphics-card-zt-a30820j-10plhr"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3070TI",
-    "description": "Asus TUF RTX 3070TI 8G Gaming Graphics Card",
-    "shop": "datablitz",
-    "price": 48995.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-rtx-3070ti-8g-gaming-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RX9060XT-16GB",
     "description": "Sapphire PULSE AMD Radeon RX 9060 XT Gaming OC 16GB DUAL HDMI / DP LITE SPR-11350-03-20G Graphics Card",
     "shop": "dynaquest",
     "price": 24950.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/sapphire-pulse-amd-radeon-rx-9060-xt-gaming-oc-16gb-dual-hdmi-dp-lite-spr-11350-03-20g-for-pc-build"
   },
   {
@@ -14270,7 +14279,7 @@
     "description": "Asus TUF Gaming RX 9060 XT 16GB OC TUF-RTX9060XT-O16-GAMING Graphics Card",
     "shop": "dynaquest",
     "price": 31270.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/asus-tuf-gaming-rx-9060-xt-16gb-oc-tuf-rtx9060xt-o16-gaming-graphics-card"
   },
   {
@@ -14315,7 +14324,7 @@
     "description": "Gigabyte  RX 9060 XT Gaming 8G GV-R9060XTGAMING-8GD Graphics Card",
     "shop": "dynaquest",
     "price": 21730.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/gigabyte-rx-9060-xt-gaming-8g-gv-r9060xtgaming-8gd-graphics-card"
   },
   {
@@ -16039,15 +16048,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI GEFORCE RTX 5070 TI 16G SHADOW 3X OC (912-V531-097)",
-    "shop": "itworld",
-    "price": 53499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-912-v531-097-15634?page=5&category=172"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5060TI-8GB",
     "description": "Zotac Gaming RTX 5060 Ti Twin Edge 8GB GDDR7 Geforce Graphic Card (ZT-B50610H-10M)",
     "shop": "itworld",
@@ -16152,7 +16152,7 @@
     "shop": "itworld",
     "price": 43899.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9070-sl-16go-asrock-rx9070-16gb-gddr6-steel-legend-amd-radeon-graphic-card-15798?page=6&category=172"
+    "link": "https://www.itworldph.com/shop/rx9070-sl-16go-asrock-rx9070-16gb-gddr6-steel-legend-amd-radeon-graphic-card-15798?page=5&category=172"
   },
   {
     "category": "GPU",
@@ -16216,6 +16216,15 @@
     "price": 29999.0,
     "availability": "In Stock",
     "link": "https://www.itworldph.com/shop/gv-n506twf2-16gd-gigabyte-rtx5060ti-windforce-sff-16gb-graphics-card-15842?page=6&category=172"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "Itw | Colorful RTX 5060 OC 16GB-V TI Ultra W Duo  NVIDIA GeForce Graphics Card",
+    "shop": "itworld",
+    "price": 32439.0,
+    "availability": "In Stock",
+    "link": "https://www.itworldph.com/shop/igame-geforce-rtx-5060-ti-ultra-w-duo-oc-16gb-v-itw-colorful-rtx-5060-oc-16gb-v-ti-ultra-w-duo-nvidia-geforce-graphics-card-15857?page=6&category=172"
   },
   {
     "category": "GPU",
@@ -16582,9 +16591,27 @@
     "model": "RTX5070TI",
     "description": "PALIT RTX5070 Ti GamingPro-S 16GB GDDR7",
     "shop": "itworld",
-    "price": 55999.0,
+    "price": 49949.0,
     "availability": "In Stock",
     "link": "https://www.itworldph.com/shop/ne7507t019t2-gb2031u-palit-rtx5070-ti-gamingpro-s-16gb-gddr7-17156?page=8&category=172"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT",
+    "description": "XFX RX-96TS316W7 RX 9060XT OC WHITE TRIPLE FAN",
+    "shop": "itworld",
+    "price": 29999.0,
+    "availability": "In Stock",
+    "link": "https://www.itworldph.com/shop/rx-96ts316w7-xfx-rx-96ts316w7-rx-9060xt-oc-white-triple-fan-17189?page=8&category=172"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT",
+    "description": "XFX RX-96TS316B7 RX 9060XT OC TRIPLE FAN",
+    "shop": "itworld",
+    "price": 30199.0,
+    "availability": "In Stock",
+    "link": "https://www.itworldph.com/shop/rx-96ts316b7-xfx-rx-96ts316b7-rx-9060xt-oc-triple-fan-17190?page=8&category=172"
   },
   {
     "category": "GPU",
@@ -17951,7 +17978,7 @@
     "description": "SAPPHIRE PURE AMD Radeon RX 9070 16GB GDDR6 RDNA 4 Gaming GPU \u2013 11349-02-20G...",
     "shop": "netcodex",
     "price": 41995.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://netcodex.ph/product/sapphire-pure-amd-radeon-rx-9070-16gb-gddr6-rdna-4-gaming-gpu-11349-02-20g/"
   },
   {
@@ -21898,6 +21925,24 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5050",
+    "description": "8G Palit RTX 5050 Dual, pn: NE65050019P1-GB2070D",
+    "shop": "pchub",
+    "price": 16150.0,
+    "availability": "In Stock",
+    "link": "https://www.pchubonline.com/products?category=2&page=1"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "8G Palit RTX 5050 Dual OC, pn: NE65050S19P1-GB2070D",
+    "shop": "pchub",
+    "price": 16850.0,
+    "availability": "In Stock",
+    "link": "https://www.pchubonline.com/products?category=2&page=1"
+  },
+  {
+    "category": "GPU",
     "model": "RTX3050-6GB",
     "description": "6G Asus RTX 3050 Dual OC, pn: DUAL-RTX3050-O6G",
     "shop": "pchub",
@@ -22002,7 +22047,7 @@
     "shop": "pchub",
     "price": 49999.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
+    "link": "https://www.pchubonline.com/products?category=2&page=2"
   },
   {
     "category": "GPU",
@@ -22011,7 +22056,7 @@
     "shop": "pchub",
     "price": 49999.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
+    "link": "https://www.pchubonline.com/products?category=2&page=2"
   },
   {
     "category": "GPU",
@@ -22254,7 +22299,7 @@
     "shop": "pchub",
     "price": 35699.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
+    "link": "https://www.pchubonline.com/products?category=2&page=3"
   },
   {
     "category": "GPU",
@@ -22263,7 +22308,7 @@
     "shop": "pchub",
     "price": 21399.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
+    "link": "https://www.pchubonline.com/products?category=2&page=3"
   },
   {
     "category": "GPU",
@@ -22506,7 +22551,7 @@
     "shop": "pchub",
     "price": 86199.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
+    "link": "https://www.pchubonline.com/products?category=2&page=4"
   },
   {
     "category": "GPU",
@@ -22515,7 +22560,7 @@
     "shop": "pchub",
     "price": 87699.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
+    "link": "https://www.pchubonline.com/products?category=2&page=4"
   },
   {
     "category": "GPU",
@@ -22758,7 +22803,7 @@
     "shop": "pchub",
     "price": 28550.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
+    "link": "https://www.pchubonline.com/products?category=2&page=5"
   },
   {
     "category": "GPU",
@@ -22767,7 +22812,7 @@
     "shop": "pchub",
     "price": 29850.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
+    "link": "https://www.pchubonline.com/products?category=2&page=5"
   },
   {
     "category": "GPU",
@@ -23010,7 +23055,7 @@
     "shop": "pchub",
     "price": 35299.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
+    "link": "https://www.pchubonline.com/products?category=2&page=6"
   },
   {
     "category": "GPU",
@@ -23019,7 +23064,7 @@
     "shop": "pchub",
     "price": 37399.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
+    "link": "https://www.pchubonline.com/products?category=2&page=6"
   },
   {
     "category": "GPU",
@@ -23262,7 +23307,7 @@
     "shop": "pchub",
     "price": 68750.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
+    "link": "https://www.pchubonline.com/products?category=2&page=7"
   },
   {
     "category": "GPU",
@@ -23271,7 +23316,7 @@
     "shop": "pchub",
     "price": 63799.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
+    "link": "https://www.pchubonline.com/products?category=2&page=7"
   },
   {
     "category": "GPU",
@@ -23514,7 +23559,7 @@
     "shop": "pchub",
     "price": 30999.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
+    "link": "https://www.pchubonline.com/products?category=2&page=8"
   },
   {
     "category": "GPU",
@@ -23523,7 +23568,7 @@
     "shop": "pchub",
     "price": 37650.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
+    "link": "https://www.pchubonline.com/products?category=2&page=8"
   },
   {
     "category": "GPU",
@@ -23766,7 +23811,7 @@
     "shop": "pchub",
     "price": 30299.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
+    "link": "https://www.pchubonline.com/products?category=2&page=9"
   },
   {
     "category": "GPU",
@@ -23775,7 +23820,7 @@
     "shop": "pchub",
     "price": 31599.0,
     "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
+    "link": "https://www.pchubonline.com/products?category=2&page=9"
   },
   {
     "category": "GPU",
@@ -24691,7 +24736,7 @@
     "model": "RTX4060",
     "description": "MSI GeForce RTX\u2122  4060 VENTUS 2X OC 8GB GDDR6 128-bit Graphics Card",
     "shop": "pcx",
-    "price": 20150.0,
+    "price": 19350.0,
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/msi-geforce-rtx-4060-ventus-2x-oc-8gb-gddr6-128-bit-graphics-card"
   },
@@ -24943,7 +24988,7 @@
     "model": "RTX3050-8GB",
     "description": "GIGABYTE GeForce RTX\u2122  3050 WINDFORCE OC V2 8G GDDR6 128-bit Graphics Card",
     "shop": "pcx",
-    "price": 13350.0,
+    "price": 13150.0,
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/gigabyte-geforce-rtx-3050-windforce-oc-v2-8g-gddr6-128-bit-graphics-card"
   },
@@ -24979,7 +25024,7 @@
     "model": "RTX3050-6GB",
     "description": "GIGABYTE GeForce RTX\u2122 3050 WINDFORCE OC V2 6GB GDDR6 96-bit Graphics Card",
     "shop": "pcx",
-    "price": 10950.0,
+    "price": 10700.0,
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/gigabyte-geforce-rtx-3050-windforce-oc-v2-6gb-gddr6-96-bit-graphics-card"
   },
