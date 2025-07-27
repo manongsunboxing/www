@@ -5010,12 +5010,12 @@
       {
         "model": "RTX4060TI-8GB",
         "date": "2025-07-27",
-        "price": 22650.0,
+        "price": 19999.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-4060-ti-nb-duo-8gb-v-gddr6-graphics-card",
-            "name": "Colorful Geforce RTX 4060 TI NB Duo 8GB-V GDDR6 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=3",
+            "name": "8G MSI RTX 4060Ti Gaming X Slim x Force GC30 Monster Hunter, pn: 912-V515-209"
           }
         ]
       }
@@ -5528,12 +5528,12 @@
       {
         "model": "RTX3050-6GB",
         "date": "2025-07-27",
-        "price": 9550.0,
+        "price": 9499.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3050-6gb-v4-v-gddr6-graphics-card",
-            "name": "ColorFul GeForce RTX 3050 6GB V4-V GDDR6 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=1",
+            "name": "6G Palit RTX 3050 Storm X, pn: NE63050018JE-1072F"
           }
         ]
       }
@@ -6602,12 +6602,17 @@
       {
         "model": "RX9070XT",
         "date": "2025-07-27",
-        "price": 46000.0,
+        "price": 45699.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-reaper-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/",
-            "name": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=8",
+            "name": "Sapphire Radeon RX 9070XT Pulse, pn: SPR-11348-03-20G"
+          },
+          {
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=9",
+            "name": "ASRock Radeon RX 9070XT Steel Legend, pn: RX9070XT SL 16G"
           }
         ]
       }
@@ -8221,12 +8226,12 @@
       {
         "model": "RTX3050-8GB",
         "date": "2025-07-27",
-        "price": 12799.0,
+        "price": 11999.0,
         "stores": [
           {
-            "store": "itworld",
-            "link": "https://www.itworldph.com/shop/gv-n3050wf2ocv2-8gd-itw-gigabyte-rtx-3050-8gb-gddr6-oc-windforce-v2-geforce-graphic-card-16473?page=7&category=172",
-            "name": "Itw | Gigabyte RTX 3050 8GB GDDR6 OC WINDFORCE V2 Geforce Graphic Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=3",
+            "name": "8G MSI RTX 3050 Ventus 2X XS OC, pn: 912-V809-4266"
           }
         ]
       }
@@ -8739,12 +8744,12 @@
       {
         "model": "RTX5070",
         "date": "2025-07-27",
-        "price": 36895.0,
+        "price": 35299.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-graphics-card",
-            "name": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "Zotac RTX 5070 Twin Edge OC, pn: ZT-B50700H-10P"
           }
         ]
       }
@@ -11305,12 +11310,12 @@
       {
         "model": "RTX4070TI",
         "date": "2025-07-27",
-        "price": 42950.0,
+        "price": 40999.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-4070-ti-gamingpro-white-oc-12gb-gddr6x-graphics-card/",
-            "name": "Palit GeForce RTX 4070 Ti GamingPro White OC 12GB GDDR6X Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=1",
+            "name": "Inno3d RTX 4070Ti X3, pn: N407T3-126X-186148N"
           }
         ]
       }
@@ -17977,12 +17982,12 @@
       {
         "model": "RTX5060",
         "date": "2025-07-27",
-        "price": 18250.0,
+        "price": 18199.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-8gb-solo-gddr7-graphics-card-zt-b50600g-10l",
-            "name": "Zotac Gaming GeForce RTX 5060 8GB Solo GDDR7 Graphics Card (ZT-B50600G-10L)"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "8G Zotac RTX 5060 Solo, pn: ZT-B50600G-10L"
           }
         ]
       }
@@ -19591,12 +19596,12 @@
       {
         "model": "GT730-2GB",
         "date": "2025-07-27",
-        "price": 3600.0,
+        "price": 1599.0,
         "stores": [
           {
-            "store": "pcx",
-            "link": "https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card",
-            "name": "ASUS GeForce\u00ae  GT 730 2GB GDDR5 64-bit Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=8",
+            "name": "2gb Ramsta GT730 ddr3 128bit"
           }
         ]
       }
@@ -23057,12 +23062,12 @@
       {
         "model": "RTX5060TI-16GB",
         "date": "2025-07-27",
-        "price": 28950.0,
+        "price": 26099.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5060-ti-16gb-ventus-2x-oc-non-oc-plus-graphics-card/",
-            "name": "MSI GeForce RTX 5060 Ti 16GB VENTUS 2X OC PLUS Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "16G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50620E-10M"
           }
         ]
       }
@@ -24081,12 +24086,12 @@
       {
         "model": "RX9060XT-8GB",
         "date": "2025-07-27",
-        "price": 20699.0,
+        "price": 20299.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-pulse-amd-radeon-rx-9060-xt-8gb-16gb-gddr6-graphics-card/",
-            "name": "Sapphire PULSE AMD Radeon RX 9060 XT Gaming OC 8GB | 16GB GDDR6 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=9",
+            "name": "8G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 8GO"
           }
         ]
       }
