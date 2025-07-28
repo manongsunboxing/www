@@ -1321,6 +1321,11 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v/",
             "name": "Colorful GeForce RTX 3060 NB DUO 12G V2 L-V Video Card"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v-gddr6-graphics-card",
+            "name": "Colorful GeForce RTX 3060 NB DUO 12G V2 L-V GDDR6 Graphics Card"
           }
         ]
       }
@@ -5133,12 +5138,12 @@
       {
         "model": "RTX4060TI-8GB",
         "date": "2025-07-28",
-        "price": 22950.0,
+        "price": 19999.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/colorful-igame-geforce-rtx-4060-ti-nb-duo-8gb-v-graphics-card/",
-            "name": "Colorful GeForce RTX 4060 TI NB DUO 8GB-V Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=3",
+            "name": "8G MSI RTX 4060Ti Gaming X Slim x Force GC30 Monster Hunter, pn: 912-V515-209"
           }
         ]
       }
@@ -5663,12 +5668,12 @@
       {
         "model": "RTX3050-6GB",
         "date": "2025-07-28",
-        "price": 9695.0,
+        "price": 9499.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-3050-stormx-8gb-gddr6-128bit-graphics-card/",
-            "name": "Palit GeForce RTX 3050 StormX 6GB | 8GB GDDR6 128Bit Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=1",
+            "name": "6G Palit RTX 3050 Storm X, pn: NE63050018JE-1072F"
           }
         ]
       }
@@ -6761,12 +6766,12 @@
       {
         "model": "RX9070XT",
         "date": "2025-07-28",
-        "price": 45650.0,
+        "price": 44995.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-pulse-amd-radeon-rx-9070-xt-16gb-graphics-card/",
-            "name": "Sapphire PULSE AMD Radeon RX 9070 XT 16GB Graphics Card SPR-11348-03-20G"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-rdna-4-gaming-gpu-11348-03-20g/",
+            "name": "SAPPHIRE PULSE AMD Radeon RX 9070 XT 16GB GDDR6 RDNA 4 Gaming GPU \u2013 11348-03-20G..."
           }
         ]
       }
@@ -7892,6 +7897,11 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/colorful-igame-geforce-rtx-3070-ti-ultra-w-oc-8g-v/",
             "name": "Colorful iGame GeForce RTX 3070 Ti Ultra W OC 8G-V Video Card"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-3070-ti-ultra-w-oc-8g-v-gddr6x-graphics-card",
+            "name": "Colorful iGame GeForce RTX 3070 Ti Ultra W OC 8G-V GDDR6X Graphics Card"
           }
         ]
       }
@@ -8416,12 +8426,12 @@
       {
         "model": "RTX3050-8GB",
         "date": "2025-07-28",
-        "price": 12799.0,
+        "price": 11999.0,
         "stores": [
           {
-            "store": "itworld",
-            "link": "https://www.itworldph.com/shop/gv-n3050wf2ocv2-8gd-itw-gigabyte-rtx-3050-8gb-gddr6-oc-windforce-v2-geforce-graphic-card-16473?page=7&category=172",
-            "name": "Itw | Gigabyte RTX 3050 8GB GDDR6 OC WINDFORCE V2 Geforce Graphic Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=3",
+            "name": "8G MSI RTX 3050 Ventus 2X XS OC, pn: 912-V809-4266"
           }
         ]
       }
@@ -8946,17 +8956,12 @@
       {
         "model": "RTX5070",
         "date": "2025-07-28",
-        "price": 36950.0,
+        "price": 35299.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-192-bit-oc-non-oc-graphics-card/",
-            "name": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 192-Bit OC | NON-OC Graphics Card"
-          },
-          {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-gddr7-192-bit-graphics-card/",
-            "name": "Zotac GAMING GeForce RTX 5070 Twin Edge OC 12GB GDDR7 192-bit Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "Zotac RTX 5070 Twin Edge OC, pn: ZT-B50700H-10P"
           }
         ]
       }
@@ -10505,12 +10510,12 @@
       {
         "model": "RX6800",
         "date": "2025-07-27",
-        "price": 28395.0,
+        "price": 26220.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/xfx-radeon-rx-6800-speedster-swft-319-core-gaming-graphics-card-rx-68xlaqfd9/",
-            "name": "XFX Radeon RX 6800 Speedster SWFT 319 CORE Gaming Graphics Card \u2013 RX-68XLAQFD9..."
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+            "name": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
           }
         ]
       },
@@ -11577,12 +11582,12 @@
       {
         "model": "RTX4070TI",
         "date": "2025-07-28",
-        "price": 42950.0,
+        "price": 40999.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-4070-ti-gamingpro-white-oc-12gb-gddr6x-graphics-card/",
-            "name": "Palit GeForce RTX 4070 Ti GamingPro White OC 12GB GDDR6X Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=1",
+            "name": "Inno3d RTX 4070Ti X3, pn: N407T3-126X-186148N"
           }
         ]
       }
@@ -12662,12 +12667,12 @@
       {
         "model": "RX9070",
         "date": "2025-07-28",
-        "price": 39000.0,
+        "price": 38995.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/xfx-swift-amd-radeon-rx-9070-oc-16gb-triple-fan-gaming-edition-graphics-card/",
-            "name": "XFX Swift AMD Radeon RX 9070 OC 16GB Triple Fan Gaming Edition Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9070-oc-triple-90mm-fan-gaming-edition-graphics-card-16gb-gddr6-2700mhz-boost-rdna-4-rx-97swft3b7/",
+            "name": "XFX Swift AMD Radeon RX 9070 OC Triple 90mm Fan Gaming Edition Graphics Card 16GB GDDR6 2700MHz Boos..."
           }
         ]
       }
@@ -14240,12 +14245,12 @@
       {
         "model": "GTX1650",
         "date": "2025-07-28",
-        "price": 7850.0,
+        "price": 7795.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/zotac-gaming-geforce-gtx-1650-amp-core-gddr6-graphics-card/",
-            "name": "ZOTAC GAMING GeForce GTX 1650 AMP Core GDDR6 Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1650-amp-core-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520j-10l/",
+            "name": "ZOTAC Gaming GeForce GTX 1650 AMP CORE 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16..."
           }
         ]
       }
@@ -18410,12 +18415,12 @@
       {
         "model": "RTX5060",
         "date": "2025-07-28",
-        "price": 18950.0,
+        "price": 18199.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5060-dual-8gb-gddr7-128-bit-oc-non-oc-graphics-card/",
-            "name": "Palit GeForce RTX 5060 Dual 8GB GDDR7 128 bit OC | Non OC Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "8G Zotac RTX 5060 Solo, pn: ZT-B50600G-10L"
           }
         ]
       }
@@ -19006,6 +19011,11 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-pulse-amd-radeon-rx-6500-xt-video-card/",
             "name": "Sapphire PULSE AMD Radeon RX 6500 XT Gaming OC Video Card"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-6500-xt-gaming-oc-4gb-gddr6-graphics-card",
+            "name": "Sapphire Pulse AMD Radeon RX 6500 XT Gaming OC 4GB GDDR6 Graphics Card"
           }
         ]
       }
@@ -19530,12 +19540,12 @@
       {
         "model": "GT1030-2GB",
         "date": "2025-07-28",
-        "price": 3850.0,
+        "price": 3295.0,
         "stores": [
           {
-            "store": "pinklehub",
-            "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-ddr4",
-            "name": "GALAX GeForce\u00ae GT 1030 DDR4 2GB DDR4 64-bit HDMI 2.0b/DVI-D"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-2g-v3-v-graphics-card-2gb-gddr5-64-bit-memory-bus/",
+            "name": "Colorful GT1030 2G V3-V Graphics Card (2GB GDDR5, 64-bit memory bus)..."
           }
         ]
       }
@@ -20060,12 +20070,12 @@
       {
         "model": "GT730-2GB",
         "date": "2025-07-28",
-        "price": 3600.0,
+        "price": 1599.0,
         "stores": [
           {
-            "store": "pcx",
-            "link": "https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card",
-            "name": "ASUS GeForce\u00ae  GT 730 2GB GDDR5 64-bit Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=8",
+            "name": "2gb Ramsta GT730 ddr3 128bit"
           }
         ]
       }
@@ -23610,12 +23620,12 @@
       {
         "model": "RTX5060TI-16GB",
         "date": "2025-07-28",
-        "price": 28950.0,
+        "price": 26099.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5060-ti-16gb-ventus-2x-oc-non-oc-plus-graphics-card/",
-            "name": "MSI GeForce RTX 5060 Ti 16GB VENTUS 2X OC PLUS Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=6",
+            "name": "16G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50620E-10M"
           }
         ]
       }
@@ -24658,12 +24668,12 @@
       {
         "model": "RX9060XT-8GB",
         "date": "2025-07-28",
-        "price": 20699.0,
+        "price": 20299.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/sapphire-pulse-amd-radeon-rx-9060-xt-8gb-16gb-gddr6-graphics-card/",
-            "name": "Sapphire PULSE AMD Radeon RX 9060 XT Gaming OC 8GB | 16GB GDDR6 Graphics Card"
+            "store": "pchub",
+            "link": "https://www.pchubonline.com/products?category=2&page=9",
+            "name": "8G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 8GO"
           }
         ]
       }
@@ -27615,17 +27625,12 @@
       {
         "model": "RX6750XT",
         "date": "2025-07-28",
-        "price": 23950.0,
+        "price": 23295.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/xfx-speedster-qick-319-amd-radeon-rx-6750-xt-core-12gb-gddr6-gaming-graphics-card/",
-            "name": "XFX SPEEDSTER QICK 319 AMD Radeon RX 6750 XT Core 12GB GDDR6 Gaming Graphics Card RX-675XYJFDP"
-          },
-          {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/gigabyte-gaming-oc-rx-6750-xt-12gb-gddr6-video-card-gv-r675xtgaming-oc-12gd/",
-            "name": "GIGABYTE Gaming OC RX 6750 XT 12GB GDDR6 Video Card GV-R675XTGAMING OC-12GD"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-radeon-rx-6750-xt-speedster-qick-319-core-gaming-graphics-card-rx-675xyjfdp/",
+            "name": "XFX Radeon RX 6750 XT SPEEDSTER QICK 319 Core Gaming Graphics Card \u2013 RX-675XYJFDP..."
           }
         ]
       }
@@ -29550,12 +29555,12 @@
       {
         "model": "GT1030-4GB",
         "date": "2025-07-28",
-        "price": 4500.0,
+        "price": 4295.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-gt-1030-4gd4-lp-oc-4gb-ddr4-graphics-card/",
-            "name": "MSI GeForce GT 1030 4GD4 LP OC 4GB DDR4 Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-4g-v-graphics-card-4gb-gddr5-64-bit-memory-bus/",
+            "name": "Colorful GT1030 4G-V Graphics Card (4GB GDDR5, 64-bit memory bus)..."
           }
         ]
       }
@@ -32624,12 +32629,12 @@
       {
         "model": "RTX3060",
         "date": "2025-07-27",
-        "price": 20950.0,
+        "price": 19200.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-rog-strix-nvidia-geforce-rtx-3060-oc-edition-gaming-graphics-card/",
-            "name": "ASUS ROG Strix GeForce RTX 3060 OC Edition Gaming Graphics Card"
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-zt-a30600e-10m",
+            "name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge (ZT-A30600E-10M)"
           }
         ]
       },
@@ -39582,6 +39587,18 @@
             "name": "Ayaneo Starship Graphics Dock AMD Radeon RX 7600M XT (Nebula Red)"
           }
         ]
+      },
+      {
+        "model": "AYANEO-7600M",
+        "date": "2025-07-28",
+        "price": 29995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/ayaneo-starship-graphics-dock-amd-radeon-rx-7600m-xt-nebula-red",
+            "name": "Ayaneo Starship Graphics Dock AMD Radeon RX 7600M XT (Nebula Red)"
+          }
+        ]
       }
     ],
     "RX580-8GB": [
@@ -40104,12 +40121,12 @@
       {
         "model": "RX580-8GB",
         "date": "2025-07-28",
-        "price": 5995.0,
+        "price": 5195.0,
         "stores": [
           {
-            "store": "easypc",
-            "link": "https://easypc.com.ph/products/biostar-rx-580-va5805rv82-dual-cooling-fan-8gb-256bit-gddr5-gaming-videocard",
-            "name": "Biostar Rx 580 VA5805RV82 Dual Cooling Fan 8gb 256bit GDdr5 Gaming Videocard"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/ramsta-rx580-jx-dual-fan-8-gb-gddr5-256-bit-graphics-card/",
+            "name": "Ramsta RX580 JX Dual Fan 8 GB GDDR5 256-bit Graphics Card..."
           }
         ]
       }
@@ -40995,6 +41012,23 @@
             "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
           }
         ]
+      },
+      {
+        "model": "GTX1050",
+        "date": "2025-07-28",
+        "price": 7349.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card-2/",
+            "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
+          },
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/",
+            "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
+          }
+        ]
       }
     ],
     "RX550": [
@@ -41357,6 +41391,18 @@
             "name": "PowerColor AMD Radeon RX 550 Low Profile Graphics Card with 2GB GDDR5 Memory..."
           }
         ]
+      },
+      {
+        "model": "RX550",
+        "date": "2025-07-28",
+        "price": 2995.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/powercolor-amd-radeon-rx-550-low-profile-graphics-card-with-2gb-gddr5-memory/",
+            "name": "PowerColor AMD Radeon RX 550 Low Profile Graphics Card with 2GB GDDR5 Memory..."
+          }
+        ]
       }
     ],
     "T2000": [
@@ -41670,12 +41716,12 @@
       {
         "model": "RTX5050",
         "date": "2025-07-28",
-        "price": 16000.0,
+        "price": 15995.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-5050-stormx-8gb-gddr6-oc-non-oc-graphics-card/",
-            "name": "Palit GeForce RTX 5050 StormX 8GB GDDR6 OC | Non OC Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/palit-geforce-rtx-5050-dual-8gb-gddr6-2572mhz-2560-cuda-128-bit-pcie-5-0-hdmi-2-1b-dp2-1b-ne65050019p1-gb2070d/",
+            "name": "Palit GeForce RTX 5050 Dual 8GB GDDR6 2572MHz 2560 CUDA 128-bit PCIe 5.0 HDMI 2.1b DP2.1b \u2013 NE..."
           }
         ]
       }
