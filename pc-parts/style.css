@@ -109,3 +109,19 @@ canvas {
   background-color: #222;
   border: 1px solid #444;
 }
+
+@media (max-width: 600px) {
+  header img {
+    max-height: 150px;
+  }
+  nav {
+    flex-direction: column;
+  }
+  #globalSearch {
+    width: 90%;
+  }
+  table.dataTable {
+    width: 100% !important;
+    font-size: 0.8rem;
+  }
+}
