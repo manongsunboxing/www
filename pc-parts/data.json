@@ -2260,15 +2260,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX4080S",
-    "description": "ZOTAC GAMING GeForce RTX 4080 SUPER Trinity OC White Edition 16GB GDDR6X Video Card",
-    "shop": "bermorzone",
-    "price": 60995.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/zotac-gaming-geforce-rtx-4080-super-trinity-oc-white-edition-16gb-gddr6x-video-card/"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5060",
     "description": "ZOTAC GAMING GeForce RTX 5060 AMP 8GB GDDR7 128-bit Graphics Card",
     "shop": "bermorzone",
@@ -8200,6 +8191,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX4080S",
+    "description": "ZOTAC GAMING GeForce RTX 4080 SUPER Trinity OC White Edition 16GB GDDR6X Video Card",
+    "shop": "bermorzone",
+    "price": 60995.0,
+    "availability": "Out of Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/zotac-gaming-geforce-rtx-4080-super-trinity-oc-white-edition-16gb-gddr6x-video-card/"
+  },
+  {
+    "category": "GPU",
     "model": "RTX4090",
     "description": "Zotac Gaming GeForce RTX 4090 AMP Extreme AIRO White Edition Graphics Card ZT-D40900K-10P",
     "shop": "bermorzone",
@@ -8708,7 +8708,7 @@
     "description": "Gigabyte GeForce RTX 4060 Ti Gaming OC 16GB GDDR6 Graphics Card",
     "shop": "datablitz",
     "price": 29695.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-16gb-gddr6-graphics-card"
   },
   {
@@ -8717,7 +8717,7 @@
     "description": "Zotac Gaming GeForce RTX 3060 Twin Edge 8GB GDDR6 Graphics Card (ZT-A30630E-10M)",
     "shop": "datablitz",
     "price": 15950.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3060-twin-edge-8gb-gddr6-graphics-card-zt-a30630e-10m"
   },
   {
@@ -9694,6 +9694,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "Asus Prime AMD Radeon RX 9060 XT OC 16GB GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 28950.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-amd-radeon-rx-9060-xt-oc-16gb-gddr6-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5060",
     "description": "Gigabyte GeForce RTX 5060 Windforce OC 8GB GDDR7 Graphics Card",
     "shop": "datablitz",
@@ -9916,15 +9925,6 @@
     "price": 30995.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-amd-radeon-rx-9060-xt-oc-16gb-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "Asus Prime AMD Radeon RX 9060 XT OC 16GB GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 28950.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-amd-radeon-rx-9060-xt-oc-16gb-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -10283,7 +10283,7 @@
     "description": "Asus ROG Astral GeForce RTX 5090 OC 32GB GDDR7 Gaming Graphics Card",
     "shop": "datablitz",
     "price": 205895.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-astral-geforce-rtx-5090-oc-32gb-gddr7-gaming-graphics-card"
   },
   {
@@ -10987,6 +10987,15 @@
     "price": 47350.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/xfx-swift-amd-radeon-rx-9070-xt-triple-fan-16gb-gddr6-gaming-ed-graphics-card-white-rx-97tswf3w9"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI GeForce RTX 5090 32GB GDDR7 Suprim SOC Graphics Card",
+    "shop": "datablitz",
+    "price": 164950.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-suprim-soc-graphics-card"
   },
   {
     "category": "GPU",
@@ -11723,7 +11732,7 @@
     "description": "XFX QuickSilver AMD Radeon RX 9070 XT 16GB GDDR6 Gaming Ed. Graphics Card (RX-97TQICKB9)",
     "shop": "datablitz",
     "price": 47350.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/xfx-quicksilver-amd-radeon-rx-9070-xt-16gb-gddr6-gaming-ed-graphics-card-rx-97tqickb9"
   },
   {
@@ -11743,15 +11752,6 @@
     "price": 23450.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9060-xt-challenger-16gb-gddr6-oc-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI GeForce RTX 5090 32GB GDDR7 Suprim SOC Graphics Card",
-    "shop": "datablitz",
-    "price": 164950.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-suprim-soc-graphics-card"
   },
   {
     "category": "GPU",
@@ -11815,6 +11815,15 @@
     "price": 56950.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-strix-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "Colorful GeForce RTX 5060 NB EX 8GB-V GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 20895.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-5060-nb-ex-8gb-v-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -12727,12 +12736,57 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060",
+    "description": "Zotac Gaming GeForce RTX 5060 Twin Edge OC 8GB GDDR7 Graphics Card (ZT-B50600Q-10M)",
+    "shop": "datablitz",
+    "price": 19795.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb-gddr7-graphics-card-zt-b50600q-10m"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5080",
     "description": "MSI GeForce RTX 5080 16GB Suprim Liquid SOC DRR7 Graphics Card",
     "shop": "datablitz",
     "price": 89650.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5080-16gb-suprim-liquid-soc-drr7-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Zotac Gaming GeForce RTX 5070 AMP 12GB GDDR7 Graphics Card (White) (ZT-B50700FQ-10P)",
+    "shop": "datablitz",
+    "price": 38450.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5070-amp-12gb-gddr7-graphics-card-white-zt-b50700fq-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card (ZT-B50700H-10P)",
+    "shop": "datablitz",
+    "price": 36450.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-gddr7-graphics-card-zt-b50700h-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC GDDR7 Graphics Card (White)",
+    "shop": "datablitz",
+    "price": 29450.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-gddr7-graphics-card-white"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge GDDR7 Graphics Card (ZT-B50610E-10M)",
+    "shop": "datablitz",
+    "price": 24995.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-gddr7-graphics-card-zt-b50610e-10m"
   },
   {
     "category": "GPU",
@@ -13102,15 +13156,6 @@
     "price": 27995.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/inno3d-geforce-rtx-5060-ti-twin-x2-oc-8gb-gddr7-graphics-card-white"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "Colorful GeForce RTX 5060 NB EX 8GB-V GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 20895.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-5060-nb-ex-8gb-v-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -13883,7 +13928,7 @@
     "description": "Sapphire Pulse RX 9070 XT Gaming SPR-11348-03-20G Radeon Graphics Card (Option to Purchase >> NZXT Z53/Z63 AIO @ 50% OFF)",
     "shop": "dynaquest",
     "price": 46430.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/sapphire-pulse-rx-9070-xt-gaming-spr-11348-03-20g-radeon-graphics-card"
   },
   {
@@ -13975,6 +14020,15 @@
     "price": 44620.0,
     "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/sapphire-pure-rx-9070-gaming-oc-16gb-spr-11349-02-20g-radeon-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus Prime RTX 5070 Ti 16GB OC GDDR7 PRIME-RTX5070TI-O16G Graphics Card",
+    "shop": "dynaquest",
+    "price": 65440.0,
+    "availability": "Out of Stock",
+    "link": "https://dynaquestpc.com/products/asus-prime-rtx-5070-ti-16gb-oc-gddr7-prime-rtx5070ti-o16g-graphics-card"
   },
   {
     "category": "GPU",
@@ -14128,15 +14182,6 @@
     "price": 63290.0,
     "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/gigabyte-rtx-5070-ti-windforce-oc-sff-16gb-gv-n507twf3oc-16g-graphics-card-must-be-purchased-with-psu-and-gigabyte-liquid-cooling"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus Prime RTX 5070 Ti 16GB OC GDDR7 PRIME-RTX5070TI-O16G Graphics Card",
-    "shop": "dynaquest",
-    "price": 65440.0,
-    "availability": "Out of Stock",
-    "link": "https://dynaquestpc.com/products/asus-prime-rtx-5070-ti-16gb-oc-gddr7-prime-rtx5070ti-o16g-graphics-card"
   },
   {
     "category": "GPU",
@@ -16355,11 +16400,11 @@
   {
     "category": "GPU",
     "model": "RTX5070",
-    "description": "Itw | ASUS RTX 5070 12GB GDDR7 Prime Geforce Graphics Card (PRIME-RTX5070-12G)",
+    "description": "ASUS RTX 5070 12GB GDDR7 Prime Geforce Graphics Card (PRIME-RTX5070-12G)",
     "shop": "itworld",
     "price": 45259.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/prime-rtx5070-12g-itw-asus-rtx-5070-12gb-gddr7-prime-geforce-graphics-card-prime-rtx5070-12g-15803?page=6&category=172"
+    "link": "https://www.itworldph.com/shop/prime-rtx5070-12g-asus-rtx-5070-12gb-gddr7-prime-geforce-graphics-card-prime-rtx5070-12g-15803?page=6&category=172"
   },
   {
     "category": "GPU",
@@ -16816,7 +16861,7 @@
     "model": "RX7600",
     "description": "ASUS RX7600 8GB GDDR6 EVO OC Dual Radeon AMD Graphics Card (DUAL-RX7600-O8G-EVO) | itw",
     "shop": "itworld",
-    "price": 17309.0,
+    "price": 17289.0,
     "availability": "In Stock",
     "link": "https://www.itworldph.com/shop/dual-rx7600-o8g-evo-asus-rx7600-8gb-gddr6-evo-oc-dual-radeon-amd-graphics-card-dual-rx7600-o8g-evo-itw-17233?page=8&category=172"
   },
@@ -19276,6 +19321,2760 @@
     "price": 65950.0,
     "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/colorful-nvidia-geforce-rtx-4080-16gb-nb-ex-v-gddr6x-256-bit-ad103-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "Colorful GT1030 2G V3-V Graphics Card (2GB GDDR5, 64-bit memory bus)...",
+    "shop": "netcodex",
+    "price": 3295.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-gt1030-2g-v3-v-graphics-card-2gb-gddr5-64-bit-memory-bus/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "COLORFUL GEFORCE RTX 3050 NB DUO V2-V Graphics Card (8GB GDDR6, 224GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 12995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3050-nb-duo-v2-v-graphics-card-8gb-gddr6-224gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "COLORFUL GEFORCE RTX 3050 NB DUO 6GB-V Graphics Card (6GB GDDR6, 168GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 10796.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3050-nb-duo-6gb-v-graphics-card-6gb-gddr6-168gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Colorful GeForce RTX 3060 Ti NB DUO V2 LHR-V Graphics Card (8GB GDDR6, 448GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 21895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3060-ti-nb-duo-v2-lhr-v-graphics-card-8gb-gddr6-448gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Colorful GeForce RTX 3060Ti NB DUO G6X-V Graphics Card (8GB GDDR6X, 608GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 21895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3060ti-nb-duo-g6x-v-graphics-card-8gb-gddr6x-608gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "Colorful GeForce RTX 3070 NB V2 LHR-V Graphics Card (8GB GDDR6, 448GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3070-nb-v2-lhr-v-graphics-card-8gb-gddr6-448gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "Colorful GeForce RTX 3070 Ti Ultra White OC 8G-V Graphics Card (8GB GDDR6X, 608GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 36895.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3070-ti-ultra-white-oc-8g-v-graphics-card-8gb-gddr6x-608gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "Colorful GeForce RTX 3070 Ti New BattleAx 8G-V Graphics Card (8GB GDDR6X, 608GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 33995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3070-ti-new-battleax-8g-v-graphics-card-8gb-gddr6x-608gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "Colorful iGame GeForce RTX 3070 Ti Advanced OC 8G-V Graphics Card (8GB GDDR6X, 608GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 37995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-3070-ti-advanced-oc-8g-v-graphics-card-8gb-gddr6x-608gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "Colorful iGame GeForce RTX 3070 Ti Vulcan OC 8G-V Graphics Card (8GB GDDR6X, 608GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 38495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-3070-ti-vulcan-oc-8g-v-graphics-card-8gb-gddr6x-608gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Colorful iGame Geforce RTX 4060 Ti Ultra W DUO OC 8GB-V White Graphics Card (8GB GDDR6, 288GB/s band...",
+    "shop": "netcodex",
+    "price": 23995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4060-ti-ultra-w-duo-oc-8gb-v-graphics-card-8gb-gddr6-288gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Colorful iGame Geforce RTX 4060 Ti Ultra W DUO OC 16GB-V White Graphics Card (16GB GDDR6, 288GB/s ba...",
+    "shop": "netcodex",
+    "price": 27495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4060-ti-ultra-w-duo-oc-16gb-v-graphics-card-16gb-gddr6-288gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Colorful iGame GeForce RTX 4070 Ultra WHITE OC 12GB V3-V Graphics Card (12GB GDDR6X, 504GB/s bandwid...",
+    "shop": "netcodex",
+    "price": 33895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070-ultra-white-oc-12gb-v3-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "COLORFUL GEFORCE RTX 4070Ti NB EX-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 44495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4070ti-nb-ex-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "COLORFUL IGAME GEFORCE RTX 4070Ti VULCAN OC-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 49995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070ti-vulcan-oc-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "Colorful iGame GeForce RTX 4070 Ti SUPER Ultra W OC 16G-V White Graphics Card (16GB GDDR6X, 672GB/s ...",
+    "shop": "netcodex",
+    "price": 48495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070-ti-super-ultra-w-oc-16g-v-graphics-card-16gb-gddr6x-672gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "COLORFUL GEFORCE GT710 NF 1GD3-V Graphics Card (1GB DDR3, 1333MHz effective memory speed)...",
+    "shop": "netcodex",
+    "price": 2295.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gt710-nf-1gd3-v-graphics-card-1gb-ddr3-1333mhz-effective-memory-speed/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "COLORFUL GEFORCE GT710-2GD3-V Graphics Card (2GB GDDR3)...",
+    "shop": "netcodex",
+    "price": 2495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gt710-2gd3-v-graphics-card-2gb-gddr3/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT730-4GB",
+    "description": "COLORFUL GT730K 4GD3-V Graphics Card (4GB GDDR3, 1333MHz memory clock)...",
+    "shop": "netcodex",
+    "price": 4195.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-gt730k-4gd3-v-graphics-card-4gb-gddr3-1333mhz-memory-clock/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT730-4GB",
+    "description": "COLORFUL GT730K LP 4GD3-V Graphics Card (4GB GDDR3, 1333MHz memory clock)...",
+    "shop": "netcodex",
+    "price": 3995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-gt730k-lp-4gd3-v-graphics-card-4gb-gddr3-1333mhz-memory-clock/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-4GB",
+    "description": "Colorful GT1030 4G-V Graphics Card (4GB GDDR5, 64-bit memory bus)...",
+    "shop": "netcodex",
+    "price": 4295.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-gt1030-4g-v-graphics-card-4gb-gddr5-64-bit-memory-bus/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1630",
+    "description": "COLORFUL GeForce GTX 1630 NB 4GD6-V Graphic Card (4GB GDDR6, 96GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 7095.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gtx-1630-nb-4gd6-v-graphic-card-4gb-gddr6-96gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Colorful GeForce RTX 4060 NB EX 8GB-V Graphics Card (8GB GDDR6, 272GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 18795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4060-nb-ex-8gb-v-graphics-card-8gb-gddr6-272gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Colorful GeForce RTX 4060 NB DUO 8GB-V Graphics Card (8GB GDDR6, 272GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 18295.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4060-nb-duo-8gb-v-graphics-card-8gb-gddr6-272gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Colorful iGame GeForce RTX 4060 Ultra W DUO OC 8GB-V White Graphics Card (8GB GDDR6, 272GB/s bandwid...",
+    "shop": "netcodex",
+    "price": 18995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4060-ultra-w-duo-oc-8gb-v-graphics-card-8gb-gddr6-272gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Colorful iGame GeForce RTX 4060 Ultra W OC 8GB-V White Graphics Card (8GB GDDR6, 272GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 19495.0,
+    "availability": "Unknown",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4060-ultra-w-oc-8gb-v-graphics-card-8gb-gddr6-272gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Colorful GeForce RTX 4060 Ti NB DUO 8GB-V Graphics Card (8GB GDDR6, 288GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 22695.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4060-ti-nb-duo-8gb-v-graphics-card-8gb-gddr6-288gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Colorful iGame GeForce RTX 4060 Ti Ultra W OC 8GB-V Graphics Card (8GB GDDR6, 288GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 24495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4060-ti-ultra-w-oc-8gb-v-graphics-card-8gb-gddr6-288gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Colorful GeForce RTX 4070 NB EX-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 30995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4070-nb-ex-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Colorful iGame GeForce RTX 4070 Neptune OC-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 43995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070-neptune-oc-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Colorful iGame GeForce RTX 4070 Vulcan OC-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 44495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070-vulcan-oc-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "iGame GeForce RTX 4070 Advanced OC-V (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 38995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/igame-geforce-rtx-4070-advanced-oc-v-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "Colorful GeForce RTX 4070 SUPER NB EX 12GB-V Graphics Card (12GB GDDR6X, 504GB/s bandwidth)...",
+    "shop": "netcodex",
+    "price": 35895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4070-super-nb-ex-12gb-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "Colorful iGame GeForce RTX 4070 SUPER Ultra W OC 12GB-V White Graphics Card (12GB GDDR6X, 504GB/s ba...",
+    "shop": "netcodex",
+    "price": 37495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4070-super-ultra-w-oc-12gb-v-graphics-card-12gb-gddr6x-504gb-s-bandwidth/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Gigabyte Radeon RX 9070 XT GAMING OC 16G 16GB GDDR6 RDNA 4 Graphics Card \u2013 GV-R9070XTGAMING-OC...",
+    "shop": "netcodex",
+    "price": 46495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-9070-xt-gaming-oc16gb-gddr6-256-bit-rdna-4-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Gigabyte AORUS Radeon RX 9070 XT ELITE 16G 16GB GDDR6 RDNA 4 Graphics Card \u2013 GV-R9070XTAORUS-E...",
+    "shop": "netcodex",
+    "price": 46995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-radeon-rx-9070-xt-elite-16gb-gddr6-256-bit-rdna-4-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "ZOTAC NVIDIA GeForce RTX 5090 Solid OC 32GB GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 195000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-nvidia-geforce-rtx-5090-solid-oc-32gb-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ZOTAC NVIDIA GeForce RTX 5080 Solid OC 16GB GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 89995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-nvidia-geforce-rtx-5080-solid-oc-16gb-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ZOTAC NVIDIA GeForce RTX 5080 AMP Extreme Infinity 16GB GDDR7 256-bit Blackwell Architecture Graphic...",
+    "shop": "netcodex",
+    "price": 94995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-nvidia-geforce-rtx-5080-amp-extreme-infinity-16gb-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Palit NVIDIA GeForce RTX 5070 GamingPro OC 12GB GDDR7 192-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 40000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-nvidia-geforce-rtx-5070-gamingpro-oc-12gb-gddr7-192-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI NVIDIA GeForce RTX 5090 32G Ventus 3X OC GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 179995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-ventus-3x-oc-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI NVIDIA GeForce RTX 5090 32G Vanguard SOC GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 163995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-vanguard-soc-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI NVIDIA GeForce RTX 5090 32G Suprim SOC GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 197000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-suprim-soc-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI NVIDIA GeForce RTX 5090 32G Suprim Liquid SOC GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 199995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-suprim-liquid-soc-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI NVIDIA GeForce RTX 5090 32G Gaming Trio OC GDDR7 512-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 197000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-gaming-trio-oc-gddr7-512-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC Plus GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 78995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5080-16g-ventus-3x-oc-plus-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI NVIDIA GeForce RTX 5080 16G Ventus 3X OC GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 78995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5080-16g-ventus-3x-oc-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI NVIDIA GeForce RTX 5080 16G Vanguard SOC GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 82995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5080-16g-vanguard-soc-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI NVIDIA GeForce RTX 5080 16G Suprim SOC GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 88100.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5080-16g-suprim-soc-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI NVIDIA GeForce RTX 5080 16G Gaming Trio OC GDDR7 256-bit Blackwell Architecture Graphics Card...",
+    "shop": "netcodex",
+    "price": 82995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5080-16g-gaming-trio-oc-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI NVIDIA GeForce RTX 5070 Ti 16G Ventus 3X OC Plus GDDR7 256-bit Blackwell Architecture Graphics C...",
+    "shop": "netcodex",
+    "price": 55000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5070-ti-16g-ventus-3x-oc-plus-gddr7-256-bit-blackwell-architecture-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI NVIDIA GeForce RTX 5070 Ti 16G Vanguard SOC GDDR7 Graphics Card...",
+    "shop": "netcodex",
+    "price": 55000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5070-ti-16g-vanguard-soc-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI NVIDIA GeForce RTX 5070 Ti 16G Inspire 3X OC Plus GDDR7 Graphics Card...",
+    "shop": "netcodex",
+    "price": 55000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5070-ti-16g-inspire-3x-oc-plus-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI NVIDIA GeForce RTX 5070 Ti 16G Gaming Trio OC Plus GDDR7 Graphics Card...",
+    "shop": "netcodex",
+    "price": 55000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5070-ti-16g-gaming-trio-oc-plus-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "MSI NVIDIA GeForce RTX 4070 Super 12G Gaming Slim Wukong Edition Graphics Card...",
+    "shop": "netcodex",
+    "price": 41995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-super-12g-gaming-slim-wukong-edition-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI GeForce RTX 5080 16G Inspire 3X OC GDDR7 Graphics Card...",
+    "shop": "netcodex",
+    "price": 79995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-5080-16g-inspire-3x-oc-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Gigabyte AORUS GeForce RTX 5090 XTREME Waterforce 32GB Graphics Card GV-N5090AORUSX W-32GD...",
+    "shop": "netcodex",
+    "price": 189995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-5090-xtreme-waterforce-32gb-graphics-card-gv-n5090aorusx-w-32gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "ASUS ROG Strix NVIDIA GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Graphics Card \u2013 ROG-STRIX-RTX5...",
+    "shop": "netcodex",
+    "price": 70495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-nvidia-geforce-rtx-5070-ti-16gb-gddr7-oc-edition-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "ASUS ROG Strix Nvidia GeForce RTX 5070 OC Edition 12GB GDDR7 Graphics Card \u2013 ROG-STRIX-RTX5070...",
+    "shop": "netcodex",
+    "price": 56995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-nvidia-geforce-rtx-5070-oc-edition-12gb-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "ASUS ROG Astral Nvidia GeForce RTX 5090 OC Edition 32GB GDDR7 Graphics Card \u2013 ROG-ASTRAL-RTX50...",
+    "shop": "netcodex",
+    "price": 187895.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-rog-astral-nvidia-geforce-rtx-5090-oc-edition-32gb-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ASUS ROG Astral Nvidia GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card \u2013 ROG-ASTRAL-RTX50...",
+    "shop": "netcodex",
+    "price": 99495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-rog-astral-nvidia-geforce-rtx-5080-oc-edition-16gb-gddr7-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "Gigabyte AMD Radeon RX 7900 XT Gaming OC 20GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 59895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-amd-radeon-rx-7900-xt-gaming-oc-20gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "ASUS TUF Gaming AMD Radeon RX 7900 XT OC Edition 20GB GDDR6 Graphics Card \u2013 TUF-RX7900XT-O20G-...",
+    "shop": "netcodex",
+    "price": 57595.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-amd-radeon-rx-7900-xt-oc-edition-20gb-gddr6-graphics-card-tuf-rx7900xt-o20g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "ASUS Dual AMD Radeon RX 6600 8GB V3 128-BIT GDDR6 Gaming Graphics Card...",
+    "shop": "netcodex",
+    "price": 13595.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-dual-amd-radeon-rx-6600-8gb-v3-128-bit-gddr6-gaming-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "Colorful iGame Nvidia GeForce RTX 4080 16GB Vulcan OC-V 256-bit GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 78995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-nvidia-geforce-rtx-4080-16gb-vulcan-oc-v-256-bit-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Asrock AMD Radeon RX 7600 Steel Legend 8GB OC 128-bit GDDR6 Graphics Card \u2013 RX7600 SL 8GO...",
+    "shop": "netcodex",
+    "price": 17795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-amd-radeon-rx-7600-steel-legend-8gb-oc-128-bit-gddr6-graphics-card-rx7600-sl-8go/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Asrock AMD Radeon RX 7600 Challenger 8GB OC 128-bit GDDR6 Graphics Card \u2013 RX7600 CL 8GO...",
+    "shop": "netcodex",
+    "price": 16795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-rx-7600-challenger-8gb-oc-128-bit-gddr6-graphics-card-rx7600-cl-8go/"
+  },
+  {
+    "category": "GPU",
+    "model": "ARCB580",
+    "description": "Asrock Intel Arc B580 Steel Legend 12GB OC 192-bit GDDR6 Graphics Card \u2013 B580 SL 12GO...",
+    "shop": "netcodex",
+    "price": 18795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-intel-arc-b580-steel-legend-12gb-oc-192-bit-gddr6-graphics-card-b580-sl-12go/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "MSI Gaming RTX 4070 Super 12G Ventus 3X OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 38895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-rtx-4070-super-12g-ventus-3x-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "MSI Gaming RTX 4070 TI Super 16G Expert 16GB 256-bit GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 55495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-rtx-4070-ti-super-16g-expert-16gb-256-bit-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "ARCB580",
+    "description": "Intel Arc B580 Battlemage 12GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 16995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/intel-arc-b580-battlemage-12gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "MSI Gaming GeForce 4080 SUPER 16G EXPERT  16GB 256-bit 23gbps  GDDR6X Graphics Card \u2013 RTX 4080...",
+    "shop": "netcodex",
+    "price": 68995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-4080-super-16g-expert-16gb-256-bit-23gbps-gddr6x-graphics-card-rtx-4080-super-16g-expert/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "MSI Gaming GeForce RTX 4080 SUPER  16GB 256-bit 23gbps  GDDR6X Graphics Card \u2013 RTX 4080 SUPER ...",
+    "shop": "netcodex",
+    "price": 66495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-4080-super-16gb-256-bit-23gbps-gddr6x-graphics-card-rtx-4080-super-16g-gaming-x-slim/"
+  },
+  {
+    "category": "GPU",
+    "model": "ARCB580",
+    "description": "Asrock Intel Arc B580 Challenger 12GB 192-bit GDDR6 OC Graphics Card \u2013 B580 CL 12GO...",
+    "shop": "netcodex",
+    "price": 17795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-intel-arc-b580-challenger-12gb-192-bit-gddr6-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX Mercury AMD Radeon RX 7900 XTX Magnetic Air Gaming Graphics Card 384-bit 24GB GDDR6 \u2013 RX-7...",
+    "shop": "netcodex",
+    "price": 60995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-mercury-amd-radeon-rx-7900-xtx-magnetic-air-gaming-graphics-card-384-bit-24gb-gddr6-rx-79xmairb9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600XT",
+    "description": "ASRock STEEL LEGEND Radeon RX 7600 XT 16G OC  128-bit 16GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 21895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asrock-steel-legend-radeon-rx-7600-xt-16g-oc-128-bit-16gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "Sapphire Pure AMD Radeon RX 7700 XT Gaming Graphics Card with 12GB GDDR6, AMD RDNA 3 \u2013 SPR-113...",
+    "shop": "netcodex",
+    "price": 28595.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pure-amd-radeon-rx-7700-xt-gaming-graphics-card-with-12gb-gddr6-amd-rdna-3-spr-11335-03-20g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "ASUS ROG Strix GeForce RTX 4080 Super OC Edition Gaming Graphics Card \u2013 ROG-STRIX-RTX4080S-O16...",
+    "shop": "netcodex",
+    "price": 86795.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-geforce-rtx-4080-super-oc-edition-gaming-graphics-card-rog-strix-rtx4080s-o16g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia GeForce RTX 4070 VENTUS 2X E 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 35595.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ventus-2x-e-12g-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia GeForce RTX 4070 VENTUS 2X 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 35895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ventus-2x-12g-oc-192-bit-12gb-gddr6x-graphics-card-2/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia GeForce RTX 4070 VENTUS 2X WHITE 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 36295.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ventus-2x-white-12g-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia GeForce RTX 4070 VENTUS 3X E 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 37695.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ventus-3x-e-12g-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia Geforce RTX 4070 GAMING X SLIM 12G Black 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 40395.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-gaming-x-slim-12g-black-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "MSI Nvidia GeForce RTX 4070 GAMING X SLIM WHITE 12G 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 41995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-gaming-x-slim-white-12g-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "MSI Nvidia GeForce RTX 4070 Ti VENTUS 3X 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 49995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ti-ventus-3x-12g-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "MSI Nvidia GeForce RTX 4070 Ti VENTUS 3X E1 12G OC 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 49495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ti-ventus-3x-e1-12g-oc-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "MSI Nvidia GeForce RTX 4070 Ti GAMING X SLIM 12G 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 50295.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ti-gaming-x-slim-12g-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "MSI Nvidia GeForce RTX 4070 Ti Gaming X Slim White 12G 192-bit 12GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 50795.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4070-ti-gaming-x-slim-white-12g-192-bit-12gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "MSI RTX 4060 Ventus 2X White OC 128-bit 8GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 19695.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-rtx-4060-ventus-2x-white-oc-128-bit-8gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "MSI Nvidia Geforce RTX 4060 Ti Ventus 2X Black 8G OC 128-bit 8GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 25495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-ventus-2x-black-8g-oc-128-bit-8gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "MSI Nvidia GeForce RTX 4060 Ti Gaming X 8G 8GB 128-Bit GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 27595.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx%c2%994060-ti-gaming-x-8g-8gb-128-bit-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "MSI Nvidia GeForce RTX 4060 Ti Gaming X Slim 8GB 128-bit GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 29295.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-gaming-x-slim-8gb-128-bit-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "MSI Nvidia Geforce RTX 4060 Ti Ventus 2X Black 16G OC 128-bit 16GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 30795.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-ventus-2x-black-16g-oc-128-bit-16gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "MSI Nvidia GeForce RTX 4060 Ti Ventus 3X 16GB OC 128-bit GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 30895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-ventus-3x-16gb-oc-128-bit-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "MSI Nvidia GeForce RTX 4060 Ti Gaming X Slim 16GB 128-bit GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 31895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-gaming-x-slim-16gb-128-bit-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "MSI Nvidia GeForce RTX 4060 Ti Gaming X 16G 16GB 128-Bit GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 31595.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-4060-ti-gaming-x-16g-16gb-128-bit-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "XFX Speedster SWFT 210 AMD Radeon RX 6600 Core Gaming 8GB GDDR6 Graphics Card \u2013 RX-66XL8LFDQ...",
+    "shop": "netcodex",
+    "price": 12695.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-swft-210-amd-radeon-rx-6600-core-gaming-8gb-gddr6-graphics-card-rx-66xl8lfdq/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "XFX Speedster QICK 319 Radeon RX 7700 XT 12 GB GDDR6 Black Edition Graphics Card \u2013 RX-77TQICKB...",
+    "shop": "netcodex",
+    "price": 26895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-qick-319-radeon-rx-7700-xt-12-gb-gddr6-black-edition-graphics-card-rx-77tqickb9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX580-8GB",
+    "description": "XFX Radeon RX 580 GTS XXX Edition 8GB GDDR5 AMD Graphics Card (RX-580S85DD6)...",
+    "shop": "netcodex",
+    "price": 6395.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-radeon-rx-580-gts-xxx-edition-8gb-gddr5-amd-graphics-card-rx-580s85dd6/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "AMD Radeon RX 6600 Challenger White 8GB Graphics Card \u2013 RX6600 CLW 8G...",
+    "shop": "netcodex",
+    "price": 13369.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/amd-radeon-rx-6600-challenger-white-8gb-graphics-card-rx6600-clw-8g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "ASUS Dual GeForce RTX 4060 EVO White OC Edition 8GB GDDR6 Graphics Card \u2013 DUAL-RTX4060-O8G-EVO...",
+    "shop": "netcodex",
+    "price": 22495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-dual-geforce-rtx-4060-evo-white-oc-edition-8gb-gddr6-graphics-card-dual-rtx4060-o8g-evo-white/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "ASUS Dual GeForce RTX 4060 Ti EVO White OC Edition 8GB GDDR6 Graphics Card \u2013 DUAL-RTX4060TI-O8...",
+    "shop": "netcodex",
+    "price": 27995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-dual-geforce-rtx-4060-ti-evo-white-oc-edition-8gb-gddr6-dual-rtx4060ti-o8g-evo-white/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX580-8GB",
+    "description": "Ramsta RX580 JX Dual Fan 8 GB GDDR5 256-bit Graphics Card...",
+    "shop": "netcodex",
+    "price": 5195.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/ramsta-rx580-jx-dual-fan-8-gb-gddr5-256-bit-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900GRE",
+    "description": "Asrock AMD Radeon RX 7900 GRE Steel Legend 16GB OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 40950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asrock-amd-radeon-rx-7900-gre-steel-legend-16gb-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "Colorful iGame GeForce RTX 4080 SUPER Ultra W OC 16GB-V Graphics Card...",
+    "shop": "netcodex",
+    "price": 60450.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4080-super-ultra-w-oc-16gb-v-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "Asrock AMD Radeon RX 7700 XT Steel Legend 12GB OC...",
+    "shop": "netcodex",
+    "price": 26200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asrock-amd-radeon-rx-7700-xt-steel-legend-12gb-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "Gigabyte RTX 4090 AERO OC 24GB GDDR6X GV-N4090AERO-OC-24GD Graphics Card...",
+    "shop": "netcodex",
+    "price": 117895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-rtx-4090-aero-oc-24gb-gddr6x-gv-n4090aero-oc-24gd-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600XT",
+    "description": "Sapphire PULSE AMD Radeon RX 7600 XT 16GB Graphics Card...",
+    "shop": "netcodex",
+    "price": 20995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-7600-xt-16gb-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "Sapphire PURE AMD Radeon RX 7700 XT 12GB Frostpunk 2 Edition Graphics Card...",
+    "shop": "netcodex",
+    "price": 28450.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pure-amd-radeon-rx-7700-xt-12gb-frostpunk-2-edition-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "Sapphire NITRO+ AMD Radeon RX 7700 XT 12GB Graphics Card...",
+    "shop": "netcodex",
+    "price": 29450.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-nitro-amd-radeon-rx-7700-xt-12gb-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "GIGABYTE GeForce RTX 4080 Super WINDFORCE V2 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR...",
+    "shop": "netcodex",
+    "price": 65700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4080-super-windforce-v2-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n408swf3v2-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "GIGABYTE GeForce RTX 4080 Super Gaming OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR6X,...",
+    "shop": "netcodex",
+    "price": 68100.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4080-super-gaming-oc-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n408sgaming-oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "Gigabyte GeForce RTX 4080 SUPER AERO OC Graphics Card \u2013 GV-N408SAERO-OC-16GD...",
+    "shop": "netcodex",
+    "price": 69800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4080-super-aero-oc-graphics-card-gv-n408saero-oc-16gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "GIGABYTE AORUS GeForce RTX 4080 Super Master 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR...",
+    "shop": "netcodex",
+    "price": 75900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-4080-super-master-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n408saorus-m-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "ASUS TUF Gaming NVIDIA GeForce RTX 4080 Super OC Edition Gaming Graphics Card \u2013 TUF-RTX4080S-O...",
+    "shop": "netcodex",
+    "price": 77995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-nvidia-geforce-rtx-4080-super-oc-edition-gaming-graphics-card-tuf-rtx4080s-o16g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "ASUS ProArt GeForce RTX 4080 Super OC Edition Graphics Card (PCIe 4.0, 16GB GDDR6X, DLSS 3, HDMI 2.1...",
+    "shop": "netcodex",
+    "price": 80495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-proart-geforce-rtx-4080-super-oc-edition-graphics-card-pcie-4-0-16gb-gddr6x-dlss-3-hdmi-2-1a-displayport-1-4a-proart-rtx4080s-o16g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "Gigabyte GeForce RTX 3050 WINDFORCE OC 6G Graphics Card \u2013 GV-N3050WF2OC-6GD...",
+    "shop": "netcodex",
+    "price": 11200.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-gv-n3050wf2oc-6gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics Card \u2013 DUAL-RTX3050-O6G...",
+    "shop": "netcodex",
+    "price": 10940.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-graphics-card-dual-rtx3050-o6g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "Palit Dual Geforce RTX 3050 8GB GDDR6 Graphic Card \u2013 NE63050018P1-1070D...",
+    "shop": "netcodex",
+    "price": 12800.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/palit-dual-geforce-rtx-3050-8gb-gddr6-graphic-card-ne63050018p1-1070d/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-8GB",
+    "description": "GIGABYTE GeForce RTX 3060 GAMING OC 8G (rev. 2.0) Graphics Card, 2X WINDFORCE Fans, 8GB 128-bit GDDR...",
+    "shop": "netcodex",
+    "price": 16400.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-gaming-oc-8g-rev-2-0-graphics-card-2x-windforce-fans-8gb-128-bit-gddr6-gv-n3060gaming-oc-8gd-rev2-0-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) Graphics Card, 2X WINDFORCE Fans, 12GB 192-bit...",
+    "shop": "netcodex",
+    "price": 17195.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-windforce-oc-12g-rev-2-0-graphics-card-2x-windforce-fans-12gb-192-bit-gddr6-gv-n3060wf2oc-12gd-rev2-0-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "GIGABYTE GeForce RTX 3060 Gaming OC 12G (REV2.0) Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR...",
+    "shop": "netcodex",
+    "price": 18950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-gaming-oc-12g-rev2-0-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6-gv-n3060gaming-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX 4060 AERO OC 8G Graphics Card...",
+    "shop": "netcodex",
+    "price": 20900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-aero-oc-8g-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX 4060 Gaming OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060...",
+    "shop": "netcodex",
+    "price": 20450.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-gaming-oc-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-gv-n4060gaming-oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX 4060 Eagle OC ICE 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4...",
+    "shop": "netcodex",
+    "price": 19950.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-eagle-oc-ice-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-gv-n4060eagleoc-ice-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX 4060 Eagle OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060E...",
+    "shop": "netcodex",
+    "price": 19650.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-eagle-oc-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-gv-n4060eagle-oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Palit GeForce RTX 4060 Infinity 2 8GB Graphics Card NE64060019P1-1070L...",
+    "shop": "netcodex",
+    "price": 17495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4060-infinity-2-8gb-graphics-card-ne64060019p1-1070l/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC V2 8G Graphics Card, 2X WINDFORCE Fans, 8GB 128-bit GDDR6,...",
+    "shop": "netcodex",
+    "price": 24700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-ti-windforce-oc-v2-8g-graphics-card-2x-windforce-fans-8gb-128-bit-gddr6-gv-n406twf2ocv2-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GV-N406TEAGLE-8GD GeForce RTX 4060 Ti Eagle 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bi...",
+    "shop": "netcodex",
+    "price": 25400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n406teagle-8gd-geforce-rtx-4060-ti-eagle-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX 4060 Ti Eagle OC ICE 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV...",
+    "shop": "netcodex",
+    "price": 24495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-ti-eagle-oc-ice-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-gv-n406teagleoc-ice-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GV-N406TAERO-OC-8GD GeForce RTX 4060 Ti AERO OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 12...",
+    "shop": "netcodex",
+    "price": 26995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n406taero-oc-8gd-geforce-rtx-4060-ti-aero-oc-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GV-N406TGAMING-OC-8GD GeForce RTX 4060 Ti Gaming OC 8G Graphics Card, 3X WINDFORCE Fans, 8G...",
+    "shop": "netcodex",
+    "price": 25800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n406tgaming-oc-8gd-geforce-rtx-4060-ti-gaming-oc-8g-graphics-card-3x-windforce-fans-8gb-128-bit-gddr6-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX 4060 Ti Gaming OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 128-bit GDDR6, GV-...",
+    "shop": "netcodex",
+    "price": 30700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-ti-gaming-oc-16g-graphics-card-3x-windforce-fans-16gb-128-bit-gddr6-gv-n406tgaming-oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "ASUS ROG Strix GeForce RTX 4060 Ti OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6, DLSS 3, HDM...",
+    "shop": "netcodex",
+    "price": 32800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-geforce-rtx-4060-ti-oc-edition-gaming-graphics-card-pcie-4-0-8gb-gddr6-dlss-3-hdmi-2-1-displayport-1-4a-rog-strix-rtx4060ti-o8g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "GIGABYTE AORUS GeForce RTX 4070 Super Master 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR...",
+    "shop": "netcodex",
+    "price": 43800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-4070-super-master-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407saorus-m-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "ASUS TUF Gaming GeForce RTX 4070 SUPER OC Edition Gaming Graphics Card \u2013  TUF-RTX4070S-O12G-GA...",
+    "shop": "netcodex",
+    "price": 48500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-geforce-rtx-4070-super-oc-edition-gaming-graphics-card-tuf-rtx4070s-o12g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "ASUS nVidia GeForce 4070 Super White OC Edition 12GB GDDR6X DUAL-RTX4070S-O12G-WHITE Graphics Card...",
+    "shop": "netcodex",
+    "price": 44900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-nvidia-geforce-4070-super-white-oc-edition-12gb-gddr6x-dual-rtx4070s-o12g-white-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "GIGABYTE GeForce RTX 4070 Super AERO OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, G...",
+    "shop": "netcodex",
+    "price": 42900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-super-aero-oc-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407saero-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "GIGABYTE GeForce RTX 4070 Super Eagle OC ICE 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR...",
+    "shop": "netcodex",
+    "price": 40900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-super-eagle-oc-ice-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407seagleoc-ice-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "GIGABYTE GeForce RTX 4070 Super Eagle OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, ...",
+    "shop": "netcodex",
+    "price": 40400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-super-eagle-oc-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407seagle-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "GIGABYTE GeForce RTX 4070 Super WINDFORCE OC 12G Graphics Card \u2013 GV-N407SWF3OC-12GD...",
+    "shop": "netcodex",
+    "price": 39400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-super-windforce-oc-12g-graphics-card-gv-n407swf3oc-12gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "Palit GeForce RTX 4070 SUPER Dual 12GB GDDR6X Graphics Card \u2013 NED407S019K9-1043D...",
+    "shop": "netcodex",
+    "price": 36400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4070-super-dual-12gb-gddr6x-graphics-card-ned407s019k9-1043d/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "GIGABYTE Radeon RX 7800 XT Gaming OC 16G Graphics Card, 3X WINDFORCE Fans 16GB 256-bit GDDR6, GV-R78...",
+    "shop": "netcodex",
+    "price": 33495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-7800-xt-gaming-oc-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6-gv-r78xtgaming-oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "ASUS Dual GeForce RTX 4070 SUPER OC Edition graphics card \u2013 DUAL-RTX4070S-O12G...",
+    "shop": "netcodex",
+    "price": 42900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-dual-geforce-rtx-4070-super-oc-edition-graphics-card-dual-rtx4070s-o12g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "Palit GeForce RTX 4070 Ti SUPER JetStream OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 49500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4070-ti-super-jetstream-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "GIGABYTE GeForce RTX 4070 Ti Super Eagle OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR6...",
+    "shop": "netcodex",
+    "price": 54900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-super-eagle-oc-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n407tseagle-oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "GIGABYTE GeForce RTX 4070 Ti SUPER WINDFORCE OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit G...",
+    "shop": "netcodex",
+    "price": 52800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-super-windforce-oc-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n407tswf3oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "GIGABYTE nVidia GeForce RTX 4070 Ti Super EAGLE OC ICE 16GD GDDR6X Video Card...",
+    "shop": "netcodex",
+    "price": 54500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-nvidia-geforce-rtx-4070-ti-super-eagle-oc-ice-16gd-gddr6x-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "GIGABYTE GeForce RTX 4070 Ti Super Gaming OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR...",
+    "shop": "netcodex",
+    "price": 54995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16g-graphics-card-3x-windforce-fans-16gb-256-bit-gddr6x-gv-n407tsgaming-oc-16gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "ASUS ROG Strix GeForce RTX 4070 Ti SUPER OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, DLS...",
+    "shop": "netcodex",
+    "price": 66250.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-geforce-rtx-4070-ti-super-oc-edition-gaming-graphics-card-pcie-4-0-16gb-gddr6x-dlss-3-massive-vented-backplate-power-sensing-rog-strix-rtx4070tis-o16g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 Ti SUPER 16GB GDDR6X OC Edition Gaming Graphics Card TUF-RTX...",
+    "shop": "netcodex",
+    "price": 62400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x-oc-edition-gaming-graphics-card-tuf-rtx4070tis-o16g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X White OC Edition Gaming Graphics Card TUF-RTX4...",
+    "shop": "netcodex",
+    "price": 63800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-geforce-rtx-4070-ti-super-16gb-gddr6x-white-oc-edition-gaming-graphics-card-tuf-rtx4070tis-o16g-white-gaming-white/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "MSI RTX 3060 Ventus 2X 12G OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 17200.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-rtx-3060-ventus-2x-12g-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "MSI GeForce RTX 3050 Ventus 2X XS 8GB OC GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 12900.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3050-ventus-2x-xs-8gb-oc-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "Asrock AMD Radeon RX 6600 Challenger D 8GB Black Graphics Card...",
+    "shop": "netcodex",
+    "price": 12600.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-amd-radeon-rx-6600-challenger-d-8gb-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6500XT",
+    "description": "ASRock AMD Radeon RX 6500 XT Phantom Gaming D 4GB OC GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 9600.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asrock-amd-radeon-rx-6500-xt-phantom-gaming-d-4gb-oc-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600XT",
+    "description": "ASRock Challenger Radeon RX 7600 XT 16GB OC GDDR6 PCI Express 4.0 x8 ATX Video Card...",
+    "shop": "netcodex",
+    "price": 20800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asrock-challenger-radeon-rx-7600-xt-16gb-oc-gddr6-pci-express-4-0-x8-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "ASRock STEEL LEGEND Radeon RX 7800 XT 16G OC 16GB GDDR6 Graphics Card...",
+    "shop": "netcodex",
+    "price": 31349.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asrock-steel-legend-radeon-rx-7800-xt-16g-oc-16gb-gddr6-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "MSI GeForce RTX 4060 Gaming X 8G Graphics Card \u2013 NVIDIA RTX 4060, 8 GB GDDR6 Memory...",
+    "shop": "netcodex",
+    "price": 20800.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-4060-gaming-x-8g-graphics-card-nvidia-rtx-4060-8-gb-gddr6-memory/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "MSI GeForce GTX 1650 D6 VENTUS XS OCV3 Graphics Card...",
+    "shop": "netcodex",
+    "price": 8900.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-gtx-1650-d6-ventus-xs-ocv3-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 18800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-4060-ventus-2x-black-8g-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070S",
+    "description": "MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 38595.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-4070-super-12g-ventus-2x-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "MSI Gaming RTX 4070 TI Super 16G Ventus 3X OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 52395.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-rtx-4070-ti-super-16g-ventus-3x-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050",
+    "description": "Colorful iGame GeForce RTX 3050 Ultra W DUO OC V2-V Graphics Card...",
+    "shop": "netcodex",
+    "price": 13100.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-3050-ultra-w-duo-oc-v2-v-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TISUPER",
+    "description": "Colorful GeForce RTX 4070 Ti SUPER NB EX 16G-V Graphics Card...",
+    "shop": "netcodex",
+    "price": 47495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-4070-ti-super-nb-ex-16g-v-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080S",
+    "description": "Colorful iGame GeForce RTX 4080 SUPER Neptune OC 16GB-V Liquid Cooled Graphics Card...",
+    "shop": "netcodex",
+    "price": 68500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-4080-super-neptune-oc-16gb-v-liquid-cooled-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "ZOTAC Gaming GeForce RTX 4060 8GB Twin Edge OC DLSS 3 8GB GDDR6 128-bit PCIE 4.0 Gaming Graphics Car...",
+    "shop": "netcodex",
+    "price": 17700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-4060-8gb-twin-edge-oc-dlss-3-8gb-gddr6-128-bit-pcie-4-0-gaming-graphics-card-zt-d40600h-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK319 RX 7800 XT CORE Gaming Graphics Card 16GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-78TQI...",
+    "shop": "netcodex",
+    "price": 30900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-qick319-rx-7800-xt-core-gaming-graphics-card-16gb-gddr6-hdmi-3xdp-amd-rdna-3-rx-78tqickw9-white/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "ZOTAC Gaming GeForce RTX 4060 Ti 16GB AMP Spider-Man: Across The Spider-Verse Inspired Graphics Card...",
+    "shop": "netcodex",
+    "price": 30900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-4060-ti-16gb-amp-spider-man-across-the-spider-verse-inspired-graphics-card-bundle/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "SAPPHIRE PURE Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card SPR-11330-03-20G...",
+    "shop": "netcodex",
+    "price": 32900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pure-radeon-rx-7800-xt-16gb-gddr6-pci-express-4-0-x16-atx-video-card-spr-11330-03-20g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Gigabyte Geforce RTX 4070 Windforce OC 12G Graphics Card \u2013 GV-N4070WF3OC-12GD...",
+    "shop": "netcodex",
+    "price": 37200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-windforce-oc-12g-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "PALIT GeForce RTX 4070 DUAL 12GB Graphics Card \u2013 NED4070019K9-1047D...",
+    "shop": "netcodex",
+    "price": 35200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4070-dual-12gb-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK319 RX 7800 XT CORE Gaming Graphics Card 16GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-78TQI...",
+    "shop": "netcodex",
+    "price": 30900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-qick319-rx-7800-xt-core-gaming-graphics-card-16gb-gddr6-hdmi-3xdp-amd-rdna-3-rx-78tqickf9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "PowerColor Hellhound Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX7800XT 16G-L/...",
+    "shop": "netcodex",
+    "price": 34900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/powercolor-hellhound-radeon-rx-7800-xt-16gb-gddr6-pci-express-4-0-x16-atx-video-card-rx7800xt-16g-l-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "PowerColor RED DEVIL Radeon RX 7800 XT Limited Edition Video Card RX7800XT 16G-E/OC/LIMITED...",
+    "shop": "netcodex",
+    "price": 39500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/powercolor-red-devil-radeon-rx-7800-xt-limited-edition-video-card-rx7800xt-16g-e-oc-limited/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "Sapphire Pulse AMD Radeon RX 6600 Gaming Graphics Card with 8GB GDDR6, AMD RDNA 2...",
+    "shop": "netcodex",
+    "price": 12950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-6600-gaming-graphics-card-with-8gb-gddr6-amd-rdna-2/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "SAPPHIRE PULSE Radeon RX 7700 XT 12GB GDDR6 PCI Express 4.0 x16 Video Card 11335-04-20G...",
+    "shop": "netcodex",
+    "price": 26795.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pulse-radeon-rx-7700-xt-12gb-gddr6-pci-express-4-0-x16-video-card-11335-04-20g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "SAPPHIRE PULSE Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card SPR-11330-02-20G...",
+    "shop": "netcodex",
+    "price": 31995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pulse-radeon-rx-7800-xt-16gb-gddr6-pci-express-4-0-x16-atx-video-card-spr-11330-02-20g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "SAPPHIRE NITRO+ Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card...",
+    "shop": "netcodex",
+    "price": 34295.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-nitro-radeon-rx-7800-xt-16gb-gddr6-pci-express-4-0-x16-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Palit GeForce RTX 4070 Ti GamingPro White OC...",
+    "shop": "netcodex",
+    "price": 42995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4070-ti-gamingpro-white-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Gigabyte GeForce RTX 4070 AERO OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X Video Ca...",
+    "shop": "netcodex",
+    "price": 42300.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-aero-oc-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX 4070 Ti EAGLE OC/Non-OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR...",
+    "shop": "netcodex",
+    "price": 49900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-eagle-oc-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407teagle-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Gigabyte GeForce RTX 4070 Ti AERO OC V2 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, G...",
+    "shop": "netcodex",
+    "price": 53900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-aero-oc-v2-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407taero-ocv2-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Gigabyte AORUS GeForce RTX 4070 Ti Master 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X,...",
+    "shop": "netcodex",
+    "price": 57900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-4070-ti-master-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407taorus-m-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "ASUS GeForce RTX 4080 TUF Gaming OC Graphics Card...",
+    "shop": "netcodex",
+    "price": 84800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-geforce-rtx-4080-tuf-gaming-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "GIGABYTE EAGLE OC GeForce RTX 4080 16GB GDDR6X PCI Express 4.0 x16 ATX Video Card GV-N4080EAGLE OC-1...",
+    "shop": "netcodex",
+    "price": 75900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-eagle-oc-geforce-rtx-4080-16gb-gddr6x-pci-express-4-0-x16-atx-video-card-gv-n4080eagle-oc-16gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "Palit Gaming Pro NVIDIA GeForce RTX 4080 16GB GDDR6X Graphics Card...",
+    "shop": "netcodex",
+    "price": 75900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-gaming-pro-nvidia-geforce-rtx-4080-16gb-gddr6x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "ASUS TUF GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, Display...",
+    "shop": "netcodex",
+    "price": 117900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-geforce-rtx-4090-oc-edition-gaming-graphics-card-pcie-4-0-24gb-gddr6x-hdmi-2-1a-displayport-1-4a/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "ASUS ROG Strix GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, D...",
+    "shop": "netcodex",
+    "price": 124900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-rog-strix-geforce-rtx-4090-oc-edition-gaming-graphics-card-pcie-4-0-24gb-gddr6x-hdmi-2-1a-displayport-1-4a-rog-strix-rtx4090-o24g-gaming/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "ZOTAC Gaming GeForce RTX 4060 8GB OC Spider-Man: Across The Spider-Verse Inspired Graphics Card Bund...",
+    "shop": "netcodex",
+    "price": 17700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-4060-8gb-oc-spider-man-across-the-spider-verse-inspired-graphics-card-bundle-zt-d40600p-10smp/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "GIGABYTE GeForce RTX 3060 Eagle OC 12G (REV2.0) Graphics Card, 2X WINDFORCE Fans, 12GB 192-bit GDDR6...",
+    "shop": "netcodex",
+    "price": 18200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-eagle-oc-12g-rev2-0-graphics-card-2x-windforce-fans-12gb-192-bit-gddr6-gv-n3060eagle-oc-12gd-2-0-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Gigabyte GeForce RTX 4060 WINDFORCE OC 8G Graphics Card, 2X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4...",
+    "shop": "netcodex",
+    "price": 18950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4060-windforce-oc-8g-graphics-card-2x-windforce-fans-8gb-128-bit-gddr6-gv-n4060wf2oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Palit GeForce RTX 4060 Dual 8GB GDDR6 Graphics Card \u2013 NE64060019P1-1070D...",
+    "shop": "netcodex",
+    "price": 18200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4060-dual-8gb-gddr6-graphics-card-ne64060019p1-1070d/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "GIGABYTE GeForce RTX 3060 Vision OC 12G (REV2.0) Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR...",
+    "shop": "netcodex",
+    "price": 20200.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-vision-oc-12g-rev2-0-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6-gv-n3060vision-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "MSI GeForce RTX 3050 Gaming X 8G 8GB GDDR6 128-Bit HDMI/DP PCIe 4 Torx Twin Fans Ampere OC Graphics ...",
+    "shop": "netcodex",
+    "price": 14700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3050-8gb-gddr6-128-bit-hdmi-dp-pcie-4-torx-twin-fans-ampere-oc-graphics-card-rtx-3050-gaming-x-8g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Palit Geforce RTX 4060 Ti DUAL 8gb 128bit GDDR6 Graphics Card NE6406T019P1-1060D...",
+    "shop": "netcodex",
+    "price": 23900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-4060-ti-dual-8gb-128bit-gddr6-graphics-card-ne6406t019p1-1060d/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Gigabyte GeForce RTX 3060 Ti Eagle OC D6X 8G Graphics Card, 3X WINDFORCE Fans, 8GB 256-bit GDDR6X, G...",
+    "shop": "netcodex",
+    "price": 22900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-ti-eagle-oc-d6x-8g-graphics-card-3x-windforce-fans-8gb-256-bit-gddr6x-gv-n306txeagle-oc-8gd-video-card-gv-n306txeagle-oc-8gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge LHR...",
+    "shop": "netcodex",
+    "price": 22495.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3060-ti-twin-edge-lhr/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "ZOTAC GAMING GeForce RTX 4060 Ti 8GB Twin Edge OC SPIDER-MAN: Across the Spider-Verse Bundle...",
+    "shop": "netcodex",
+    "price": 24995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-oc-spider-man-across-the-spider-verse-bundle/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "GIGABYTE GeForce RTX 3060 Ti Vision OC 8G Graphics Card, WINDFORCE 3X Cooling System, LHR, 8GB 256-b...",
+    "shop": "netcodex",
+    "price": 24000.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8g-graphics-card-windforce-3x-cooling-system-lhr-8gb-256-bit-gddr6-gv-n306tvision-oc-8gd-rev2-0-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Gigabyte GeForce RTX 3060 Ti Gaming OC D6X 8G Graphics Card, 3X WINDFORCE Fans, 8GB 256-bit GDDR6X, ...",
+    "shop": "netcodex",
+    "price": 24900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-d6x-8g-graphics-card-3x-windforce-fans-8gb-256-bit-gddr6x-gv-n306txgaming-oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Zotac Geforce RTX 4070 Twin Edge OC 12GB GDDR6x \u2013 ZT-D40700H-10M...",
+    "shop": "netcodex",
+    "price": 37300.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-rtx-4070-twin-edge-oc-12gb-gddr6x-192-bit-3xdp-hdmi-zt-d40700h-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 2X 8G OC LHR...",
+    "shop": "netcodex",
+    "price": 21395.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-ventus-geforce-rtx-3060-ti-8gb-gddr6-pci-express-4-0-video-card-rtx-3060-ti-ventus-2x-8g-oc-lhr/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "MSI Gaming GeForce RTX 3070 Ti 8GB GDRR6X 256-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC G...",
+    "shop": "netcodex",
+    "price": 39500.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3070-ti-8gb-gdrr6x-256-bit-hdmi-dp-nvlink-torx-fan-3-ampere-architecture-oc-graphics-card-rtx-3070-ti-gaming-x-trio-8g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080TI",
+    "description": "MSI Suprim GeForce RTX 3080 Ti LHR 12GB GDDR6X PCI Express 4.0 ATX Video Card RTX 3080 Ti SUPRIM X 1...",
+    "shop": "netcodex",
+    "price": 52495.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-suprim-geforce-rtx-3080-ti-lhr-12gb-gddr6x-pci-express-4-0-atx-video-card-rtx-3080-ti-suprim-x-12g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080TI",
+    "description": "MSI GeForce RTX 3080 Ti 12GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphic...",
+    "shop": "netcodex",
+    "price": 49995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3080-ti-12gb-gdrr6x-320-bit-hdmi-dp-nvlink-torx-fan-3-ampere-architecture-oc-graphics-card-rtx-3080-ti-gaming-x-trio-12g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "ZOTAC GeForce RTX 4090 AMP Extreme AIRO 24GB of GDDR6X Graphics Card \u2013 ZT-D40900B-10P...",
+    "shop": "netcodex",
+    "price": 109300.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-rtx-4090-amp-extreme-airo-24gb-of-gddr6x-graphics-card-zt-d40900b-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "MSI Suprim X GeForce RTX 4080 16GB GDDR6X PCI Express 4.0 Video Card RTX 4080 16GB SUPRIM X...",
+    "shop": "netcodex",
+    "price": 84900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-suprim-x-geforce-rtx-4080-16gb-gddr6x-pci-express-4-0-video-card-rtx-4080-16gb-suprim-x/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "MSI GeForce RTX 4080 16GB GAMING X TRIO Graphics Card...",
+    "shop": "netcodex",
+    "price": 81500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-4080-16gb-gaming-x-trio-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "MSI Gaming GeForce RTX 4070 Ti 12GB GDRR6X 192-Bit HDMI/DP Nvlink Tri-Frozr 3 Ada Lovelace Architect...",
+    "shop": "netcodex",
+    "price": 53500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-4070-ti-12gb-gdrr6x-192-bit-hdmi-dp-nvlink-tri-frozr-3-ada-lovelace-architecture-graphics-card-rtx-4070-ti-gaming-x-trio-12g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "ZOTAC GeForce RTX 4080 16GB AMP Extreme AIRO Graphics Card \u2013 ZT-D40810B-10P...",
+    "shop": "netcodex",
+    "price": 85900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-rtx-4080-16gb-amp-extreme-airo-graphics-card-zt-d40810b-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "ZOTAC GeForce RTX 4070 Ti AMP Extreme AIRO Graphics Card \u2013 ZT-D40710B-10P...",
+    "shop": "netcodex",
+    "price": 47995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-rtx-4070-ti-amp-extreme-airo-graphics-card-zt-d40710b-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050",
+    "description": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V...",
+    "shop": "netcodex",
+    "price": 7349.0,
+    "availability": "Unknown",
+    "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card-2/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX570",
+    "description": "GIGABYTE Radeon RX 570 Gaming 8G DirectX 12 GV-RX570GAMING-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16...",
+    "shop": "netcodex",
+    "price": 29250.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-570-gaming-8g-directx-12-gv-rx570gaming-8gd-8gb-256-bit-gddr5-pci-express-3-0-x16-crossfirex-support-atx-video-card-rx570/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX580-8GB",
+    "description": "GIGABYTE Radeon RX 580 8G DirectX 12 GV-RX580GAMING-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 ATX Vi...",
+    "shop": "netcodex",
+    "price": 10627.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-580-8g-directx-12-gv-rx580gaming-8gd-8gb-256-bit-gddr5-pci-express-3-0-x16-atx-video-card-rx580/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "PALIT GeForce GTX 1650 SUPER STORMX OC 4G GDDR6 128bit DVI HDMI DP 4GB 4 GB...",
+    "shop": "netcodex",
+    "price": 8677.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-gtx-1650-super-stormx-oc-4g-gddr6-128bit-dvi-hdmi-dp-4gb-4-gb/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "Palit GTX1650 Gaming Pro 4G GDDR6 128BIT 2XDP/HDMI DUAL FAN GamingPro GP 4GB 4 GB 4096MB GDDR6 PCI-E...",
+    "shop": "netcodex",
+    "price": 15405.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-gtx1650-gaming-pro-4g-gddr6-128bit-2xdp-hdmi-dual-fan-gamingpro-gp-4gb-4-gb-4096mb-gddr6-pci-express-nvidia-gtx-1650-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3090",
+    "description": "ZOTAC GAMING GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, I...",
+    "shop": "netcodex",
+    "price": 135525.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3090-trinity-24gb-gddr6x-384-bit-19-5-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30900d-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3090",
+    "description": "MSI GeForce RTX 3090 DirectX 12 RTX 3090 GAMING X TRIO 24G 24GB 384-Bit GDDR6X PCI Express 4.0 HDCP ...",
+    "shop": "netcodex",
+    "price": 131625.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3090-directx-12-rtx-3090-gaming-x-trio-24g-24gb-384-bit-gddr6x-pci-express-4-0-hdcp-ready-sli-support-hdmi-2-1-video-card-geforce-ampere/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "MSI GeForce RTX 3070 DirectX 12 RTX 3070 GAMING X TRIO 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready ...",
+    "shop": "netcodex",
+    "price": 82875.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3070-directx-12-rtx-3070-gaming-x-trio-8gb-256-bit-gddr6-pci-express-4-0-hdcp-ready-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "PALIT GEFORCE GTX 1660 SUPER GAMING PRO 6 GB GDDR6 PCI-EXPRESS GRAPHICS CARD GamingPro Turing GPU NE...",
+    "shop": "netcodex",
+    "price": 12300.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-gtx-1660-super-gaming-pro-6-gb-gddr6-pci-express-graphics-card-gamingpro-turing-gpu-ne6166ss18j9-1160a-1/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "MSI \u2013 Geforce RTX 3080 VENTUS 3X 10G OC BV \u2013 GDDR6X \u2013 PCI Express 4.0 \u2013 Grap...",
+    "shop": "netcodex",
+    "price": 55575.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3080-ventus-3x-10g-oc-bv-gddr6x-pci-express-4-0-graphic-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "GIGABYTE GeForce RTX 3060 Ti DirectX 12 GV-N306TGAMING OC-8GD 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ...",
+    "shop": "netcodex",
+    "price": 40950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-ti-directx-12-gv-n306tgaming-oc-8gd-8gb-256-bit-gddr6-pci-express-4-0-x16-3060ti-gaming-oc-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "GIGABYTE GeForce RTX 3070 EAGLE OC DirectX 12 GV-N3070EAGLE OC-8GD 8GB 256-Bit GDDR6 PCI Express 4.0...",
+    "shop": "netcodex",
+    "price": 68250.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3070-eagle-oc-directx-12-gv-n3070eagle-oc-8gd-8gb-256-bit-gddr6-pci-express-4-0-x16-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "PowerColor Red Devil AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by A...",
+    "shop": "netcodex",
+    "price": 58500.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/powercolor-red-devil-amd-radeon-rx-6800-xt-gaming-graphics-card-with-16gb-gddr6-memory-powered-by-amd-rdna-2-raytracing-pci-express-4-0-hdmi-2-1-amd-infinity-cache-6800xt/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, ...",
+    "shop": "netcodex",
+    "price": 57525.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3070-twin-edge-oc-8gb-gddr6-256-bit-14-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-white-led-logo-lighting-zt-a30700h-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "ZOTAC GAMING GeForce GTX 1660 SUPER AMP 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, IceSt...",
+    "shop": "netcodex",
+    "price": 20767.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1660-super-amp-6gb-gddr6-192-bit-gaming-graphics-card-super-compact-icestorm-2-0-cooling-wraparound-metal-backplate-zt-t16620d-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "ZOTAC Gaming GeForce GTX 1660 Super 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, ZT-T16620...",
+    "shop": "netcodex",
+    "price": 13455.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1660-super-6gb-gddr6-192-bit-gaming-graphics-card-super-compact-zt-t16620f-10l/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX5702",
+    "description": "MSI Gaming Radeon RX 570 256-bit 8GB GDRR5 DirectX 12 VR Ready HDCP Ready CrossFireX Support CFX Gra...",
+    "shop": "netcodex",
+    "price": 18525.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-radeon-rx-570-256-bit-8gb-gdrr5-directx-12-vr-ready-hdcp-ready-crossfirex-support-cfx-graphcis-card-rx570-armor-8g-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "GIGABYTE GeForce GTX 1660 SUPER DirectX 12 GV-N166SOC-6GD 6GB 192-Bit GDDR6 PCI Express 3.0 x16 ATX ...",
+    "shop": "netcodex",
+    "price": 33930.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1660-super-directx-12-gv-n166soc-6gd-6gb-192-bit-gddr6-pci-express-3-0-x16-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "PowerColor Red Devil AMD Radeon RX 6800 Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD ...",
+    "shop": "netcodex",
+    "price": 46800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/powercolor-red-devil-amd-radeon-rx-6800-gaming-graphics-card-with-16gb-gddr6-memory-powered-by-amd-rdna-2-raytracing-pci-express-4-0-hdmi-2-1-amd-infinity-cache-axrx-6800-16gbd6-3dhe-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "MSI GeForce RTX 3070 DirectX 12 RTX 3070 VENTUS 3X OC 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready V...",
+    "shop": "netcodex",
+    "price": 47775.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3070-directx-12-rtx-3070-ventus-3x-oc-8gb-256-bit-gddr6-pci-express-4-0-hdcp-ready-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "GIGABYTE GeForce GTX 1660 SUPER Mini ITX DirectX 12 GV-N166SIX-6GD 6GB 192-Bit GDDR6 PCI Express 3.0...",
+    "shop": "netcodex",
+    "price": 13845.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1660-super-mini-itx-directx-12-gv-n166six-6gd-6gb-192-bit-gddr6-pci-express-3-0-x16-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "MSI Nvidia GeForce GTX 1660 Gaming X 6G Graphics Card 6 GB GDDR5, 1860 Hz, RGB Mystic Light, 3x Disp...",
+    "shop": "netcodex",
+    "price": 16575.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-nvidia-geforce-gtx-1660-gaming-x-6g-graphics-card-6-gb-gddr5-1860-hz-rgb-mystic-light-3x-displayport-hdmi-dual-fan-cooling-system/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "MSI Gaming GeForce GTX 1660 Super 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Read...",
+    "shop": "netcodex",
+    "price": 12800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-gtx-1660-super-192-bit-hdmi-dp-6gb-gdrr6-hdcp-support-directx-12-dual-fan-vr-ready-oc-graphics-card-gtx-1660-super-ventus-xs-oc/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "Gigabyte GeForce RTX 3070 Gaming OC 8G LHR Graphics Card, 3X WINDFORCE Fans, 8GB 256-Bit GDDR6 Gamin...",
+    "shop": "netcodex",
+    "price": 45821.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3070-gaming-oc-8g-lhr-graphics-card-3x-windforce-fans-8gb-256-bit-gddr6-gaming-video-card-gv-n3070gaming-oc-8gd-rev-2-0/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "ZOTAC GAMING GeForce RTX 2060 6GB GDDR6 ZT-T2060H-10M Graphics Card...",
+    "shop": "netcodex",
+    "price": 30225.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-2060-6gb-gddr6-zt-t2060h-10m-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS TUF Gaming GeForce GTX 1650 4GB OC Edition Graphics Card TUF-GTX1650-O4GD6-P-GAMING 128-Bit GDD...",
+    "shop": "netcodex",
+    "price": 8766.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-tuf-gaming-geforce-gtx-1650-4gb-oc-edition-graphics-card-tuf-gtx1650-o4gd6-p-gaming-128-bit-gddr6-pci-express-3-0-hdcp-ready-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster MERC319 Radeon RX 6800XT CORE Gaming Graphics Card 16GB GDDR6 HDMI DisplayPort USB-C P...",
+    "shop": "netcodex",
+    "price": 30995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-merc319-radeon-rx-6800xt-core-gaming-graphics-card-16gb-gddr6-hdmi-displayport-usb-c-pcie-4-0-merc-319-6800-xt-rx-68xtalfd9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "GIGABYTE GV-N2060OC-6GD GeForce RTX 2060 OC 6 GB Graphics Card, 2X Windforce Fans, 6GB 192-bit GDDR6...",
+    "shop": "netcodex",
+    "price": 29436.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n2060oc-6gd-geforce-rtx-2060-oc-6-gb-graphics-card-2x-windforce-fans-6gb-192-bit-gddr6-rev2-0-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC319 AMD Radeon RX 6900 XT ULTRA Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2 ...",
+    "shop": "netcodex",
+    "price": 79950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-merc319-amd-radeon-rx-6900-xt-ultra-gaming-graphics-card-with-16gb-gddr6-hdmi-21-2-x-dp-usb-c-amd-rdna-2-merc-319-rx-69xtacud9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "MSI GeForce RTX 3070 DirectX 12 RTX 3070 VENTUS 2X OC 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready V...",
+    "shop": "netcodex",
+    "price": 78975.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3070-directx-12-rtx-3070-ventus-2x-oc-8gb-256-bit-gddr6-pci-express-4-0-hdcp-ready-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "Palit GeForce RTX 3060 Dual 12GB GDDR6 Graphics Card, 3584 Core, 1320 MHz GPU, 1837 MHz Boost, Amper...",
+    "shop": "netcodex",
+    "price": 46800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-3060-dual-12gb-gddr6-graphics-card-3584-core-1320-mhz-gpu-1837-mhz-boost-ampere-architechture-3-x-displayport-hdmi-dual-fans-with-0-db-tech-ne63060019k9-190ad/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Palit GeForce RTX 3060 Ti Dual Graphics Card 3060ti 8G GDDR6 256BIT 3-DP HDMI VGA NE6306T019P2-190AD...",
+    "shop": "netcodex",
+    "price": 53625.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-3060-ti-dual-graphics-card-3060ti-8g-gddr6-256bit-3-dp-hdmi-vga-ne6306t019p2-190ad/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6700XT",
+    "description": "XFX Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1 6...",
+    "shop": "netcodex",
+    "price": 46800.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-radeon-rx-6700-xt-gaming-graphics-card-with-12gb-gddr6-memory-powered-by-amd-rdna-2-hdmi-2-1-6700xt-rx-67tmydfd8/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "ASUS GeForce GTX 1050 Ti 4GB PHOENIX Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card 1050Ti PH-GT...",
+    "shop": "netcodex",
+    "price": 7976.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/asus-geforce-gtx-1050-ti-4gb-phoenix-fan-edition-dvi-d-hdmi-dp-1-4-gaming-graphics-card-1050ti-ph-gtx1050ti-4g/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "Asus GeForce GT 710 2GB GDDR5 HDMI VGA DVI GT710 Graphics Card Graphic Cards GT710-SL-2GD5-BRK...",
+    "shop": "netcodex",
+    "price": 2849.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/asus-geforce-gt-710-2gb-gddr5-hdmi-vga-dvi-gt710-graphics-card-graphic-cards-gt710-sl-2gd5-brk/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2x...",
+    "shop": "netcodex",
+    "price": 53995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-merc319-amd-radeon-rx-6900-xt-black-gaming-graphics-card-with-16gb-gddr6-hdmi-21-2xdp-usb-c-amd-rdna-2-6900xt-rx-69xtacbd9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "GIGABYTE GeForce RTX 3060 Ti GAMING OC PRO 8GB Video Card, GV-N306TGAMINGOC PRO-8GD...",
+    "shop": "netcodex",
+    "price": 61912.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8gb-video-card-gv-n306tgamingoc-pro-8gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Twin-Frozr Torx Fan Ampere RGB...",
+    "shop": "netcodex",
+    "price": 44850.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3060-12gb-15-gbps-gdrr6-192-bit-hdmi-dp-pcie-4-twin-frozr-torx-fan-ampere-rgb-oc-graphics-card-rtx-3060-gaming-x-12g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "GIGABYTE GV-N2060D6-6GD GeForce RTX 2060 6 GB Graphics Card, 2X Windforce Fans, 6GB 192-bit GDDR6 Vi...",
+    "shop": "netcodex",
+    "price": 29737.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n2060d6-6gd-geforce-rtx-2060-6-gb-graphics-card-2x-windforce-fans-6gb-192-bit-gddr6-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3090",
+    "description": "MSI GeForce RTX 3090 SUPRIMX  SUPRIM X Graphics Card...",
+    "shop": "netcodex",
+    "price": 142350.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3090-suprimx-suprim-x-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "ZOTAC GAMING GeForce RTX 3080 Trinity OC NON-LHR 10GB GDDR6X 320-bit 19 Gbps PCIE 4.0 Gaming Graphic...",
+    "shop": "netcodex",
+    "price": 107250.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3080-trinity-oc-non-lhr-10gb-gddr6x-320-bit-19-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-non-lhr-zt-a30800j-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "MSI GeForce RTX 3080 GAMING Z TRIO 10G...",
+    "shop": "netcodex",
+    "price": 100912.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-rtx-3080-gaming-z-trio-10g/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "GIGABYTE GeForce GTX 1650 OC 4G Graphics Card, 2 x WINDFORCE Fans, 4GB 128-Bit GDDR5, GV-N1650OC-4GD...",
+    "shop": "netcodex",
+    "price": 15112.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1650-oc-4g-graphics-card-2-x-windforce-fans-4gb-128-bit-gddr5-gv-n1650oc-4gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "GIGABYTE GeForce GTX 1660 SUPER DirectX 12 GV-N166SD6-6GD 6GB 192-Bit GDDR6 PCI Express 3.0 x16 ATX ...",
+    "shop": "netcodex",
+    "price": 12700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1660-super-directx-12-gv-n166sd6-6gd-6gb-192-bit-gddr6-pci-express-3-0-x16-atx-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "Gigabyte Geforce GTX 1050 Ti 4GB GDDR5 128 Bit PCI-E Graphic Card GV-N105TD5-4GD...",
+    "shop": "netcodex",
+    "price": 14625.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1050-ti-4gb-gddr5-128-bit-pci-e-graphic-card-gv-n105td5-4gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660TI",
+    "description": "GIGABYTE GeForce GTX 1660 Ti OC 6G 192-bit GDDR6 DisplayPort 1.4 HDMI 2.0B with Windforce 2X Cooling...",
+    "shop": "netcodex",
+    "price": 26227.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1660-ti-oc-6g-192-bit-gddr6-displayport-1-4-hdmi-2-0b-with-windforce-2x-cooling-system-1660ti-graphic-cards-gv-n166toc-6gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "Gigabyte Gv-N1660OC-6GD GeForce GTX 1660 OC 6G Graphics Card, 2X Windforce Fans, 6GB 192-Bit GDDR5, ...",
+    "shop": "netcodex",
+    "price": 23298.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gv-n1660oc-6gd-geforce-gtx-1660-oc-6g-graphics-card-2x-windforce-fans-6gb-192-bit-gddr5-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "Palit GeForce GT 710 Single NEAT7100HD46-2080F 2GB DDR3 64-bit PCI-E 2.0 GT710 Desktop Graphics Card...",
+    "shop": "netcodex",
+    "price": 2632.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-gt-710-single-neat7100hd46-2080f-2gb-ddr3-64-bit-pci-e-2-0-gt710-desktop-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "MSI Gaming GeForce GTX 1660 Super 192-bit HDMI/DP 6GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Read...",
+    "shop": "netcodex",
+    "price": 30615.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-gtx-1660-super-192-bit-hdmi-dp-6gb-gdrr6-hdcp-support-directx-12-dual-fan-vr-ready-oc-graphics-card-gtx-1660-super-gaming-x/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "ZOTAC Gaming GeForce RTX 2060 Twin Fan 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, IceSto...",
+    "shop": "netcodex",
+    "price": 28762.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-2060-twin-fan-6gb-gddr6-192-bit-gaming-graphics-card-super-compact-icestorm-2-0-zt-t20600q-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Ti AMP Holo 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, ...",
+    "shop": "netcodex",
+    "price": 57427.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3070-ti-amp-holo-8gb-gddr6x-256-bit-19-gbps-pcie-4-0-gaming-graphics-card-holoblack-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-3070ti-zt-a30700f-10plhr/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "Colorful GeForce GTX 1050 Ti 4GB GDDR5 128 Bit Gaming Graphics Card ,PCI Express 3.0 16X,with Twin C...",
+    "shop": "netcodex",
+    "price": 10725.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gtx-1050-ti-4gb-gddr5-128-bit-gaming-graphics-card-pci-express-3-0-16xwith-twin-cooling-fan-colorful-gtx-1050ti-ne-4g-v/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "GIGABYTE Gaming OC GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 x16 ATX 3070Ti Video Card GV-N307T...",
+    "shop": "netcodex",
+    "price": 48750.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-gaming-oc-geforce-rtx-3070-ti-8gb-gddr6x-pci-express-4-0-x16-atx-3070ti-video-card-gv-n307tgaming-oc-8gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "Colorful GeForce RTX 3060 NB 12G-V 12GB GDDR6 with Metal Back Plate Gaming Graphics Card...",
+    "shop": "netcodex",
+    "price": 35100.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-rtx-3060-nb-12g-v-12gb-gddr6-with-metal-back-plate-gaming-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics...",
+    "shop": "netcodex",
+    "price": 25740.0,
+    "availability": "Unknown",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3060-ti-twin-edge-oc-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-active-fan-control-freeze-fan-stop-3060ti-zt-a30610h-10mlhr/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050",
+    "description": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V...",
+    "shop": "netcodex",
+    "price": 7349.0,
+    "availability": "Unknown",
+    "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "Palit RTX 3070 Ti GamingPro 8GB 256-bit GDDR6X Graphics Card, 3070TI, Gaming Pro, NED307T019P2-1046A...",
+    "shop": "netcodex",
+    "price": 54600.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-rtx-3070-ti-gamingpro-8gb-256-bit-gddr6x-graphics-card-3070ti-gaming-pro-ned307t019p2-1046a/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "Palit GeForce RTX 3060 Ti Dual V1 LHR Graphics Card 3060ti 8G GDDR6 256BIT 3-DP HDMI VGA NE6306T019P...",
+    "shop": "netcodex",
+    "price": 23400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-rtx-3060-ti-dual-v1-lhr-graphics-card-3060ti-8g-gddr6-256bit-3-dp-hdmi-vga-ne6306t019p2-190ad-v1/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "ZOTAC GeForce GTX 1050 Ti DirectX 12 ZT-P10510A-10L 4GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Min...",
+    "shop": "netcodex",
+    "price": 9850.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-ti-directx-12-zt-p10510a-10l-4gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GeForce GTX 1650 SUPER 4GB GDDR6 PCI Express 3.0 Video Card ZT-T16510F-10L...",
+    "shop": "netcodex",
+    "price": 17062.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-geforce-gtx-1650-super-4gb-gddr6-pci-express-3-0-video-card-zt-t16510f-10l/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16520F-1...",
+    "shop": "netcodex",
+    "price": 14625.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520f-10l/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "GIGABYTE AORUS GeForce RTX 3070 Ti Master 8GB GDDR6X PCI Express 4.0 ATX Video Card 3070Ti Gaming Gr...",
+    "shop": "netcodex",
+    "price": 58402.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-3070-ti-master-8gb-gddr6x-pci-express-4-0-atx-video-card-3070ti-gaming-graphics-card-gv-n307taorus-m-8gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "MSI GeForce GTX 1050 Ti 4GT OCV1 4GB GDDR5 Graphics Card 1050Ti...",
+    "shop": "netcodex",
+    "price": 11700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-gtx-1050-ti-4gt-ocv1-4gb-gddr5-graphics-card-1050ti/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "Colorful iGame GeForce RTX 3060 Ultra W OC 12G LHR GDDR6 12GB Ultra W OC 12G L-V \u2013 GA106-302 (...",
+    "shop": "netcodex",
+    "price": 34125.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-3060-ultra-w-oc-12g-lhr-gddr6-12gb-ultra-w-oc-12g-l-v-ga106-302-pci-device-id-2504/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "Colorful iGame GeForce RTX 3060 Advanced OC 12G L-V LHR 12GB GDDR6 \u2013 GA106-302 (PCI Device ID:...",
+    "shop": "netcodex",
+    "price": 24423.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-igame-geforce-rtx-3060-advanced-oc-12g-l-v-lhr-12gb-gddr6-ga106-302-pci-device-id-2504-2-years-warranty-local-release/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "GALAX GeForce RTX 3070 Ti SG (1-Click OC) LHR 8GB GDDR6X 256-bit DP x 3 / HDMI PCIe Gen 4 3070ti Gam...",
+    "shop": "netcodex",
+    "price": 50407.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/galax-geforce-rtx-3070-ti-sg-1-click-oc-lhr-8gb-gddr6x-256-bit-dp-x-3-hdmi-pcie-gen-4-3070ti-gaming-graphics-card-video-card-37ism6md4bsg/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "MSI Gaming GeForce RTX 3060 Ventus 2X 12G OC LHR 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Twin...",
+    "shop": "netcodex",
+    "price": 17900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3060-ventus-2x-12g-oc-lhr-12gb-15-gbps-gdrr6-192-bit-hdmi-dp-pcie-4-torx-twin-fan-ampere-oc-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "GALAX GeForce Nvidia RTX 3080 SG (1-Click OC) LHR 10GB GDDR6X 320-bit Gaming Graphics Card...",
+    "shop": "netcodex",
+    "price": 63375.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/galax-geforce-nvidia-rtx-3080-sg-1-click-oc-lhr-10gb-gddr6x-320-bit-gaming-graphics-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "GIGABYTE Radeon RX 6600 XT GAMING OC PRO 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit ...",
+    "shop": "netcodex",
+    "price": 31190.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-6600-xt-gaming-oc-pro-8g-graphics-card-windforce-3x-cooling-system-8gb-128-bit-gddr6-6600xt-gv-r66xtgamingoc-pro-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "GIGABYTE Radeon RX 6600 EAGLE 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R...",
+    "shop": "netcodex",
+    "price": 12950.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-6600-eagle-8g-graphics-card-windforce-3x-cooling-system-8gb-128-bit-gddr6-gv-r66eagle-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "MSI Suprim X GeForce RTX 3070 Ti (LHR) 8GB GDDR6X PCI Express 4.0 x16 Video Card RTX 3070Ti SUPRIM X...",
+    "shop": "netcodex",
+    "price": 53625.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-suprim-x-geforce-rtx-3070-ti-lhr-8gb-gddr6x-pci-express-4-0-x16-video-card-rtx-3070ti-suprim-x-8g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "GIGABYTE Radeon RX 6600 XT GAMING OC 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR...",
+    "shop": "netcodex",
+    "price": 20474.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-radeon-rx-6600-xt-gaming-oc-8g-graphics-card-windforce-3x-cooling-system-8gb-128-bit-gddr6-gv-r66xtgaming-oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "MSI GeForce GTX 1650 Ventus XS OC 4GB GDRR5 128-Bit HDMI/DP/DVI HDCP Support OC Graphics Card **Offi...",
+    "shop": "netcodex",
+    "price": 8900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-gtx-1650-ventus-xs-oc-4gb-gdrr5-128-bit-hdmi-dp-dvi-hdcp-support-oc-graphics-card-official-ph-release-and-warranty-msi-geforce-gtx-1650-ventus-xs-4g-ocv1/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6700XT",
+    "description": "XFX SPEEDSTER QICK319 AMD Radeon RX 6700 XT BLACK Gaming Graphics Card with 12GB GDDR6, HDMI 3 x DP,...",
+    "shop": "netcodex",
+    "price": 29249.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-qick319-amd-radeon-rx-6700-xt-black-gaming-graphics-card-with-12gb-gddr6-hdmi-3-x-dp-amd-rdna-2-qick-319-6700xt-rx6700xt-rx-6700xt/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "GIGABYTE GeForce RTX 3050 GAMING OC 8G Graphics Card, 3x WINDFORCE Fans, 8GB GDDR6 128-bit GDDR6, GV...",
+    "shop": "netcodex",
+    "price": 15995.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-3050-gaming-oc-8g-graphics-card-3x-windforce-fans-8gb-gddr6-128-bit-gddr6-gv-n3050gaming-oc-8gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3050 Twin Edge 8GB GDDR6 128-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, ...",
+    "shop": "netcodex",
+    "price": 18525.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3050-twin-edge-8gb-gddr6-128-bit-14-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-freeze-fan-stop-active-fan-control-zt-a30500e-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3070 Ti Trinity OC 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics C...",
+    "shop": "netcodex",
+    "price": 32995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3070-ti-trinity-oc-8gb-gddr6x-256-bit-19-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30710j-10p/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "GIGABYTE GeForce GTX 1650 4GB GDDR5 PCI Express 3.0 x16 Low Profile Video Card GV-N1650D5-4GL...",
+    "shop": "netcodex",
+    "price": 8700.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1650-4gb-gddr5-pci-express-3-0-x16-low-profile-video-card-gv-n1650d5-4gl/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "Colorful GeForce GTX 1650 NB 4GD6-V 4GB GDDR6 128bit Base 1410Mhz Boost 1710Mhz...",
+    "shop": "netcodex",
+    "price": 7995.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gtx-1650-nb-4gd6-v-4gb-gddr6-128bit-base-1410mhz-boost-1710mhz/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "Colorful GeForce GTX 1660 SUPER NB 6G V2-V...",
+    "shop": "netcodex",
+    "price": 14722.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/colorful-geforce-gtx-1660-super-nb-6g-v2-v/"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "MSI GeForce GT 1030 AERO ITX 2GD4 OC Graphics Card \u2013 2GB DDR4...",
+    "shop": "netcodex",
+    "price": 4650.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-geforce-gt-1030-aero-itx-2gd4-oc-graphics-card-2gb-ddr4/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "PALIT GeForce GTX 1050 TI STORMX 4GB GDDR5 (DVI / HDMI / DP) 128BIT Graphics Card \u2013 NE5105T018...",
+    "shop": "netcodex",
+    "price": 9506.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-gtx-1050-ti-stormx-4gb-gddr5-dvi-hdmi-dp-128bit-graphics-card-ne5105t018g1-1070f/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "GIGABYTE GeForce GTX 1650 D5 4G Graphics Cards 4GB GDDR5 DP HDMI \u2013 GV-N1650D5-4GD...",
+    "shop": "netcodex",
+    "price": 9295.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-gtx-1650-d5-4g-graphics-cards-4gb-gddr5-dp-hdmi-gv-n1650d5-4gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "Gigabyte GeForce RTX 4090 GAMING OC 24G \u2013 GV-N4090GAMING OC-24GD...",
+    "shop": "netcodex",
+    "price": 115400.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4090-gaming-oc-24g-gv-n4090gaming-oc-24gd/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "PALIT GEFORCE GTX 1660 SUPER GAMING PRO 6 GB GDDR6 PCI-EXPRESS GRAPHICS CARD GamingPro Turing GPU NE...",
+    "shop": "netcodex",
+    "price": 12300.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/palit-geforce-gtx-1660-super-gaming-pro-6-gb-gddr6-pci-express-graphics-card-gamingpro-turing-gpu-ne6166s018j9-1160a-1/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 4 RGB Ampere Architectur...",
+    "shop": "netcodex",
+    "price": 54301.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3080-lhr-12gb-gdrr6x-384-bit-hdmi-dp-nvlink-torx-fan-4-rgb-ampere-architecture-oc-graphics-card-rtx-3080-gaming-z-trio-12g-lhr/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX SPEEDSTER MERC 310 AMD Radeon RX 7900 XTX Black Edition 24GB GDDR6 Gaming Graphics Card \u2013 ...",
+    "shop": "netcodex",
+    "price": 73124.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/xfx-speedster-merc-310-amd-radeon-rx-7900-xtx-black-edition-24gb-gddr6-gaming-graphics-card-rx-79xmercb9/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4090",
+    "description": "GIGABYTE AORUS GeForce RTX 4090 Master 24G Graphics Card, 3X WINDFORCE Fans, 24GB 384-bit GDDR6X, GV...",
+    "shop": "netcodex",
+    "price": 117895.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-aorus-geforce-rtx-4090-master-24g-graphics-card-3x-windforce-fans-24gb-384-bit-gddr6x-gv-n4090aorus-m-24gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX 4070 Ti GAMING OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV...",
+    "shop": "netcodex",
+    "price": 52900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/gigabyte-geforce-rtx-4070-ti-gaming-oc-12g-graphics-card-3x-windforce-fans-12gb-192-bit-gddr6x-gv-n407tgaming-oc-12gd-video-card/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "Sapphire SPR-11322-01-40G Nitro+ AMD Radeon RX 7900 XTX Vapor-X Gaming Graphics Card with 24GB GDDR6...",
+    "shop": "netcodex",
+    "price": 75073.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-spr-11322-01-40g-nitro-amd-radeon-rx-7900-xtx-vapor-x-gaming-graphics-card-with-24gb-gddr6-amd-rdna-3/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "PowerColor RED DEVIL Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 ATX 7900XTX Video Card RX7900XTX ...",
+    "shop": "netcodex",
+    "price": 69900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/powercolor-red-devil-radeon-rx-7900-xtx-24gb-gddr6-pci-express-4-0-atx-7900xtx-video-card-rx7900xtx-24g-e-oc-limited-rx7900xtx-24g-e-oc-limited-edition/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "ZOTAC Gaming GeForce RTX 3060 Twin Edge 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, Ic...",
+    "shop": "netcodex",
+    "price": 17795.0,
+    "availability": "In Stock",
+    "link": "https://netcodex.ph/product/zotac-gaming-geforce-rtx-3060-twin-edge-12gb-gddr6-192-bit-15-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-cooling-active-fan-control-freeze-fan-stop-zt-a30600e-10m/"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "GALAX GeForce GTX 1660 Super (1-Click OC) 6GB GDDR6 192-bit DP/HDMI/DVI-D...",
+    "shop": "netcodex",
+    "price": 12900.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/galax-geforce-gtx-1660-super-1-click-oc-6gb-gddr6-192-bit-dp-hdmi-dvi-d/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "MSI Gaming GeForce RTX 3060 Ti LHR 8GB GDRR6 256-Bit HDMI/DP Nvlink Torx Fan 4 RGB Ampere Architectu...",
+    "shop": "netcodex",
+    "price": 26324.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/msi-gaming-geforce-rtx-3060-ti-lhr-8gb-gdrr6-256-bit-hdmi-dp-nvlink-torx-fan-4-rgb-ampere-architecture-oc-graphics-card/"
   },
   {
     "category": "GPU",
