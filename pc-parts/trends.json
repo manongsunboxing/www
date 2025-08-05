@@ -15358,12 +15358,12 @@
       {
         "model": "GT710",
         "date": "2025-08-05",
-        "price": 2500.0,
+        "price": 2295.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-gt-710-2gd3h-lp-2gb-ddr3-graphics-card/",
-            "name": "MSI GT 710 2GD3H LP 2GB DDR3 Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-geforce-gt710-nf-1gd3-v-graphics-card-1gb-ddr3-1333mhz-effective-memory-speed/",
+            "name": "COLORFUL GEFORCE GT710 NF 1GD3-V Graphics Card (1GB DDR3, 1333MHz effective memory speed)..."
           }
         ]
       }
@@ -16574,12 +16574,12 @@
       {
         "model": "GTX1650",
         "date": "2025-08-05",
-        "price": 7850.0,
+        "price": 7795.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/zotac-gaming-geforce-gtx-1650-amp-core-gddr6-graphics-card/",
-            "name": "ZOTAC GAMING GeForce GTX 1650 AMP Core GDDR6 Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1650-amp-core-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520j-10l/",
+            "name": "ZOTAC Gaming GeForce GTX 1650 AMP CORE 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16..."
           }
         ]
       }
@@ -22713,12 +22713,12 @@
       {
         "model": "GT1030-2GB",
         "date": "2025-08-05",
-        "price": 3850.0,
+        "price": 3295.0,
         "stores": [
           {
-            "store": "pinklehub",
-            "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-ddr4",
-            "name": "GALAX GeForce\u00ae GT 1030 DDR4 2GB DDR4 64-bit HDMI 2.0b/DVI-D"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-2g-v3-v-graphics-card-2gb-gddr5-64-bit-memory-bus/",
+            "name": "Colorful GT1030 2G V3-V Graphics Card (2GB GDDR5, 64-bit memory bus)..."
           }
         ]
       }
@@ -32111,12 +32111,12 @@
       {
         "model": "RX6750XT",
         "date": "2025-08-05",
-        "price": 23950.0,
+        "price": 23295.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/xfx-speedster-qick-319-amd-radeon-rx-6750-xt-core-12gb-gddr6-gaming-graphics-card/",
-            "name": "XFX SPEEDSTER QICK 319 AMD Radeon RX 6750 XT Core 12GB GDDR6 Gaming Graphics Card RX-675XYJFDP"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-radeon-rx-6750-xt-speedster-qick-319-core-gaming-graphics-card-rx-675xyjfdp/",
+            "name": "XFX Radeon RX 6750 XT SPEEDSTER QICK 319 Core Gaming Graphics Card \u2013 RX-675XYJFDP..."
           }
         ]
       }
@@ -34377,12 +34377,12 @@
       {
         "model": "GT1030-4GB",
         "date": "2025-08-05",
-        "price": 4500.0,
+        "price": 4295.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-gt-1030-4gd4-lp-oc-4gb-ddr4-graphics-card/",
-            "name": "MSI GeForce GT 1030 4GD4 LP OC 4GB DDR4 Graphics Card"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-4g-v-graphics-card-4gb-gddr5-64-bit-memory-bus/",
+            "name": "Colorful GT1030 4G-V Graphics Card (4GB GDDR5, 64-bit memory bus)..."
           }
         ]
       }
@@ -46607,12 +46607,12 @@
       {
         "model": "RX580-8GB",
         "date": "2025-08-05",
-        "price": 5995.0,
+        "price": 5195.0,
         "stores": [
           {
-            "store": "easypc",
-            "link": "https://easypc.com.ph/products/biostar-rx-580-va5805rv82-dual-cooling-fan-8gb-256bit-gddr5-gaming-videocard",
-            "name": "Biostar Rx 580 VA5805RV82 Dual Cooling Fan 8gb 256bit GDdr5 Gaming Videocard"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/ramsta-rx580-jx-dual-fan-8-gb-gddr5-256-bit-graphics-card/",
+            "name": "Ramsta RX580 JX Dual Fan 8 GB GDDR5 256-bit Graphics Card..."
           }
         ]
       }
@@ -47617,6 +47617,23 @@
             "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
           }
         ]
+      },
+      {
+        "model": "GTX1050",
+        "date": "2025-08-05",
+        "price": 7349.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card-2/",
+            "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
+          },
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/",
+            "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
+          }
+        ]
       }
     ],
     "RX550": [
@@ -48055,6 +48072,18 @@
       {
         "model": "RX550",
         "date": "2025-08-04",
+        "price": 2995.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/powercolor-amd-radeon-rx-550-low-profile-graphics-card-with-2gb-gddr5-memory/",
+            "name": "PowerColor AMD Radeon RX 550 Low Profile Graphics Card with 2GB GDDR5 Memory..."
+          }
+        ]
+      },
+      {
+        "model": "RX550",
+        "date": "2025-08-05",
         "price": 2995.0,
         "stores": [
           {
