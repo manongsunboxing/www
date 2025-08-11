@@ -8393,7 +8393,7 @@
     "description": "Sapphire Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6 Dual HDMI/Dual DP Lite Graphics Card",
     "shop": "datablitz",
     "price": 31895.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-7800-xt-gaming-16gb-gddr6-dual-hdmi-dual-dp-lite-graphics-card"
   },
   {
@@ -8411,7 +8411,7 @@
     "description": "Sapphire Pulse AMD Radeon RX 7600 Gaming OC 8GB GDDR6 Graphics Card",
     "shop": "datablitz",
     "price": 16450.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-7600-gaming-oc-8gb-gddr6-graphics-card"
   },
   {
@@ -8542,21 +8542,21 @@
   },
   {
     "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "Gigabyte Geforce RTX 4060 Ti Gaming OC 8GB GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 24950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-8gb-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX3060-12GB",
     "description": "Asus Dual GeForce RTX 3060 O12G V2 Graphics Card",
     "shop": "datablitz",
     "price": 18395.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/asus-dual-geforce-rtx-3060-12g-v2-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Gigabyte Geforce RTX 4060 Ti Gaming OC 8GB GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 24950.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-8gb-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -8704,6 +8704,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "Gigabyte GeForce RTX 4060 Ti Gaming OC 16GB GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 29695.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-16gb-gddr6-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX4060",
     "description": "Gigabyte GeForce RTX 4060 Windforce OC 8GB Graphics Card (GV-N4060WF2OC-8GD)",
     "shop": "datablitz",
@@ -8737,15 +8746,6 @@
     "price": 34650.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-4070-nb-ex-v-12gb-gddr6x-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "Gigabyte GeForce RTX 4060 Ti Gaming OC 16GB GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 29695.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-16gb-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -8812,6 +8812,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5070",
+    "description": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 36895.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070XT",
     "description": "Sapphire Pulse AMD Radeon RX 9070 XT Gaming 16GB Dual HDMI/Dual DP Graphics Card",
     "shop": "datablitz",
@@ -8839,15 +8848,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5070",
-    "description": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 36895.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RX9070XT",
     "description": "Sapphire Nitro+ AMD Radeon RX 9070 XT Gaming OC 16GB Dual HDMI / Dual DP Graphics Card",
     "shop": "datablitz",
@@ -8863,6 +8863,15 @@
     "price": 18950.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-4060-ultra-w-duo-oc-8gb-v-gddr6-graphics-card-1"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "Colorful GeForce RTX 3060 NB DUO 12G V2 L-V GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 15795.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -8899,15 +8908,6 @@
     "price": 68950.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4080-super-gaming-oc-16gb-gddr6x-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3060-12GB",
-    "description": "Colorful GeForce RTX 3060 NB DUO 12G V2 L-V GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 15795.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -9221,7 +9221,7 @@
     "description": "MSI GeForce RTX 3050 Ventus 2X E 6GB OC GDDR6 Graphics Card",
     "shop": "datablitz",
     "price": 10650.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-gddr6-graphics-card"
   },
   {
@@ -10252,6 +10252,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "ASRock AMD Radeon RX 9060 XT Challenger 16GB GDDR6 OC Graphics Card",
+    "shop": "datablitz",
+    "price": 23450.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9060-xt-challenger-16gb-gddr6-oc-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5060",
     "description": "Gigabyte GeForce RTX 5060 Eagle OC Ice 8GB GDDR7 Graphics Card",
     "shop": "datablitz",
@@ -10276,6 +10285,15 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/ayaneo-starship-graphics-dock-amd-radeon-rx-7600m-xt-nebula-red"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Mercury AMD Radeon RX 9070 XT OC Gaming Ed. with RGB 16GB GDDR6 Graphics Card (RX-97TRGBBB9)",
+    "shop": "datablitz",
+    "price": 50950.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/xfx-mercury-amd-radeon-rx-9070-xt-oc-gaming-ed-with-rgb-16gb-gddr6-graphics-card-rx-97trgbbb9"
   },
   {
     "category": "GPU",
@@ -10306,6 +10324,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "ASUS TUF Gaming Geforce RTX 5060 Ti 16GB GDDR7 OC Graphics Card",
+    "shop": "datablitz",
+    "price": 34995.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-geforce-rtx-5060-ti-16gb-gddr7-oc-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070XT",
     "description": "Gigabyte Aorus Radeon RX 9070 XT Elite 16GB GDDR6 Graphics Card",
     "shop": "datablitz",
@@ -10319,7 +10346,7 @@
     "description": "MSI GeForce RTX 5070 12GB Shadow 2X OC Graphics Card",
     "shop": "datablitz",
     "price": 37995.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5070-12gb-shadow-2x-oc-graphics-card"
   },
   {
@@ -10567,15 +10594,6 @@
   },
   {
     "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "ASRock AMD Radeon RX 9060 XT Challenger 16GB GDDR6 OC Graphics Card",
-    "shop": "datablitz",
-    "price": 23450.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9060-xt-challenger-16gb-gddr6-oc-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5060TI-16GB",
     "description": "Zotac Gaming GeForce RTX 5060 Ti 16GB GDDR7 AMP Graphics Card (ZT-B50620F-10M)",
     "shop": "datablitz",
@@ -10639,15 +10657,6 @@
   },
   {
     "category": "GPU",
-    "model": "RX9070XT",
-    "description": "XFX Mercury AMD Radeon RX 9070 XT OC Gaming Ed. with RGB 16GB GDDR6 Graphics Card (RX-97TRGBBB9)",
-    "shop": "datablitz",
-    "price": 50950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/xfx-mercury-amd-radeon-rx-9070-xt-oc-gaming-ed-with-rgb-16gb-gddr6-graphics-card-rx-97trgbbb9"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5060TI-16GB",
     "description": "MSI GeForce RTX 5060 Ti 16GB Gaming Trio OC GDDR7 Graphics Card",
     "shop": "datablitz",
@@ -10663,15 +10672,6 @@
     "price": 31950.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5060-ti-eagle-oc-16gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "ASUS TUF Gaming Geforce RTX 5060 Ti 16GB GDDR7 OC Graphics Card",
-    "shop": "datablitz",
-    "price": 34995.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-geforce-rtx-5060-ti-16gb-gddr7-oc-graphics-card"
   },
   {
     "category": "GPU",
@@ -11063,6 +11063,15 @@
   {
     "category": "GPU",
     "model": "RTX5060",
+    "description": "MSI GeForce RTX 5060 8GB GDDR7 Shadow 2X OC Graphics Card",
+    "shop": "datablitz",
+    "price": 19550.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-8gb-gddr7-shadow-2x-oc-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
     "description": "MSI GeForce RTX 5060 8GB GDDR7 Ventus 2X OC Graphics Card White",
     "shop": "datablitz",
     "price": 20450.0,
@@ -11098,6 +11107,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060",
+    "description": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition Graphics Card",
+    "shop": "datablitz",
+    "price": 20950.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5070",
     "description": "MSI GeForce RTX 5070 12GB GDDR7 Inspire 3X OC Graphics Card",
     "shop": "datablitz",
@@ -11113,6 +11131,15 @@
     "price": 24695.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-ti-8gb-gddr7-ventus-2x-plus-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "Asus Prime GeForce RTX 5060 OC 8GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 22995.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-geforce-rtx-5060-oc-8gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -11782,6 +11809,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC GDDR7 Graphics Card (White)",
+    "shop": "datablitz",
+    "price": 27895.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-gddr7-graphics-card-white"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5060TI-8GB",
     "description": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge GDDR7 Graphics Card (ZT-B50610E-10M)",
     "shop": "datablitz",
@@ -11836,15 +11872,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5060",
-    "description": "MSI GeForce RTX 5060 8GB GDDR7 Shadow 2X OC Graphics Card",
-    "shop": "datablitz",
-    "price": 19550.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-8gb-gddr7-shadow-2x-oc-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5050",
     "description": "MSI GeForce RTX 5050 8GB GDDR6 Shadow 2X OC Graphics Card",
     "shop": "datablitz",
@@ -11890,15 +11917,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX5060",
-    "description": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition Graphics Card",
-    "shop": "datablitz",
-    "price": 20950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card"
-  },
-  {
-    "category": "GPU",
     "model": "RTX5090",
     "description": "Asus ROG Astral Geforce RTX 5090 OC 32GB GDDR7 Gaming Graphics Card + Asus ROG Thor 1200W Platinum III Gaming Power Supply Bundle",
     "shop": "datablitz",
@@ -11923,15 +11941,6 @@
     "price": 19950.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-infinity-3-8gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "Asus Prime GeForce RTX 5060 OC 8GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 22995.0,
-    "availability": "Out of Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-geforce-rtx-5060-oc-8gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -12551,7 +12560,7 @@
     "description": "Colorful GeForce RTX 4070 Ti NB EX-V 12GB GDDR6X Graphics Card",
     "shop": "datablitz",
     "price": 44495.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-4070-ti-nb-ex-v-12gb-gddr6x-graphics-card"
   },
   {
@@ -12904,15 +12913,6 @@
     "price": 15595.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5050-8gb-twin-edge-oc-gddr6-graphics-card-zt-b50500h-10m"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC GDDR7 Graphics Card (White)",
-    "shop": "datablitz",
-    "price": 27895.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-gddr7-graphics-card-white"
   },
   {
     "category": "GPU",
@@ -14603,7 +14603,7 @@
     "description": "Asus Prime B650M-K DDR5 AM5 Motherboard",
     "shop": "dynaquest",
     "price": 6870.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/asus-prime-b650m-k-ddr5-am5-motherboard"
   },
   {
@@ -16993,15 +16993,6 @@
   },
   {
     "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "XFX RX 9060 XT 16GB GDDR6 OC White Swift AMD Radeon Graphics Card (RX-96TS316W7)",
-    "shop": "itworld",
-    "price": 24489.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx-96ts316w7-xfx-rx-9060-xt-16gb-gddr6-oc-white-swift-amd-radeon-graphics-card-rx-96ts316w7-17189?page=8&category=172"
-  },
-  {
-    "category": "GPU",
     "model": "RX7600",
     "description": "ASUS RX7600 8GB GDDR6 EVO OC Dual Radeon AMD Graphics Card (DUAL-RX7600-O8G-EVO) | itw",
     "shop": "itworld",
@@ -17025,7 +17016,7 @@
     "shop": "itworld",
     "price": 10449.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-rtx-3050-ventus-2x-e-6g-oc-itw-msi-geforce-rtx-3050-ventus-2x-e-6g-oc-6gb-gddr6-dual-fan-oc-edition-graphics-card-17312?page=9&category=172"
+    "link": "https://www.itworldph.com/shop/msi-rtx-3050-ventus-2x-e-6g-oc-itw-msi-geforce-rtx-3050-ventus-2x-e-6g-oc-6gb-gddr6-dual-fan-oc-edition-graphics-card-17312?page=8&category=172"
   },
   {
     "category": "GPU",
@@ -17170,6 +17161,15 @@
     "price": 21750.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/asus-dual-radeon-rx-9060-xt-8g-gddr6-graphics-card-with-rdna-4-and-3150-mhz-boost-clock-dual-rx9060xt-8g/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "Sapphire PURE AMD Radeon RX 7700 XT 12GB Frostpunk 2 Edition Graphics Card...",
+    "shop": "netcodex",
+    "price": 28450.0,
+    "availability": "Out of Stock",
+    "link": "https://netcodex.ph/product/sapphire-pure-amd-radeon-rx-7700-xt-12gb-frostpunk-2-edition-graphics-card/"
   },
   {
     "category": "GPU",
@@ -17465,7 +17465,7 @@
     "description": "XFX Swift AMD Radeon RX 9060 XT OC Black Triple Fan Gaming Edition 16GB GDDR6 Graphics Card \u2013 ...",
     "shop": "netcodex",
     "price": 24495.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9060-xt-oc-black-triple-fan-gaming-edition-16gb-gddr6-graphics-card-rx-96ts316b7/"
   },
   {
@@ -22312,2292 +22312,6 @@
   },
   {
     "category": "GPU",
-    "model": "RTX4070TI",
-    "description": "Inno3d RTX 4070Ti X3, pn: N407T3-126X-186148N",
-    "shop": "pchub",
-    "price": 40999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TI",
-    "description": "Inno3d RTX 4070Ti iChill X3, pn: C407T3-126XX-186148H",
-    "shop": "pchub",
-    "price": 41999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Inno3d RTX 5070 Twin X2 OC black, pn: N50702-12D7X-195064N",
-    "shop": "pchub",
-    "price": 39999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "6G Palit RTX 3050 Storm X, pn: NE63050018JE-1072F",
-    "shop": "pchub",
-    "price": 9499.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Palit RTX 4060 Infinity 2, pn: NE64060019P1-1070L",
-    "shop": "pchub",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Palit RTX 5080 Gaming Pro, pn: NE75080019T2-GB2031A",
-    "shop": "pchub",
-    "price": 69999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Palit RTX 5070Ti Gamerock, pn: NE7507T019T2-GB2030G",
-    "shop": "pchub",
-    "price": 54250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Palit RTX 5070Ti Gaming Pro, pn: NE7507T019T2-GB2031A",
-    "shop": "pchub",
-    "price": 53900.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Palit RTX 5070 Gaming Pro, pn: NE75070019K9-GB2050A",
-    "shop": "pchub",
-    "price": 39450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Palit RTX 5070 Infinity 3, pn: NE75070019K9-GB2050S",
-    "shop": "pchub",
-    "price": 39150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Palit RTX 5060Ti Dual, pn: NE7506T019P1-GB2062D",
-    "shop": "pchub",
-    "price": 25899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Palit RTX 5060Ti Infinity 3, pn: NE7506T019P1-GB2062S",
-    "shop": "pchub",
-    "price": 26750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Palit RTX 5060Ti Infinity 3, pn: NE7506T019T1-GB2061S",
-    "shop": "pchub",
-    "price": 28999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Palit RTX 5060 Dual, pn: NE75060019P1-GB2063D",
-    "shop": "pchub",
-    "price": 19250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Palit RTX 5060 Infinity 3, pn: NE75060019P1-GB2063S",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Palit RTX 5050 Dual, pn: NE65050019P1-GB2070D",
-    "shop": "pchub",
-    "price": 16150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Palit RTX 5050 Dual OC, pn: NE65050S19P1-GB2070D",
-    "shop": "pchub",
-    "price": 16850.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "6G Asus RTX 3050 Dual OC, pn: DUAL-RTX3050-O6G",
-    "shop": "pchub",
-    "price": 10599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070",
-    "description": "Asus RTX 4070 Prime OC, pn: PRIME-RTX4070-O12G",
-    "shop": "pchub",
-    "price": 37550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Asus RTX 4060Ti Dual OC white, pn: DUAL-RTX4060TI-O8G-WHITE",
-    "shop": "pchub",
-    "price": 25599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Asus RTX 4060Ti TUF Gaming OC, pn: TUF-RTX4060TI-O8G-GAMING",
-    "shop": "pchub",
-    "price": 27399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Asus RTX 4060Ti Strix OC, pn: ROG-STRIX-RTX4060TI-O8G-GAMING",
-    "shop": "pchub",
-    "price": 28699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Asus RTX 4060Ti Dual EVO OC, pn: DUAL-RTX4060TI-O8G-EVO",
-    "shop": "pchub",
-    "price": 25699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Asus RTX 4060Ti Prime OC, pn: PRIME-RTX4060TI-O8G",
-    "shop": "pchub",
-    "price": 24699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Asus RTX 4060 Dual EVO OC white, pn: DUAL-RTX4060-O8G-EVO-WHITE",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Asus RTX 4060 Dual OC black, pn: DUAL-RTX4060-O8G-V2",
-    "shop": "pchub",
-    "price": 19599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Asus RTX 4060 Strix OC, pn: ROG-STRIX-RTX4060-O8G-GAMING",
-    "shop": "pchub",
-    "price": 21999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "16G Asus RTX 4060Ti Dual EVO OC, pn: DUAL-RTX4060TI-O16G-EVO",
-    "shop": "pchub",
-    "price": 28999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=1"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TISUPER",
-    "description": "Asus RTX 4070TS Ti SUPER Dual OC, pn: DUAL-RTX4070TIS-O16G",
-    "shop": "pchub",
-    "price": 49999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TISUPER",
-    "description": "Asus RTX 4070TS Ti SUPER TUF BTF Gaming OC white, pn: TUF-RTX4070TIS-O16G-BTF-WH....",
-    "shop": "pchub",
-    "price": 49999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 Prime, pn: PRIME-RTX5080-16G",
-    "shop": "pchub",
-    "price": 76999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 TUF Gaming OC, pn: TUF-RTX5080-O16G-GAMING",
-    "shop": "pchub",
-    "price": 89999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 Prime OC, pn: PRIME-RTX5080-O16G",
-    "shop": "pchub",
-    "price": 77999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 ROG Astral OC, pn: ROG-ASTRAL-RTX5080-O16G-GAMING",
-    "shop": "pchub",
-    "price": 101799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Asus RTX 5090 TUF, pn: TUF-RTX5090-32G-GAMING",
-    "shop": "pchub",
-    "price": 182699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Asus RTX 5090 TUF OC, pn: TUF-RTX5090-O32G-GAMING",
-    "shop": "pchub",
-    "price": 186999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Asus RTX 5090 ROG Astral OC, pn: ROG-ASTRAL-RTX5090-O32G-GAMING",
-    "shop": "pchub",
-    "price": 189999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Asus RTX 5090 ROG Astral LC OC, pn: ROG-ASTRAL-LC-RTX5090-O32G-GAMING",
-    "shop": "pchub",
-    "price": 209999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus RTX 5070Ti Prime, pn: PRIME-RTX5070TI-16G",
-    "shop": "pchub",
-    "price": 59450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus RTX 5070Ti Prime OC, pn: PRIME-RTX5070TI-O16G",
-    "shop": "pchub",
-    "price": 61999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus RTX 5070Ti TUF Gaming OC, pn: TUF-RTX5070TI-O16G-GAMING",
-    "shop": "pchub",
-    "price": 66699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus RTX 5070Ti TUF Gaming OC white, pn: TUF-RTX5070TI-O16G-WHITE-GAMING",
-    "shop": "pchub",
-    "price": 69999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus RTX 5070Ti Strix OC, pn: ROG-STRIX-RTX5070TI-O16G-GAMING",
-    "shop": "pchub",
-    "price": 71299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 Prime OC white, pn: PRIME-RTX5070-O12G-WHITE",
-    "shop": "pchub",
-    "price": 44999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 Prime, pn: PRIME-RTX5070-12G",
-    "shop": "pchub",
-    "price": 40399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 Prime OC, pn: PRIME-RTX5070-O12G",
-    "shop": "pchub",
-    "price": 41999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 TUF Gaming OC, pn: TUF-RTX5070-O12G-GAMING",
-    "shop": "pchub",
-    "price": 44599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 Dual OC, pn: DUAL-RTX5070-O12G",
-    "shop": "pchub",
-    "price": 40599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Asus RTX 5070 Strix OC, pn: ROG-STRIX-RTX5070-O12G-GAMING",
-    "shop": "pchub",
-    "price": 52999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Asus RTX 5060Ti Prime, pn: PRIME-RTX5060TI-8G",
-    "shop": "pchub",
-    "price": 28899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Asus RTX 5060Ti Dual OC, pn: DUAL-RTX5060TI-O8G",
-    "shop": "pchub",
-    "price": 26450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Asus RTX 5060Ti Prime OC, pn: PRIME-RTX5060TI-O8G",
-    "shop": "pchub",
-    "price": 28999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Asus RTX 5060Ti TUF Gaming OC, pn: TUF-RTX5060TI-O8G-GAMING",
-    "shop": "pchub",
-    "price": 30799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Asus RTX 5060Ti Prime, pn: PRIME-RTX5060TI-16G",
-    "shop": "pchub",
-    "price": 32500.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Asus RTX 5060Ti Dual OC, pn: DUAL-RTX5060TI-O16G",
-    "shop": "pchub",
-    "price": 30999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Asus RTX 5060Ti Prime OC, pn: PRIME-RTX5060TI-O16G",
-    "shop": "pchub",
-    "price": 33199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=2"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Asus RTX 5060Ti TUF Gaming OC, pn: TUF-RTX5060TI-O16G-GAMING",
-    "shop": "pchub",
-    "price": 35999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Asus RTX 5060 Dual OC, pn: DUAL-RTX5060-O8G",
-    "shop": "pchub",
-    "price": 21399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Asus RTX 5060 Prime OC, pn: PRIME-RTX5060-O8G",
-    "shop": "pchub",
-    "price": 22950.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Asus RTX 5060 TUF Gaming OC, pn: TUF-RTX5060-O8G-GAMING",
-    "shop": "pchub",
-    "price": 25299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Asus RTX 5050 Dual OC, pn: DUAL-RTX5050-O8G",
-    "shop": "pchub",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Asus RTX 5050 Prime OC, pn: PRIME-RTX5050-O8G",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "GTX1650",
-    "description": "MSI GTX 1650 D6 Ventus XS OCV3, pn: 912-V812-003",
-    "shop": "pchub",
-    "price": 8799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-8GB",
-    "description": "8G MSI RTX 3050 Ventus 2X XS OC, pn: 912-V809-4266",
-    "shop": "pchub",
-    "price": 11999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "6G MSI RTX 3050 Ventus 2X OC, pn: 912-V812-016",
-    "shop": "pchub",
-    "price": 9999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070",
-    "description": "MSI RTX 4070 Gaming X Slim, pn: 912-V513-426",
-    "shop": "pchub",
-    "price": 37550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G MSI RTX 4060Ti Ventus 2X Black E1 OC, pn: 912-V512-005",
-    "shop": "pchub",
-    "price": 22899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G MSI RTX 4060Ti Ventus 2X Black OC, pn: 912-V515-041",
-    "shop": "pchub",
-    "price": 22899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G MSI RTX 4060Ti Gaming X, pn: 912-V515-069",
-    "shop": "pchub",
-    "price": 23799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G MSI RTX 4060Ti Gaming X Slim x Force GC30 Monster Hunter, pn: 912-V515-209",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G MSI RTX 4060 Ventus 2X Black OC, pn: 912-V516-012",
-    "shop": "pchub",
-    "price": 18599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G MSI RTX 4060 Ventus 2X White OC, pn: 912-V516-030",
-    "shop": "pchub",
-    "price": 18999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "16G MSI RTX 4060Ti Ventus 2X Black OC, pn: 912-V517-005",
-    "shop": "pchub",
-    "price": 28250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "16G MSI RTX 4060Ti Gaming X Slim Black, pn: 912-V517-084",
-    "shop": "pchub",
-    "price": 29550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "MSI RTX 4070S SUPER Ventus 2X OC Black, pn: 912-V513-641",
-    "shop": "pchub",
-    "price": 37699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "MSI RTX 4070S SUPER Gaming Slim Wukong, pn: 912-V513-1009",
-    "shop": "pchub",
-    "price": 38799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "MSI RTX 4070S SUPER Gaming X Slim Black, pn: 912-V513-631",
-    "shop": "pchub",
-    "price": 40599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TISUPER",
-    "description": "MSI RTX 4070TS Ti SUPER Expert, pn: 912-V513-683",
-    "shop": "pchub",
-    "price": 50999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Ventus 3X OC black, pn: 912-V531-262",
-    "shop": "pchub",
-    "price": 77999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Ventus 3X OC white, pn: 912-V531-202",
-    "shop": "pchub",
-    "price": 78750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Ventus 3X OC Plus, pn: 912-V531-030",
-    "shop": "pchub",
-    "price": 77999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Inspire 3X OC, pn: 912-V531-203",
-    "shop": "pchub",
-    "price": 78399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Gaming Trio OC, pn: 912-V531-026",
-    "shop": "pchub",
-    "price": 78299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Gaming Trio OC white, pn: 912-V531-045",
-    "shop": "pchub",
-    "price": 81250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=3"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Shadow 3X OC, pn: 912-V531-031",
-    "shop": "pchub",
-    "price": 69499.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Suprim SOC, pn: 912-V531-028",
-    "shop": "pchub",
-    "price": 86199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 Surprim Liquid SOC, pn: 912-V531-027",
-    "shop": "pchub",
-    "price": 87699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI RTX 5090 Vanguard SOC, pn: 912-V530-027",
-    "shop": "pchub",
-    "price": 160899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI RTX 5090 Ventus 3X OC, pn: 912-V530-060",
-    "shop": "pchub",
-    "price": 139699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI RTX 5090 Gaming Trio OC, pn: 912-V530-024",
-    "shop": "pchub",
-    "price": 159000.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI RTX 5090 Suprim SOC, pn: 912-V530-026",
-    "shop": "pchub",
-    "price": 162699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI RTX 5090 Suprim Liquid SOC, pn: 912-V530-025",
-    "shop": "pchub",
-    "price": 164899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI RTX 5070Ti Vanguard SOC, pn: 912-V531-068",
-    "shop": "pchub",
-    "price": 59999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI RTX 5070Ti Ventus 3X OC, pn: 912-V531-092",
-    "shop": "pchub",
-    "price": 53999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI RTX 5070Ti Gaming Trio OC, pn: 912-V531-272",
-    "shop": "pchub",
-    "price": 58199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI RTX 5070Ti Shadow 3X OC, pn: 912-V531-097",
-    "shop": "pchub",
-    "price": 51999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Vanguard SOC, pn: 912-V532-054",
-    "shop": "pchub",
-    "price": 45399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Ventus 3X OC, pn: 912-V532-007",
-    "shop": "pchub",
-    "price": 40699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Ventus 2X OC, pn: 912-V532-009",
-    "shop": "pchub",
-    "price": 39150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Ventus 2X OC white, pn: 912-V532-010",
-    "shop": "pchub",
-    "price": 39999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Inspire 3X OC, pn: 912-V532-017",
-    "shop": "pchub",
-    "price": 41250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Gaming Trio OC, pn: 912-V532-019",
-    "shop": "pchub",
-    "price": 42500.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Shadow 2X OC, pn: 912-V532-011",
-    "shop": "pchub",
-    "price": 37999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Gaming Trio OC white, pn: 912-V532-021",
-    "shop": "pchub",
-    "price": 42999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 Shadow 3X OC, pn: 912-V532-008",
-    "shop": "pchub",
-    "price": 40350.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Ventus 2X Plus, pn: 912-V536-051",
-    "shop": "pchub",
-    "price": 24750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Ventus 2X OC Plus, pn: 912-V536-024",
-    "shop": "pchub",
-    "price": 25999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Ventus 3X OC, pn: 912-V812-079",
-    "shop": "pchub",
-    "price": 26399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Gaming OC, pn: 912-V536-026",
-    "shop": "pchub",
-    "price": 27699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Gaming Trio OC, pn: 912-V536-022",
-    "shop": "pchub",
-    "price": 28399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Gaming Trio OC white, pn: 912-V536-028",
-    "shop": "pchub",
-    "price": 28799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G MSI RTX 5060Ti Shadow 2X OC Plus, pn: 912-V536-023",
-    "shop": "pchub",
-    "price": 24750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=4"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Vanguard SOC, pn: 912-V535-026",
-    "shop": "pchub",
-    "price": 34750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Ventus 2X Plus, pn: 912-V535-048",
-    "shop": "pchub",
-    "price": 28550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Ventus 2X OC Plus, pn: 912-V535-027",
-    "shop": "pchub",
-    "price": 29850.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Ventus 3X OC, pn: 912-V812-078",
-    "shop": "pchub",
-    "price": 30199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Gaming Trio OC white, pn: 912-V535-025",
-    "shop": "pchub",
-    "price": 32999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G MSI RTX 5060Ti Shadow 2X OC Plus, pn: 912-V535-029",
-    "shop": "pchub",
-    "price": 28550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Ventus 2X OC, pn: 912-V537-017",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Ventus 2X OC white, pn: 912-V537-018",
-    "shop": "pchub",
-    "price": 20450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Inspire 2X OC, pn: 912-V537-020",
-    "shop": "pchub",
-    "price": 21150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Gaming Trio OC, pn: 912-V537-021",
-    "shop": "pchub",
-    "price": 23199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Shadow 2X OC, pn: 912-V537-019",
-    "shop": "pchub",
-    "price": 19350.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G MSI RTX 5060 Gaming OC, pn: 912-V537-023",
-    "shop": "pchub",
-    "price": 22199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G MSI RTX 5050 Ventus 2X OC, pn: 912-V538-010",
-    "shop": "pchub",
-    "price": 17199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G MSI RTX 5050 Shadow 2X OC, pn: 912-V538-008",
-    "shop": "pchub",
-    "price": 16250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070",
-    "description": "Galax RTX 4070 1-Click OC 2X V2, pn: 47NOM7MDABXV",
-    "shop": "pchub",
-    "price": 31999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Galax RTX 4060Ti EX 1-Click OC, pn: 46ISL8MD8AEX",
-    "shop": "pchub",
-    "price": 24500.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Galax RTX 4060 1-Click OC 1X, pn: 46NSL8MD8ZOC",
-    "shop": "pchub",
-    "price": 17199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Galax RTX 4060 EX 1-Click OC, pn: 46NSL8MD8MEX",
-    "shop": "pchub",
-    "price": 18999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Galax RTX 4060 1-Click OC 2X V2, pn: 46NSL8MD9NXV",
-    "shop": "pchub",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Galax RTX 4060 EX White 1-Click OC, pn: 46NSL8MD8NWE",
-    "shop": "pchub",
-    "price": 19599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "Galax RTX 4070S SUPER EX Gamer 1-Click OC White 3X Fan, pn: 47SOM7MD7KWE",
-    "shop": "pchub",
-    "price": 37650.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "Galax RTX 4070S SUPER EX Gamer 1-Click OC Black 3X Fan, pn: 47SOM7MD7JBK",
-    "shop": "pchub",
-    "price": 37099.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Galax RTX 5080 1-Click OC, pn: 58NZN6MDBBOC",
-    "shop": "pchub",
-    "price": 77599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Galax RTX 5070Ti EX Gamer 1-Click OC White 3X Fan, pn: 57IZN6MDBVGW",
-    "shop": "pchub",
-    "price": 56750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Galax RTX 5070 1-Click OC, pn: 57NON7MDBROC",
-    "shop": "pchub",
-    "price": 38550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Galax RTX 5070 1-Click OC white, pn: 57NON7MDBSWH",
-    "shop": "pchub",
-    "price": 39699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Galax RTX 5060Ti 1-Click OC Black, pn: 56ISN8MDCPCT",
-    "shop": "pchub",
-    "price": 25699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Galax RTX 5060Ti 1-Click OC Black, pn: 56IZN8MDCPOC",
-    "shop": "pchub",
-    "price": 29599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=5"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Galax RTX 5060 1-Click OC Black Launch Edition, pn: 56NSN8MDCPLE",
-    "shop": "pchub",
-    "price": 19899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Galax RTX 5060 1-Click OC White Launch Edition, pn: 56NSN8MDCQLE",
-    "shop": "pchub",
-    "price": 20350.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Zotac RTX 5070Ti Solid OC SFF, pn: ZT-B50710J3-10P",
-    "shop": "pchub",
-    "price": 54550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Zotac RTX 5070Ti AMP Extreme Infinity, pn: ZT-B50710B-10P",
-    "shop": "pchub",
-    "price": 59499.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Zotac RTX 5070 Twin Edge OC, pn: ZT-B50700H-10P",
-    "shop": "pchub",
-    "price": 35299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Zotac RTX 5070 AMP white, pn: ZT-B50700FQ-10P",
-    "shop": "pchub",
-    "price": 37399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Zotac RTX 5070 Solid OC, pn: ZT-B50700J-10P",
-    "shop": "pchub",
-    "price": 37899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50610E-10M",
-    "shop": "pchub",
-    "price": 23699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Zotac RTX 5060Ti Twin Edge OC, pn: ZT-B50610H-10M",
-    "shop": "pchub",
-    "price": 24999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50620E-10M",
-    "shop": "pchub",
-    "price": 26099.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Zotac RTX 5060Ti Twin Edge OC, pn: ZT-B50620H-10M",
-    "shop": "pchub",
-    "price": 28199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Zotac RTX 5060Ti Twin Edge OC white, pn: ZT-B50620Q-10M",
-    "shop": "pchub",
-    "price": 27899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Zotac RTX 5060Ti AMP, pn: ZT-B50620F-10M",
-    "shop": "pchub",
-    "price": 29299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Zotac RTX 5060 Twin Edge OC white, pn: ZT-B50600Q-10M",
-    "shop": "pchub",
-    "price": 18750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Zotac RTX 5060 AMP, pn: ZT-B50600F-10M",
-    "shop": "pchub",
-    "price": 19750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Zotac RTX 5060 Solo, pn: ZT-B50600G-10L",
-    "shop": "pchub",
-    "price": 18199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Zotac RTX 5050 Twin Edge OC, pn: ZT-B50500H-10M",
-    "shop": "pchub",
-    "price": 15599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Aorus RTX 5080 Master ICE, pn: GV-N5080AORUSM-ICE-16GD",
-    "shop": "pchub",
-    "price": 86999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Aorus RTX 5090 Master, pn: GV-N5090AORUS-M-32GD",
-    "shop": "pchub",
-    "price": 173999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Aorus RTX 5090 Master ICE, pn: GV-N5090AORUSM ICE-32GD",
-    "shop": "pchub",
-    "price": 175399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Aorus RTX 5090 Xtreme Waterforce, pn: GV-N5090AORUSX-W-32GD",
-    "shop": "pchub",
-    "price": 189999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Aorus RTX 5070Ti Master, pn: GV-N507TAORUS-M-16GD",
-    "shop": "pchub",
-    "price": 69500.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Aorus RTX 5060 Elite, pn: GV-N5060AORUS E-8GD",
-    "shop": "pchub",
-    "price": 22150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Gigabyte RTX 4060Ti Eagle OC, pn: GV-N406TEAGLE-OC-8GD",
-    "shop": "pchub",
-    "price": 23699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Gigabyte RTX 4060Ti Gaming OC, pn: GV-N406TGAMING-OC-8GD",
-    "shop": "pchub",
-    "price": 24699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Gigabyte RTX 4060Ti Aero OC, pn: GV-N406TAERO-OC-8GD",
-    "shop": "pchub",
-    "price": 24899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "8G Gigabyte RTX 4060Ti Eagle OC ICE, pn: GV-N406TEAGLEOC-ICE-8GD",
-    "shop": "pchub",
-    "price": 23399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Gigabyte RTX 4060 Gaming OC, pn: GV-N4060GAMING-OC-8GD",
-    "shop": "pchub",
-    "price": 19899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=6"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "8G Gigabyte RTX 4060 Aero OC, pn: GV-N4060AERO-OC-8GD",
-    "shop": "pchub",
-    "price": 20150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte RTX 5080 Windforce OC SFF, pn: GV-N5080WF3OC-16GD",
-    "shop": "pchub",
-    "price": 74199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte RTX 5080 Gaming OC, pn: GV-N5080GAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 82999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte RTX 5080 Aero OC SFF, pn: GV-N5080AERO-OC-16GD",
-    "shop": "pchub",
-    "price": 84899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Gigabyte RTX 5090 Gaming OC, pn: GV-N5090GAMING-OC-32GD",
-    "shop": "pchub",
-    "price": 174199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Windforce SFF, pn: GV-N507TWF3-16GD",
-    "shop": "pchub",
-    "price": 53699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Windforce OC SFF, pn: GV-N507TWF3OC-16GD",
-    "shop": "pchub",
-    "price": 59799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Gaming OC, pn: GV-N507TGAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 67299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Aero OC, pn: GV-N507TAERO-OC-16GD",
-    "shop": "pchub",
-    "price": 68750.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Eagle OC SFF, pn: GV-N507TEAGLE-OC-16GD",
-    "shop": "pchub",
-    "price": 63799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070Ti Eagle OC ICE SFF, pn: GV-N507TEAGLEOC-ICE-16GD",
-    "shop": "pchub",
-    "price": 64850.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Windforce SFF, pn: GV-N5070WF3-12GD",
-    "shop": "pchub",
-    "price": 38199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Windforce OC SFF, pn: GV-N5070WF3OC-12GD",
-    "shop": "pchub",
-    "price": 39250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Gaming OC, pn: GV-N5070GAMING-OC-12GD",
-    "shop": "pchub",
-    "price": 44799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Aero OC, pn: GV-N5070AERO-OC-12GD",
-    "shop": "pchub",
-    "price": 45899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Eagle OC SFF, pn: GV-N5070EAGLE-OC-12GD",
-    "shop": "pchub",
-    "price": 42799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Eagle OC ICE SFF, pn: GV-N5070EAGLEOC-ICE-12GD",
-    "shop": "pchub",
-    "price": 43299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Windforce, pn: GV-N506TWF2-8GD",
-    "shop": "pchub",
-    "price": 25150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Windforce OC, pn: GV-N506TWF2OC-8GD",
-    "shop": "pchub",
-    "price": 25950.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Gaming OC, pn: GV-N506TGAMING-OC-8GD",
-    "shop": "pchub",
-    "price": 27799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Aero OC, pn: GV-N506TAERO-OC-8GD",
-    "shop": "pchub",
-    "price": 28599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Eagle OC, pn: GV-N506TEAGLE-OC-8GD",
-    "shop": "pchub",
-    "price": 26699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Gigabyte RTX 5060Ti Eagle OC ICE, pn: GV-N506TEAGLEOC-ICE-8GD",
-    "shop": "pchub",
-    "price": 26999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Gigabyte RTX 5060Ti Windforce, pn: GV-N506TWF2-16GD",
-    "shop": "pchub",
-    "price": 28450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Gigabyte RTX 5060Ti Windforce OC, pn: GV-N506TWF2OC-16GD",
-    "shop": "pchub",
-    "price": 30250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Gigabyte RTX 5060Ti Gaming OC, pn: GV-N506TGAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 34299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Gigabyte RTX 5060Ti Eagle OC, pn: GV-N506TEAGLE OC-16GD",
-    "shop": "pchub",
-    "price": 31999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Gigabyte RTX 5060Ti Eagle OC ICE, pn: GV-N506TEAGLEOC ICE-16GD",
-    "shop": "pchub",
-    "price": 33199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=7"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Windforce, pn: GV-N5060WF2-8GD",
-    "shop": "pchub",
-    "price": 19550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Windforce OC, pn: GV-N5060WF2OC-8GD",
-    "shop": "pchub",
-    "price": 19999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Gaming OC, pn: GV-N5060GAMING OC-8GD",
-    "shop": "pchub",
-    "price": 21299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Aero OC, pn: GV-N5060AERO OC-8GD",
-    "shop": "pchub",
-    "price": 21699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Eagle OC, pn: GV-N5060EAGLE OC-8GD",
-    "shop": "pchub",
-    "price": 20250.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Gigabyte RTX 5060 Eagle OC ICE, pn: GV-N5060EAGLEOC ICE-8GD",
-    "shop": "pchub",
-    "price": 20599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Gigabyte RTX 5050 Windforce OC, pn: GV-N5050WF2OC-8GD",
-    "shop": "pchub",
-    "price": 16699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Gigabyte RTX 5050 Gaming OC, pn: GV-N5050GAMING-OC-8GD",
-    "shop": "pchub",
-    "price": 17550.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070",
-    "description": "Colorful iGame RTX 4070 Ultra W OC V2-V",
-    "shop": "pchub",
-    "price": 30999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070",
-    "description": "Colorful iGame RTX 4070 Ultra W OC V3-V",
-    "shop": "pchub",
-    "price": 30999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Colorful iGame RTX 5070 Battle AX NB EX 12GB-V",
-    "shop": "pchub",
-    "price": 37650.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Colorful iGame RTX 5070 Battle AX NB EX 12GB V2-V",
-    "shop": "pchub",
-    "price": 37699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "8G Colorful iGame RTX 5060Ti Battle AX NB Duo 8GB-V",
-    "shop": "pchub",
-    "price": 24399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "16G Colorful iGame RTX 5060Ti Battle AX NB Duo 16GB-V",
-    "shop": "pchub",
-    "price": 27799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "8G Colorful iGame RTX 5060 Battle AX NB Duo 8GB-V",
-    "shop": "pchub",
-    "price": 18999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5050",
-    "description": "8G Colorful iGame RTX 5050 Battle AX NB Duo 8GB-V",
-    "shop": "pchub",
-    "price": 16999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "GT730-2GB",
-    "description": "2gb Ramsta GT730 ddr3 128bit",
-    "shop": "pchub",
-    "price": 1599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7700XT",
-    "description": "Sapphire Radeon RX 7700XT Pulse, pn: SPR-11335-04-20G",
-    "shop": "pchub",
-    "price": 26899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7700XT",
-    "description": "Sapphire Radeon RX 7700XT Nitro+ Gaming OC, pn: SPR-11335-02-20G",
-    "shop": "pchub",
-    "price": 27699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7700XT",
-    "description": "Sapphire Radeon RX 7700XT Pure Gaming OC, pn: SPR-11335-03-20G",
-    "shop": "pchub",
-    "price": 27999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Sapphire Radeon RX 9070 Pulse, pn: SPR-11349-03-20G",
-    "shop": "pchub",
-    "price": 41399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Sapphire Radeon RX 9070 Nitro+ OC, pn: SPR-11349-01-20G",
-    "shop": "pchub",
-    "price": 45450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Sapphire Radeon RX 9070 Pure OC, pn: SPR-11349-02-20G",
-    "shop": "pchub",
-    "price": 43299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Sapphire Radeon RX 9070XT Pulse, pn: SPR-11348-03-20G",
-    "shop": "pchub",
-    "price": 45699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Sapphire Radeon RX 9070XT Nitro+ OC, pn: SPR-11348-01-20G",
-    "shop": "pchub",
-    "price": 50699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Sapphire Radeon RX 9070XT Pure OC, pn: SPR-11348-02-20G",
-    "shop": "pchub",
-    "price": 47199.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G Sapphire Radeon RX 9060XT Pulse OC, pn: SPR-11350-04-20G",
-    "shop": "pchub",
-    "price": 20699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Sapphire Radeon RX 9060XT Pulse OC, pn: SPR-11350-03-20G",
-    "shop": "pchub",
-    "price": 23999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=8"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Sapphire Radeon RX 9060XT Nitro+ Gaming OC, pn: SPR-11350-01-20G",
-    "shop": "pchub",
-    "price": 26999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Sapphire Radeon RX 9060XT Pure OC, pn: SPR-11350-02-20G",
-    "shop": "pchub",
-    "price": 25560.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7800XT",
-    "description": "Asus Radeon RX 7800XT Dual OC, pn: DUAL-RX7800XT-O16G",
-    "shop": "pchub",
-    "price": 36599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Asus Radeon RX 9070 Prime OC, pn: PRIME-RX9070-O16G",
-    "shop": "pchub",
-    "price": 45899.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Asus Radeon RX 9070 TUF Gaming OC, pn: TUF-RX9070-O16G-GAMING",
-    "shop": "pchub",
-    "price": 48999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Asus Radeon RX 9070XT Prime OC, pn: PRIME-RX9070XT-O16G",
-    "shop": "pchub",
-    "price": 51599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Asus Radeon RX 9070XT TUF Gaming OC, pn: TUF-RX9070XT-O16G-GAMING",
-    "shop": "pchub",
-    "price": 53150.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G Asus Radeon RX 9060XT Prime OC, pn: PRIME-RX9060XT-O8G",
-    "shop": "pchub",
-    "price": 24599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G Asus Radeon RX 9060XT Dual, pn: DUAL-RX9060XT-8G",
-    "shop": "pchub",
-    "price": 23499.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Asus Radeon RX 9060XT Prime OC, pn: PRIME-RX9060XT-O16G",
-    "shop": "pchub",
-    "price": 29999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Asus Radeon RX 9060XT TUF Gaming OC, pn: TUF-RX9060XT-O16G-GAMING",
-    "shop": "pchub",
-    "price": 31599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6500XT",
-    "description": "Gigabyte Radeon RX 6500XT Eagle, pn: GV-R65XTEAGLE-4GD",
-    "shop": "pchub",
-    "price": 8999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7600XT",
-    "description": "Gigabyte Radeon RX 7600XT Gaming OC, pn: GV-R76XTGAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 20999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Gigabyte Radeon RX 9070 Gaming OC, pn: GV-R9070GAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 39999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Gigabyte Radeon RX 9070XT Gaming OC, pn: GV-R9070XTGAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 47699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G Gigabyte Radeon RX 9060XT Gaming, pn: GV-R9060XTGAMING-8GD",
-    "shop": "pchub",
-    "price": 20599.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G Gigabyte Radeon RX 9060XT Gaming OC, pn: GV-R9060XTGAMING-OC-8GD",
-    "shop": "pchub",
-    "price": 21999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G Gigabyte Radeon RX 9060XT Gaming OC, pn: GV-R9060XTGAMING-OC-16GD",
-    "shop": "pchub",
-    "price": 25799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Aorus Radeon RX 9070XT Elite, pn: GV-R9070XTAORUS-E-16GD",
-    "shop": "pchub",
-    "price": 49299.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "ASRock Radeon RX 9070 Steel Legend OC, pn: RX9070 SL 16GO",
-    "shop": "pchub",
-    "price": 41399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "ASRock Radeon RX 9070 Challenger, pn: RX9070 CL 16G",
-    "shop": "pchub",
-    "price": 40799.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "ASRock Radeon RX 9070XT Steel Legend, pn: RX9070XT SL 16G",
-    "shop": "pchub",
-    "price": 45699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "ASRock Radeon RX 9070XT Steel Legend Dark, pn: RX9070XT SLD 16G",
-    "shop": "pchub",
-    "price": 46399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "ASRock Radeon RX 9070XT Taichi OC, pn: RX9070XT TC 16GO",
-    "shop": "pchub",
-    "price": 49999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G ASRock Radeon RX 9060XT Steel Legend OC, pn: RX9060XT SL 8GO",
-    "shop": "pchub",
-    "price": 21699.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "8G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 8GO",
-    "shop": "pchub",
-    "price": 20450.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G ASRock Radeon RX 9060XT Steel Legend OC, pn: RX9060XT SL 16GO",
-    "shop": "pchub",
-    "price": 24850.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "16G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 16GO",
-    "shop": "pchub",
-    "price": 23399.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=9"
-  },
-  {
-    "category": "GPU",
-    "model": "ARCB580",
-    "description": "ASRock Intel Arc B580 ChaIlenger OC, pn: AR-B580-CL-12GO",
-    "shop": "pchub",
-    "price": 16999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=10"
-  },
-  {
-    "category": "GPU",
-    "model": "ARCB580",
-    "description": "ASRock Intel Arc B580 Steel Legend OC, pn: AR-B580-SL-12GO",
-    "shop": "pchub",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.pchubonline.com/products?category=2&page=10"
-  },
-  {
-    "category": "GPU",
     "model": "RX9070",
     "description": "ASROCK AMD Radeon\u2122 RX 9070 Challenger 16GB GDDR6 256-bit Graphics Card",
     "shop": "pcx",
@@ -25666,5 +23380,851 @@
     "price": 18975.0,
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/zotac-gaming-geforce-rtx-5060-solo-8gb-gddr7-128-bit-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ZOTAC GAMING GeForce RTX 5080 SOLID OC",
+    "shop": "pinklehub",
+    "price": 89700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-5080-solid-oc"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "GALAX GeForce\u00ae GT 1030 DDR4 2GB DDR4 64-bit HDMI 2.0b/DVI-D",
+    "shop": "pinklehub",
+    "price": 3850.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-ddr4"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "GALAX GeForce\u00ae GT 1030 2GB GDDR5 64-bit HDMI 2.0b/DVI-D",
+    "shop": "pinklehub",
+    "price": 3960.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-2gb-gddr5-64-bit-hdmi-2-0b-dvi-d"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 EAGLE OC ICE 8G",
+    "shop": "pinklehub",
+    "price": 21700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-eagle-oc-ice-8g"
+  },
+  {
+    "category": "GPU",
+    "model": "RX550-4GB",
+    "description": "XFX AMD Radeon\u2122 RX 550 4GB Double Dissipation",
+    "shop": "pinklehub",
+    "price": 4620.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-amd-radeon\u2122-rx-550-4gb-double-dissipation"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6500XT",
+    "description": "XFX Speedster QICK 210 AMD Radeon\u2122 RX 6500 XT Core Gaming Graphics Card with 4GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 15396.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-210-amd-radeon\u2122-rx-6500-xt-core-gaming-graphics-card-with-4gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "XFX Speedster SWFT 210 AMD Radeon\u2122 RX 6600 Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 14160.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-210-amd-radeon\u2122-rx-6600-core-gaming-graphics-card-with-8gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX SPEEDSTER QICK08 RADEON RX 6600 XT BLACK Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 19200.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick08-radeon-rx-6600-xt-black-gaming-graphics-card-with-8gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX SPEEDSTER MERC308 RADEON RX 6600 XT BLACK Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 18600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc308-radeon-rx-6600-xt-black-gaming-graphics-card-with-8gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX Speedster SWFT 210 AMD Radeon\u2122 RX 6600 XT Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 37452.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-210-amd-radeon\u2122-rx-6600-xt-core-gaming-graphics-card-with-8gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 26220.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster QICK 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 81000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 82200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster QICK 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 81000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 82200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (16GB)",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-16gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "XFX Speedster QICK 319 Radeon\u2122 RX 7700 XT Black Edition (12GB)",
+    "shop": "pinklehub",
+    "price": 30600.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-radeon\u2122-rx-7700-xt-black-edition-12gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster MERC 319 Radeon\u2122 RX 7800 XT BLACK Edition (16GB)",
+    "shop": "pinklehub",
+    "price": 35700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-radeon\u2122-rx-7800-xt-black-edition-16gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK 319 White AMD Radeon\u2122 RX 7800 XT Core Edition Graphics Card - 16GB",
+    "shop": "pinklehub",
+    "price": 34560.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-white-amd-radeon\u2122-rx-7800-xt-core-edition-graphics-card-16gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK 319 Radeon\u2122 RX 7800 XT Core Edition (16GB)",
+    "shop": "pinklehub",
+    "price": 34560.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-radeon\u2122-rx-7800-xt-core-edition-16gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "AMD RADEON\u2122 RX 7900 XT Gaming Graphics Card (20GB)",
+    "shop": "pinklehub",
+    "price": 62400.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/amd-radeon\u2122-rx-7900-xt-gaming-graphics-card-20gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX SPEEDSTER MERC 310 AMD Radeon\u2122 RX 7900 XT Black Edition (20GB)",
+    "shop": "pinklehub",
+    "price": 67980.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-310-amd-radeon\u2122-rx-7900-xt-black-edition-20gb"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX SPEEDSTER MERC 310 AMD Radeon\u2122 RX 7900 XTX Black Edition (24GB)",
+    "shop": "pinklehub",
+    "price": 76560.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-310-amd-radeon\u2122-rx-7900-xtx-black-edition"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 AMP Core GDDR6 (ZT-T16520J-10L)",
+    "shop": "pinklehub",
+    "price": 8700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-amp-core-gddr6-zt-t16520j-10l"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6700XT",
+    "description": "XFX SPEEDSTER QICK 319 AMD Radeon\u2122 RX 6700 XT BLACK Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2 (RX-67XTYPBDP)",
+    "shop": "pinklehub",
+    "price": 26400.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6700-xt-black-gaming-graphics-card-with-12gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2-rx-67xtypbdp"
+  },
+  {
+    "category": "GPU",
+    "model": "GT730-4GB",
+    "description": "GALAX GeForce GT 730 4GB DDR3 4GB DDR3 128-bit HDMI/DVI/VGA",
+    "shop": "pinklehub",
+    "price": 3310.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce-gt-730-4gb-ddr3-4gb-ddr3-128-bit-hdmi-dvi-vga"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "GIGABYTE Radeon\u2122 RX 6600 EAGLE 8G (GV-R66EAGLE-8GD)",
+    "shop": "pinklehub",
+    "price": 16760.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-6600-eagle-8g-gv-r66eagle-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 3060 GAMING OC 8G (rev. 1.0) rev. 2.0 (GV-N3060GAMING-OC-8GD-2.0)",
+    "shop": "pinklehub",
+    "price": 16940.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-3060-gaming-oc-8g-rev-1-0-rev-2-0-gv-n3060gaming-oc-8gd-2-0"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 WINDFORCE OC 8G (GV-N4060WF2OC-8GD)",
+    "shop": "pinklehub",
+    "price": 19610.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-windforce-oc-8g-gv-n4060wf2oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 EAGLE OC 8G (GV-N4060EAGLE-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 20000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-eagle-oc-8g-gv-n4060eagle-oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 GAMING OC 8G (GV-N4060GAMING-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 20890.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-gaming-oc-8g-gv-n4060gaming-oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti EAGLE 8G (GV-N406TEAGLE-8GD)",
+    "shop": "pinklehub",
+    "price": 26660.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-eagle-8g-gv-n406teagle-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti EAGLE OC 8G (GV-N406TEAGLE-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 27230.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-eagle-oc-8g-gv-n406teagle-oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti GAMING OC 8G (GV-N406TGAMING-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 27670.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-gaming-oc-8g-gv-n406tgaming-oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti AERO OC 8G (GV-N406TAERO-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 28780.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-aero-oc-8g-gv-n406taero-oc-8gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti WINDFORCE OC 16G (GV-N406TWF2OC-16GD)",
+    "shop": "pinklehub",
+    "price": 30560.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-windforce-oc-16g-gv-n406twf2oc-16gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "GIGIABYTE Radeon\u2122 RX 7700 XT GAMING OC 12G (GV-R77XTGAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 30750.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigiabyte-radeon\u2122-rx-7700-xt-gaming-oc-12g-gv-r77xtgaming-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti GAMING OC 16G (GV-N406TGAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 31550.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-gaming-oc-16g-gv-n406tgaming-oc-16gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti AERO OC 16G (GV-N406TAERO-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 32160.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-aero-oc-16g-gv-n406taero-oc-16gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "GIGABYTE Radeon\u2122 RX 7800 XT GAMING OC 16G (GV-R78XTGAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 35200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-7800-xt-gaming-oc-16g-gv-r78xtgaming-oc-16gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 WINDFORCE OC 12G (GV-N4070WF3OC-12GD)",
+    "shop": "pinklehub",
+    "price": 38450.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gugabyte-geforce-rtx\u2122-4070-windforce-oc-12g-gv-n4070wf3oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 EAGLE OC 12G (GV-N4070EAGLE-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 42000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-eagle-oc-12g-gv-n4070eagle-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GEFORCE RTX 4070 GAMING OC 12G (GV-N4070GAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 43000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-4070-gaming-oc-12g-gv-n4070gaming-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GEFORCE RTX 4070 AERO OC 12G (GV-N4070AERO-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 43890.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-4070-aero-oc-12g-gv-n4070aero-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "GIGABYTE Radeon\u2122 RX 7900 XTX GAMING OC 24G (GV-R79XTXGAMING-OC-24GD)",
+    "shop": "pinklehub",
+    "price": 68200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-7900-xtx-gaming-oc-24g-gv-r79xtxgaming-oc-24gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 2.0 (GV-N407TEAGLE-12GD-2.0)",
+    "shop": "pinklehub",
+    "price": 53240.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-2-0-gv-n407teagle-12gd-2-0"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 1.0 (GV-N407TEAGLE-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 54670.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/copy-of-gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-1-0-gv-n407teagle-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 2.0 ( GV-N407TEAGLE-OC-12GD-2.0)",
+    "shop": "pinklehub",
+    "price": 55220.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-2-0-gv-n407teagle-oc-12gd-2-0"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u00ad\u00ad\u2122 4070 Ti GAMING OC 12G (GV-N407TGAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 56430.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-\u2122-4070-ti-gaming-oc-12g-gv-n407tgaming-oc-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti AERO OC V2 12G (GV-N407TAERO-OCV2-12GD)",
+    "shop": "pinklehub",
+    "price": 57200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-aero-oc-v2-12g-gv-n407taero-ocv2-12gd"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "GIGABYTE GeForce RTX\u2122 4080 16GB EAGLE OC (GV-N4080EAGLE-OC-16GD )",
+    "shop": "pinklehub",
+    "price": 80410.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4080-16gb-eagle-oc"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "GIGABYTE GeForce RTX\u2122 4080 16GB GAMING OC (GV-N4080GAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 82500.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4080-16gb-gaming-oc-gv-n4080gaming-oc-16gd"
+  },
+  {
+    "category": "GPU",
+    "model": "ARCA750",
+    "description": "Intel\u00ae Arc\u2122 A750 Graphics , Graphics Card, GPU Intel\u00ae Arc\u2122 A-Series Graphics (INTEL-21P02J00BA-99AM3D)",
+    "shop": "pinklehub",
+    "price": 16390.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/intel\u00ae-arc\u2122-a750-graphics-graphics-card-gpu-intel\u00ae-arc\u2122-a-series-graphics-intel-21p02j00ba-99am3d"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (RX-69XTACSD9)",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-rx-69xtacsd9"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "Colorful GeForce GTX 1660 SUPER NB 6G V2-V 6GB GDDR6 192BIT GRAPHICS CARD",
+    "shop": "pinklehub",
+    "price": 14150.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/colorful-geforce-gtx-1660-super-nb-6g-v2-v-6gb-gddr6-192bit-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti Trinity OC ZT-D40710J-10P",
+    "shop": "pinklehub",
+    "price": 59450.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-4"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti AMP Extreme AIRO ZT-D40710B-10P",
+    "shop": "pinklehub",
+    "price": 64120.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-3"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti AMP AIRO SPIDER-MAN\u2122: Across the Spider-Verse Bundle ZT-D40710F-10SMP",
+    "shop": "pinklehub",
+    "price": 47385.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-2"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Zotac Gaming GeForce RTX 4070 Twin Edge OC ZT-D40700H-10M",
+    "shop": "pinklehub",
+    "price": 40950.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4070-twin-edge-oc-zt-d40700h-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Zotac Gaming GeForce RTX 4060 Ti 8GB Twin Edge OC White Edition ZT-D40610Q-10M",
+    "shop": "pinklehub",
+    "price": 29250.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-oc-white-edition-zt-d40610q-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Zotac Gaming GeForce RTX 4060 Ti 8GB Twin Edge OC SPIDER-MAN\u2122: Across the Spider-Verse Bundle ZT-D40610H-10SMP",
+    "shop": "pinklehub",
+    "price": 28200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-1"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Zotac Gaming GeForce RTX 4060 8GB Twin Edge OC White Edition ZT-D40600Q-10M",
+    "shop": "pinklehub",
+    "price": 21475.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4060-8gb-twin-edge-oc-white-edition-zt-d40600q-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Zotac Gaming GeForce\u00ae RTX 4060 8GB OC Spider-Man\u2122 Across The Spider-Verse Bundle - 8GB GDDR6, 128 bit, 3xDP, 1x HDMI (Dual Fan, Slot Size: 2 Slot, Input Power: 1x 8-pin PCIe)",
+    "shop": "pinklehub",
+    "price": 19425.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS TUF Gaming GeForce\u00ae GTX 1650 V2 OC Edition 4GB GDDR6 rocks high refresh rates for an FPS advantage without breaking a sweat(ASUS TUF-GTX1650-O4GD6-P-V2)",
+    "shop": "pinklehub",
+    "price": 11700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/asus-102"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS Dual GeForce\u00ae GTX 1650 V2 OC Edition 4GB GDDR6",
+    "shop": "pinklehub",
+    "price": 11460.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-101"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS Phoenix GeForce\u00ae GTX 1650 OC Edition 4GB GDDR6 V2 (ASUS PH-GTX1650-O4GD6-P-V2)",
+    "shop": "pinklehub",
+    "price": 10800.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-100"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "ASUS Phoenix GeForce\u00ae GT 1030 OC edition 2GB GDDR5 is the best for compact PC build and home entertainment",
+    "shop": "pinklehub",
+    "price": 5700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-99"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "ASUS GeForce\u00ae GT 1030 2GB GDDR5 low profile graphics card for silent HTPC build (with I/O port brackets)",
+    "shop": "pinklehub",
+    "price": 5280.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-98"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6400",
+    "description": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)",
+    "shop": "pinklehub",
+    "price": 9600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-53"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6500XT",
+    "description": "ASRock AMD Radeon\u2122 RX 6500 XT Phantom Gaming D 4GB OC (RX6500XT PGD 4GO)",
+    "shop": "pinklehub",
+    "price": 10680.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-52"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "ASRock AMD Radeon\u2122 RX 6600 XT Challenger ITX 8GB, AMD RDNA\u2122 2 Architecture 1 x 8-pin Connector (RX6600XT CLI 8G)",
+    "shop": "pinklehub",
+    "price": 28440.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-51"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "ASRock AMD Radeon\u2122 RX 7900 XTX AQUA 24GB OC, 24GB GDDR6 on 384-Bit Memory Bus 96 AMD RDNA\u2122 3 Compute Units (With Rt+Ai Accelerators) 96MB AMD Infinity Cache\u2122 Technology (RX7900XTX AQ 24GO)",
+    "shop": "pinklehub",
+    "price": 99000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-amd-radeon\u2122-rx-7900-xtx-aqua-24gb-oc-24gb-gddr6-on-384-bit-memory-bus-96-amd-rdna\u2122-3-compute-units-with-rt-ai-accelerators-96mb-amd-infinity-cache\u2122-technology-rx7900xtx-aq-24go"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "ZOTAC Gaming GeForce RTX 3070 Twin Edge OC Low Hash Rate 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Graphics Card, IceStorm 2.0 Advanced Cooling, White LED Logo Lighting (ZT-A30700H-10PLHR)",
+    "shop": "pinklehub",
+    "price": 48240.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-twin-edge-oc-low-hash-rate-8gb-gddr6-256-bit-14-gbps-pcie-4-0-graphics-card-icestorm-2-0-advanced-cooling-white-led-logo-lighting-zt-a30700h-10plhr"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3060 AMP White Edition 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop (ZT-A30600F-10P)",
+    "shop": "pinklehub",
+    "price": 23760.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3060-amp-white-edition-12gb-gddr6-192-bit-15-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-cooling-active-fan-control-freeze-fan-stop-zt-a30600f-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White Edition LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, LED Logo Lighting (ZT-A30700J-10PLHR)",
+    "shop": "pinklehub",
+    "price": 39840.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-twin-edge-oc-white-edition-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-led-logo-lighting-zt-a30700j-10plhr"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "ZOTAC GeForce RTX\u2122 3080 Trinity OC LHR 10GB GDDR6X 320-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting (ZT-A30800J-10PLHR)",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce-rtx\u2122-3080-trinity-oc-lhr-10gb-gddr6x-320-bit-19-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30800j-10plhr"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Graphics Card, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop (ZT-A30610H-10MLHR)",
+    "shop": "pinklehub",
+    "price": 31200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3060-ti-twin-edge-oc-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-graphics-card-icestorm-2-0-advanced-cooling-active-fan-control-freeze-fan-stop-zt-a30610h-10mlhr"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080TI",
+    "description": "ZOTAC GAMING GeForce RTX\u2122 3080 Ti AMP Holo 12GB GDDR6X 384-bit 19 Gbps PCIE 4.0 Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting (ZT-A30810F-10P)",
+    "shop": "pinklehub",
+    "price": 105600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3080-ti-amp-holo-12gb-gddr6x-384-bit-19-gbps-pcie-4-0-graphics-card-holoblack-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30810f-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Ti AMP Holo, 8GB GDDR6X, 256-bit, Boost: 1830 MHz (ZT-A30710F-10P)",
+    "shop": "pinklehub",
+    "price": 57600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-ti-amp-holo-8gb-gddr6x-256-bit-boost-1830-mhz-zt-a30710f-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3090",
+    "description": "ZOTAC GAMING GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting (ZT-A30900D-10P)",
+    "shop": "pinklehub",
+    "price": 126000.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3090-trinity-24gb-gddr6x-384-bit-19-5-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30900d-10p"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact (ZT-T16520F-10L)",
+    "shop": "pinklehub",
+    "price": 9000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520f-10l"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "ZOTAC GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, Super Compact (ZT-T16600K-10M)",
+    "shop": "pinklehub",
+    "price": 14400.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce-gtx-1660-6gb-gddr5-192-bit-gaming-graphics-card-super-compact-zt-t16600k-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 SUPER Twin Fan (ZT-T16510F-10)",
+    "shop": "pinklehub",
+    "price": 21600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-super-twin-fan-zt-t16510f-10"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "ZOTAC GAMING GeForce RTX 2060 SUPER MINI 8GB GDDR6 256-bit 14Gbps Gaming Graphics Card, Ice Storm 2.0, Super Compact (ZT-T20610E-10M)",
+    "shop": "pinklehub",
+    "price": 22200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-2060-super-mini-8gb-gddr6-256-bit-14gbps-gaming-graphics-card-ice-storm-2-0-super-compact-zt-t20610e-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC Gaming GeForce GTX 1650 OC 4GB GDDR5 128-Bit Gaming Graphics Card, Super Compact (ZT-T16500F-10L)",
+    "shop": "pinklehub",
+    "price": 9000.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr5-128-bit-gaming-graphics-card-super-compact-zt-t16500f-10l"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "ZOTAC GeForce\u00ae GTX 1050 Ti Mini 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card(ZT-P10510A-10L)",
+    "shop": "pinklehub",
+    "price": 11340.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce\u00ae-gtx-1050-ti-mini-4gb-gddr5-displayport-128-bit-gaming-graphic-cardzt-p10510a-10l"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "GeForce\u00ae GT 710 2GB DDR3 PCI-E2.0 DL-DVI VGA HDMI Passive Cooled Single Slot Low Profile Graphics Card (ZT-71302-20L)",
+    "shop": "pinklehub",
+    "price": 3120.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/geforce\u00ae-gt-710-2gb-ddr3-pci-e2-0-dl-dvi-vga-hdmi-passive-cooled-single-slot-low-profile-graphics-card-zt-71302-20l"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Twin Edge OC (ZT-A30600H-10M)",
+    "shop": "pinklehub",
+    "price": 44280.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-oc-zt-a30600h-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Twin Edge (ZT-A30600E-10M)",
+    "shop": "pinklehub",
+    "price": 19200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-zt-a30600e-10m"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050",
+    "description": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC (ZT-A30500H-10M)",
+    "shop": "pinklehub",
+    "price": 16800.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3050-twin-edge-oc-zt-a30500h-10m"
   }
 ]
