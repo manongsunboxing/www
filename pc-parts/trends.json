@@ -973,6 +973,23 @@
             "name": "ASRock RX 6600 Challenger D 8GB GDDR6 128-bit Gaming Graphics Card - AMD Radeon 1080p GPU"
           }
         ]
+      },
+      {
+        "model": "RX6600",
+        "date": "2025-08-14",
+        "price": 12495.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-6600-challenger-d-8gb-gddr6-graphics-card",
+            "name": "ASRock AMD Radeon RX 6600 Challenger D 8GB GDDR6 Graphics Card"
+          },
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/asrock-rx-6600-8g-challenger-d-8gb-128bit-gddr6-gaming-videocard",
+            "name": "ASRock RX 6600 Challenger D 8GB GDDR6 128-bit Gaming Graphics Card - AMD Radeon 1080p GPU"
+          }
+        ]
       }
     ],
     "RTX3060-12GB": [
@@ -1878,6 +1895,18 @@
             "name": "Colorful GeForce RTX 3060 NB 12G-V 12GB GDDR6 with Metal Back Plate Gaming Graphics Card..."
           }
         ]
+      },
+      {
+        "model": "RTX3060-12GB",
+        "date": "2025-08-14",
+        "price": 16950.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-3060-ultra-w-oc-12g-l-v-gddr6-graphics-card",
+            "name": "COLORFUL IGAME GeForce RTX 3060 Ultra W OC 12G L-V GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "RTX3060-8GB": [
@@ -2728,6 +2757,18 @@
             "name": "ZOTAC GAMING GeForce RTX 3060 8GB Twin Edge ZT-A30630E-10M Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX3060-8GB",
+        "date": "2025-08-14",
+        "price": 15950.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3060-twin-edge-8gb-gddr6-graphics-card-zt-a30630e-10m",
+            "name": "Zotac Gaming GeForce RTX 3060 Twin Edge 8GB GDDR6 Graphics Card (ZT-A30630E-10M)"
+          }
+        ]
       }
     ],
     "RX7800XT": [
@@ -3438,6 +3479,18 @@
             "name": "XFX Speedster QICK 319 Radeon RX 7800 XT Core Edition Graphics Card Black | White"
           }
         ]
+      },
+      {
+        "model": "RX7800XT",
+        "date": "2025-08-14",
+        "price": 31450.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/asrock-amd-radeon-rx-7800-xt-steel-legend-16gb-256-bit-gddr6-oc-videocard",
+            "name": "Asrock AMD Radeon\u00c2\u2122 RX 7800 XT Steel Legend 16GB 256-Bit GDDR6 OC Videocard"
+          }
+        ]
       }
     ],
     "RTX3060TI": [
@@ -4134,6 +4187,18 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-dual-geforce-rtxtm-3060-ti-oc-edition-8gb-gddr6x-graphics-card-black-white/",
             "name": "ASUS Dual GeForce RTX 3060 Ti OC Edition 8GB GDDR6X Graphics Card \u2013 Black | White"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060TI",
+        "date": "2025-08-14",
+        "price": 31200.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3060-ti-twin-edge-oc-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-graphics-card-icestorm-2-0-advanced-cooling-active-fan-control-freeze-fan-stop-zt-a30610h-10mlhr",
+            "name": "ZOTAC Gaming GeForce RTX\u2122 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Graphics Card, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop (ZT-A30610H-10MLHR)"
           }
         ]
       }
@@ -4846,6 +4911,18 @@
             "name": "ZOTAC GAMING GeForce RTX 4060 8GB SOLO GDDR6 Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX4060",
+        "date": "2025-08-14",
+        "price": 17650.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-4060-infinity-2-8gb-gddr6-graphics-card",
+            "name": "Palit GeForce RTX 4060 Infinity 2 8GB GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "RX7600XT": [
@@ -5554,6 +5631,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=9",
             "name": "Gigabyte Radeon RX 7600XT Gaming OC, pn: GV-R76XTGAMING-OC-16GD"
+          }
+        ]
+      },
+      {
+        "model": "RX7600XT",
+        "date": "2025-08-14",
+        "price": 21495.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-7600-xt-gaming-oc-16gb-gddr6-graphics-card",
+            "name": "Sapphire Pulse AMD Radeon RX 7600 XT Gaming OC 16GB GDDR6 Graphics Card"
           }
         ]
       }
@@ -6266,6 +6355,18 @@
             "name": "Powercolor Hellhound AMD Radeon RX 7900 XT 20GB GDDR6 Graphics Card RX 7900 XT 20G-L/OC"
           }
         ]
+      },
+      {
+        "model": "RX7900XT",
+        "date": "2025-08-14",
+        "price": 52950.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/asus-tuf-gaming-amd-radeon-rx-7900-xt-oc-edition-20gb-gddr6-graphics-card",
+            "name": "Asus TUF Gaming AMD Radeon RX 7900 XT OC Edition 20GB GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "RTX4060TI-8GB": [
@@ -6974,6 +7075,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=3",
             "name": "8G MSI RTX 4060Ti Gaming X Slim x Force GC30 Monster Hunter, pn: 912-V515-209"
+          }
+        ]
+      },
+      {
+        "model": "RTX4060TI-8GB",
+        "date": "2025-08-14",
+        "price": 22650.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-4060-ti-nb-duo-8gb-v-gddr6-graphics-card",
+            "name": "Colorful Geforce RTX 4060 TI NB Duo 8GB-V GDDR6 Graphics Card"
           }
         ]
       }
@@ -7686,6 +7799,18 @@
             "name": "Colorful GeForce RTX 3050 6GB-V Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX3050-6GB",
+        "date": "2025-08-14",
+        "price": 9550.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3050-6gb-v4-v-gddr6-graphics-card",
+            "name": "ColorFul GeForce RTX 3050 6GB V4-V GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "RTX3050": [
@@ -8382,6 +8507,18 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/colorful-igame-geforce-rtx-3050-ultra-w-oc-8g-v-gddr6-video-card/",
             "name": "Colorful iGame GeForce RTX 3050 Ultra W DUO OC V2-V Video Card"
+          }
+        ]
+      },
+      {
+        "model": "RTX3050",
+        "date": "2025-08-14",
+        "price": 16800.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3050-twin-edge-oc-zt-a30500h-10m",
+            "name": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC (ZT-A30500H-10M)"
           }
         ]
       }
@@ -9144,6 +9281,18 @@
             "name": "PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 PCIe 5.0 4096 Stream Processors 3010MHz Boost ..."
           }
         ]
+      },
+      {
+        "model": "RX9070XT",
+        "date": "2025-08-14",
+        "price": 45695.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9070-xt-steel-legend-16gb-graphics-card",
+            "name": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB Graphics Card"
+          }
+        ]
       }
     ],
     "RTX5070TI": [
@@ -9872,6 +10021,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/palit-geforce-rtx-5070-ti-gamingpro-s-slim-16gb-gddr7-graphics-card-with-nvidia-blackwell-and-dlss-4-ne7507t019t2-gb2031u/",
             "name": "Palit GeForce RTX 5070 Ti GamingPro-S (Slim) 16GB GDDR7 Graphics Card with NVIDIA Blackwell and DLSS..."
+          }
+        ]
+      },
+      {
+        "model": "RTX5070TI",
+        "date": "2025-08-14",
+        "price": 50895.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-ti-gamingpro-s-16gb-gddr7-graphics-card",
+            "name": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Graphics Card"
           }
         ]
       }
@@ -10729,6 +10890,18 @@
             "name": "Colorful iGame GeForce RTX 3070 Ti Ultra W OC 8G-V GDDR6X Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX3070TI",
+        "date": "2025-08-14",
+        "price": 25950.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-3070-ti-ultra-w-oc-8g-v-gddr6x-graphics-card",
+            "name": "Colorful iGame GeForce RTX 3070 Ti Ultra W OC 8G-V GDDR6X Graphics Card"
+          }
+        ]
       }
     ],
     "RTX3050-8GB": [
@@ -11437,6 +11610,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=3",
             "name": "8G MSI RTX 3050 Ventus 2X XS OC, pn: 912-V809-4266"
+          }
+        ]
+      },
+      {
+        "model": "RTX3050-8GB",
+        "date": "2025-08-14",
+        "price": 12450.0,
+        "stores": [
+          {
+            "store": "pcx",
+            "link": "https://pcx.com.ph/products/inno3d-geforce-rtx-3050-twin-x2-oc-v2-8gb-gddr6-128-bit-graphics-card",
+            "name": "INNO3D GeForce RTX\u2122  3050 TWIN X2 OC V2 8GB GDDR6 128-bit Graphics Card"
           }
         ]
       }
@@ -12149,6 +12334,18 @@
             "name": "Zotac RTX 5070 Twin Edge OC, pn: ZT-B50700H-10P"
           }
         ]
+      },
+      {
+        "model": "RTX5070",
+        "date": "2025-08-14",
+        "price": 36450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-gddr7-graphics-card-zt-b50700h-10p",
+            "name": "Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card (ZT-B50700H-10P)"
+          }
+        ]
       }
     ],
     "RX7700XT": [
@@ -12859,6 +13056,18 @@
             "name": "Sapphire Pulse AMD Radeon RX 7700 XT Gaming 12GB GDDR6 Dual HDMI/Dual DP Lite Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RX7700XT",
+        "date": "2025-08-14",
+        "price": 26750.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-7700-xt-gaming-12gb-gddr6-dual-hdmi-dual-dp-lite-graphics-card",
+            "name": "Sapphire Pulse AMD Radeon RX 7700 XT Gaming 12GB GDDR6 Dual HDMI/Dual DP Lite Graphics Card"
+          }
+        ]
       }
     ],
     "RX6800XT": [
@@ -13557,6 +13766,23 @@
             "name": "XFX SPEEDSTER MERC319 RX 6800 XT 16GB GDDR6 CORE Gaming Graphics Card RX-68XTALFD9"
           }
         ]
+      },
+      {
+        "model": "RX6800XT",
+        "date": "2025-08-14",
+        "price": 81000.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3",
+            "name": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
+          },
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+            "name": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
+          }
+        ]
       }
     ],
     "RX6800": [
@@ -14247,6 +14473,18 @@
       {
         "model": "RX6800",
         "date": "2025-08-13",
+        "price": 26220.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+            "name": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
+          }
+        ]
+      },
+      {
+        "model": "RX6800",
+        "date": "2025-08-14",
         "price": 26220.0,
         "stores": [
           {
@@ -14965,6 +15203,18 @@
             "name": "Colorful GeForce RTX 3070 NB V2 Battle AX 256 bit GDDR6 Video Card"
           }
         ]
+      },
+      {
+        "model": "RTX3070",
+        "date": "2025-08-14",
+        "price": 27500.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3070-twin-edge-oc-lhr-8gb-gddr6-graphics-card-zt-a30700h-10plhr",
+            "name": "Zotac Gaming GeForce RTX 3070 Twin Edge OC LHR 8GB GDDR6 Graphics Card (ZT-A30700H-10PLHR)"
+          }
+        ]
       }
     ],
     "RTX4070TI": [
@@ -15673,6 +15923,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=1",
             "name": "Inno3d RTX 4070Ti X3, pn: N407T3-126X-186148N"
+          }
+        ]
+      },
+      {
+        "model": "RTX4070TI",
+        "date": "2025-08-14",
+        "price": 44495.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-4070-ti-nb-ex-v-12gb-gddr6x-graphics-card",
+            "name": "Colorful GeForce RTX 4070 Ti NB EX-V 12GB GDDR6X Graphics Card"
           }
         ]
       }
@@ -16410,6 +16672,18 @@
             "name": "PowerColor Fighter AMD Radeon RX 7600 8GB GDDR6 PCIe 4.0 2048 Stream Processors 2655MHz Boost with D..."
           }
         ]
+      },
+      {
+        "model": "RX7600",
+        "date": "2025-08-14",
+        "price": 16489.0,
+        "stores": [
+          {
+            "store": "itworld",
+            "link": "https://www.itworldph.com/shop/gv-r76gaming-oc-8gd-gigabyte-radeon-rx-7600-8gb-gddr6-gv-r76gaming-oc-8gd-17256?page=4&category=172",
+            "name": "Gigabyte Radeon RX 7600 8GB GDDR6 (GV-R76GAMING OC-8GD)"
+          }
+        ]
       }
     ],
     "RX9070": [
@@ -17118,6 +17392,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9070-oc-triple-90mm-fan-gaming-edition-graphics-card-16gb-gddr6-2700mhz-boost-rdna-4-rx-97swft3b7/",
             "name": "XFX Swift AMD Radeon RX 9070 OC Triple 90mm Fan Gaming Edition Graphics Card 16GB GDDR6 2700MHz Boos..."
+          }
+        ]
+      },
+      {
+        "model": "RX9070",
+        "date": "2025-08-14",
+        "price": 41350.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/xfx-swift-amd-radeon-rx-9070-oc-triple-fan-gaming-ed-16gb-gddr6-graphics-card-white-rx-97swft3w7",
+            "name": "XFX Swift AMD Radeon RX 9070 OC Triple Fan Gaming Ed. 16GB GDDR6 Graphics Card (White) (RX-97SWFT3W7)"
           }
         ]
       }
@@ -17830,6 +18116,18 @@
             "name": "COLORFUL GEFORCE GT710 NF 1GD3-V Graphics Card (1GB DDR3, 1333MHz effective memory speed)..."
           }
         ]
+      },
+      {
+        "model": "GT710",
+        "date": "2025-08-14",
+        "price": 2699.0,
+        "stores": [
+          {
+            "store": "itworld",
+            "link": "https://www.itworldph.com/shop/gt710-sl-2gd5-brk-evo-itw-asus-gt710-2gb-gddr5-evo-geforce-graphic-card-gt710-sl-2gd5-brk-evo-10384?category=172",
+            "name": "Itw | ASUS GT710 2GB GDDR5 EVO Geforce Graphic Card (GT710-SL-2GD5-BRK-EVO)"
+          }
+        ]
       }
     ],
     "RTX2060": [
@@ -18526,6 +18824,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/colorful-geforce-rtx-2060-nb-12g-v-graphics-card-with-nvidia-tu106-12gb-gddr6-2176-cuda-cores-real-time-ray-tracing-dual-fan-cooling-colorful-geforce-rtx2060-nb-12gb-v/",
             "name": "Colorful GeForce RTX 2060 NB 12G-V Graphics Card with NVIDIA TU106, 12GB GDDR6, 2176 CUDA Cores, Rea..."
+          }
+        ]
+      },
+      {
+        "model": "RTX2060",
+        "date": "2025-08-14",
+        "price": 22200.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-2060-super-mini-8gb-gddr6-256-bit-14gbps-gaming-graphics-card-ice-storm-2-0-super-compact-zt-t20610e-10m",
+            "name": "ZOTAC GAMING GeForce RTX 2060 SUPER MINI 8GB GDDR6 256-bit 14Gbps Gaming Graphics Card, Ice Storm 2.0, Super Compact (ZT-T20610E-10M)"
           }
         ]
       }
@@ -19236,6 +19546,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1650-amp-core-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520j-10l/",
             "name": "ZOTAC Gaming GeForce GTX 1650 AMP CORE 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16..."
+          }
+        ]
+      },
+      {
+        "model": "GTX1650",
+        "date": "2025-08-14",
+        "price": 7945.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/zotac-geforce-gtx-1650-amp-core-4gb-gddr6-gaming-graphics-card-zt-t16520j-10l",
+            "name": "ZOTAC GeForce GTX 1650 AMP Core Gaming Graphics Card - 4GB GDDR6 Budget GPU ZT-T16520J-10L"
           }
         ]
       }
@@ -20138,6 +20460,18 @@
             "name": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB GDDR6X Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX4070S",
+        "date": "2025-08-14",
+        "price": 42046.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/asus-dual-nvidia-geforce-rtx-4070-super-oc-edition-dual-rtx4070s-o12g-12gb-192bit-gddr6-videocard",
+            "name": "Asus Dual NVIDIA\u00c2\u00ae GeForce RTX\u00c2\u2122 4070 Super OC edition DUAL-RTX4070S-O12G 12GB 192bit GDDR6 Videocard"
+          }
+        ]
       }
     ],
     "RTX5060TI-8GB": [
@@ -20846,6 +21180,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=6",
             "name": "8G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50610E-10M"
+          }
+        ]
+      },
+      {
+        "model": "RTX5060TI-8GB",
+        "date": "2025-08-14",
+        "price": 24695.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-ti-8gb-gddr7-ventus-2x-plus-graphics-card",
+            "name": "MSI GeForce RTX 5060 Ti 8GB GDDR7 Ventus 2X Plus Graphics Card"
           }
         ]
       }
@@ -22148,6 +22494,18 @@
             "name": "Colorful GeForce RTX 3080 Ti NB-V Graphics Card with NVIDIA GA102, 12GB GDDR6X, 10240 CUDA Cores, DL..."
           }
         ]
+      },
+      {
+        "model": "RTX3080TI",
+        "date": "2025-08-14",
+        "price": 42995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3080-ti-amp-holo-12gb-gddrx-graphics-card-zt-a30810f-10p",
+            "name": "Zotac Gaming GeForce RTX 3080 Ti AMP Holo 12GB GDDR6X Graphics Card (ZT-A30810F-10P)"
+          }
+        ]
       }
     ],
     "RTX5080": [
@@ -22856,6 +23214,18 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/msi-geforce-rtx-5080-16g-shadow-3x-oc-non-oc-graphics-card/",
             "name": "MSI GeForce RTX 5080 16G SHADOW 3X OC | NON-OC Graphics Card"
+          }
+        ]
+      },
+      {
+        "model": "RTX5080",
+        "date": "2025-08-14",
+        "price": 74995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/inno3d-geforce-rtx-5080-x3-oc-16gb-gddr7-graphics-card-n50803-16d7x-17603930",
+            "name": "INNO3D GeForce RTX 5080 X3 OC 16GB GDDR7 Graphics Card (N50803-16D7X-17603930)"
           }
         ]
       }
@@ -24026,6 +24396,18 @@
             "name": "ZOTAC GAMING GeForce RTX 3080 AMP Holo LHR GDDR6X 256 bit PCIE 4.0 Gaming Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX3080",
+        "date": "2025-08-14",
+        "price": 56995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-3080-trinity-oc-lhr-12gb-gddr6x-graphics-card-zt-a30820j-10plhr",
+            "name": "ZOTAC GAMING GeForce RTX 3080 Trinity OC LHR 12GB GDDR6X Graphics Card (ZT-A30820J-10PLHR)"
+          }
+        ]
       }
     ],
     "RTX5060": [
@@ -24734,6 +25116,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=6",
             "name": "8G Zotac RTX 5060 Solo, pn: ZT-B50600G-10L"
+          }
+        ]
+      },
+      {
+        "model": "RTX5060",
+        "date": "2025-08-14",
+        "price": 18250.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-8gb-solo-gddr7-graphics-card-zt-b50600g-10l",
+            "name": "Zotac Gaming GeForce RTX 5060 8GB Solo GDDR7 Graphics Card (ZT-B50600G-10L)"
           }
         ]
       }
@@ -25571,6 +25965,18 @@
             "name": "Sapphire Pulse AMD Radeon RX 6500 XT Gaming OC 4GB GDDR6 Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RX6500XT",
+        "date": "2025-08-14",
+        "price": 8450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-6500-xt-gaming-oc-4gb-gddr6-graphics-card",
+            "name": "Sapphire Pulse AMD Radeon RX 6500 XT Gaming OC 4GB GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "GT1030-2GB": [
@@ -26279,6 +26685,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/colorful-gt1030-2g-v3-v-graphics-card-2gb-gddr5-64-bit-memory-bus/",
             "name": "Colorful GT1030 2G V3-V Graphics Card (2GB GDDR5, 64-bit memory bus)..."
+          }
+        ]
+      },
+      {
+        "model": "GT1030-2GB",
+        "date": "2025-08-14",
+        "price": 3850.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-ddr4",
+            "name": "GALAX GeForce\u00ae GT 1030 DDR4 2GB DDR4 64-bit HDMI 2.0b/DVI-D"
           }
         ]
       }
@@ -26991,6 +27409,18 @@
             "name": "2gb Ramsta GT730 ddr3 128bit"
           }
         ]
+      },
+      {
+        "model": "GT730-2GB",
+        "date": "2025-08-14",
+        "price": 3600.0,
+        "stores": [
+          {
+            "store": "pcx",
+            "link": "https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card",
+            "name": "ASUS GeForce\u00ae  GT 730 2GB GDDR5 64-bit Graphics Card"
+          }
+        ]
       }
     ],
     "RX9060XT-16GB": [
@@ -27701,6 +28131,18 @@
             "name": "16G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 16GO"
           }
         ]
+      },
+      {
+        "model": "RX9060XT-16GB",
+        "date": "2025-08-14",
+        "price": 24980.0,
+        "stores": [
+          {
+            "store": "dynaquest",
+            "link": "https://dynaquestpc.com/products/sapphire-pulse-amd-radeon-rx-9060-xt-gaming-oc-16gb-dual-hdmi-dp-lite-spr-11350-03-20g-for-pc-build",
+            "name": "Sapphire PULSE AMD Radeon RX 9060 XT Gaming OC 16GB DUAL HDMI / DP LITE SPR-11350-03-20G Graphics Card"
+          }
+        ]
       }
     ],
     "RTX5090": [
@@ -28409,6 +28851,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-ventus-3x-oc-gddr7-512-bit-blackwell-architecture-graphics-card/",
             "name": "MSI NVIDIA GeForce RTX 5090 32G Ventus 3X OC GDDR7 512-bit Blackwell Architecture Graphics Card..."
+          }
+        ]
+      },
+      {
+        "model": "RTX5090",
+        "date": "2025-08-14",
+        "price": 139450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-ventus-3x-oc-graphics-card",
+            "name": "MSI GeForce RTX 5090 32GB GDDR7 Ventus 3X OC Graphics Card"
           }
         ]
       }
@@ -31086,6 +31540,18 @@
             "name": "Galax GeForce RTX 4070 1-Click OC 2X 12GB GDDR6X 192 bit Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX4070",
+        "date": "2025-08-14",
+        "price": 38450.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/gugabyte-geforce-rtx\u2122-4070-windforce-oc-12g-gv-n4070wf3oc-12gd",
+            "name": "GIGABYTE GeForce RTX\u2122 4070 WINDFORCE OC 12G (GV-N4070WF3OC-12GD)"
+          }
+        ]
       }
     ],
     "RTX5060TI-16GB": [
@@ -31801,6 +32267,28 @@
             "name": "16G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50620E-10M"
           }
         ]
+      },
+      {
+        "model": "RTX5060TI-16GB",
+        "date": "2025-08-14",
+        "price": 28995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-gddr7-graphics-card",
+            "name": "Zotac Gaming Geforce RTX 5060 Ti 16GB Twin Edge OC GDDR7 Graphics Card (ZT-B50620H-10M)"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card",
+            "name": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/inno3d-geforce-rtx-5060-ti-twin-x2-16gb-gddr7-graphics-card-black-n506t2-16d7-191073n",
+            "name": "INNO3D GeForce RTX 5060 Ti TWIN X2 16GB GDDR7 Graphics Card (Black) (N506T2-16D7-191073N)"
+          }
+        ]
       }
     ],
     "GT730-4GB": [
@@ -32497,6 +32985,18 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/video-cards/galax-gt730-4gb-ddr3-128-bit-hdmi-dvi-vga-video-card/",
             "name": "GALAX GT730 4GB DDR3 128-bit HDMI/DVI/VGA Video Card"
+          }
+        ]
+      },
+      {
+        "model": "GT730-4GB",
+        "date": "2025-08-14",
+        "price": 3310.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/galax-geforce-gt-730-4gb-ddr3-4gb-ddr3-128-bit-hdmi-dvi-vga",
+            "name": "GALAX GeForce GT 730 4GB DDR3 4GB DDR3 128-bit HDMI/DVI/VGA"
           }
         ]
       }
@@ -33237,6 +33737,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=9",
             "name": "8G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 8GO"
+          }
+        ]
+      },
+      {
+        "model": "RX9060XT-8GB",
+        "date": "2025-08-14",
+        "price": 20450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9060-xt-challenger-16gb-gddr6-oc-graphics-card-copy",
+            "name": "ASRock AMD Radeon RX 9060 XT Challenger 8GB GDDR6 OC Graphics Card"
           }
         ]
       }
@@ -34985,6 +35497,28 @@
             "name": "MSI Radeon RX 6900 XT GAMING X TRIO 16GB GDDR6 PCI Express 4.0 Video Card"
           }
         ]
+      },
+      {
+        "model": "RX6900XT",
+        "date": "2025-08-14",
+        "price": 102000.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-16gb",
+            "name": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (16GB)"
+          },
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+            "name": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
+          },
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-rx-69xtacsd9",
+            "name": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (RX-69XTACSD9)"
+          }
+        ]
       }
     ],
     "RX6950XT": [
@@ -35687,6 +36221,18 @@
       {
         "model": "RX6950XT",
         "date": "2025-08-13",
+        "price": 38995.0,
+        "stores": [
+          {
+            "store": "dynaquest",
+            "link": "https://dynaquestpc.com/products/msi-radeon-rx-6950-xt-gaming-x-trio-16gb-gddr6-graphics-card",
+            "name": "MSI Radeon RX 6950 XT Gaming X Trio 16GB GDDR6 Graphics Card"
+          }
+        ]
+      },
+      {
+        "model": "RX6950XT",
+        "date": "2025-08-14",
         "price": 38995.0,
         "stores": [
           {
@@ -36429,6 +36975,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/xfx-amd-radeon-rx-550-4gb-gddr5-core-edition-pcie-3-0-1203mhz-512-stream-processors-with-sf-fansink-rx-550p4sfg5/",
             "name": "XFX AMD Radeon RX 550 4GB GDDR5 Core Edition PCIe 3.0 1203MHz 512 Stream Processors with SF Fansink ..."
+          }
+        ]
+      },
+      {
+        "model": "RX550-4GB",
+        "date": "2025-08-14",
+        "price": 4620.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-amd-radeon\u2122-rx-550-4gb-double-dissipation",
+            "name": "XFX AMD Radeon\u2122 RX 550 4GB Double Dissipation"
           }
         ]
       }
@@ -40847,6 +41405,18 @@
             "name": "MSI Gaming Radeon RX 6700 XT Mech 2X | Mech 2X OC 192-bit 12GB GDDR6"
           }
         ]
+      },
+      {
+        "model": "RX6700XT",
+        "date": "2025-08-14",
+        "price": 26400.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6700-xt-black-gaming-graphics-card-with-12gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2-rx-67xtypbdp",
+            "name": "XFX SPEEDSTER QICK 319 AMD Radeon\u2122 RX 6700 XT BLACK Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2 (RX-67XTYPBDP)"
+          }
+        ]
       }
     ],
     "RX6600XT": [
@@ -41557,6 +42127,18 @@
             "name": "ASRock Challenger D Radeon RX 6600 XT | RX 6650 XT OC 8GB GDDR6 PCI Express 4.0 Video Card"
           }
         ]
+      },
+      {
+        "model": "RX6600XT",
+        "date": "2025-08-14",
+        "price": 18600.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-merc308-radeon-rx-6600-xt-black-gaming-graphics-card-with-8gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2",
+            "name": "XFX SPEEDSTER MERC308 RADEON RX 6600 XT BLACK Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2"
+          }
+        ]
       }
     ],
     "GTX1660": [
@@ -42147,6 +42729,18 @@
             "name": "OCPC Geforce GTX 1660 Super XE 6GB GDDR6 HDMI+DP Dual Fan Graphics Card 192 bit"
           }
         ]
+      },
+      {
+        "model": "GTX1660",
+        "date": "2025-08-14",
+        "price": 14150.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/colorful-geforce-gtx-1660-super-nb-6g-v2-v-6gb-gddr6-192bit-graphics-card",
+            "name": "Colorful GeForce GTX 1660 SUPER NB 6G V2-V 6GB GDDR6 192BIT GRAPHICS CARD"
+          }
+        ]
       }
     ],
     "GTX1050TI": [
@@ -42705,6 +43299,18 @@
       {
         "model": "GTX1050TI",
         "date": "2025-08-13",
+        "price": 11340.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-geforce\u00ae-gtx-1050-ti-mini-4gb-gddr5-displayport-128-bit-gaming-graphic-cardzt-p10510a-10l",
+            "name": "ZOTAC GeForce\u00ae GTX 1050 Ti Mini 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card(ZT-P10510A-10L)"
+          }
+        ]
+      },
+      {
+        "model": "GTX1050TI",
+        "date": "2025-08-14",
         "price": 11340.0,
         "stores": [
           {
@@ -43375,6 +43981,18 @@
             "name": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)"
           }
         ]
+      },
+      {
+        "model": "RX6400",
+        "date": "2025-08-14",
+        "price": 9600.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/asrock-53",
+            "name": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)"
+          }
+        ]
       }
     ],
     "RTX3060": [
@@ -43933,6 +44551,18 @@
       {
         "model": "RTX3060",
         "date": "2025-08-13",
+        "price": 19200.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-zt-a30600e-10m",
+            "name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge (ZT-A30600E-10M)"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060",
+        "date": "2025-08-14",
         "price": 19200.0,
         "stores": [
           {
@@ -44643,6 +45273,18 @@
       {
         "model": "RTX4080",
         "date": "2025-08-13",
+        "price": 78950.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4080-gaming-oc-16gb-gddr6x-graphics-card",
+            "name": "Gigabyte GeForce RTX 4080 Gaming OC 16GB GDDR6X Graphics Card"
+          }
+        ]
+      },
+      {
+        "model": "RTX4080",
+        "date": "2025-08-14",
         "price": 78950.0,
         "stores": [
           {
@@ -47487,6 +48129,18 @@
             "name": "Palit GeForce RTX 4060 Ti JetStream OC 16GB GDDR6 Graphics Card"
           }
         ]
+      },
+      {
+        "model": "RTX4060TI1-6GB",
+        "date": "2025-08-14",
+        "price": 29695.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-4060-ti-gaming-oc-16gb-gddr6-graphics-card",
+            "name": "Gigabyte GeForce RTX 4060 Ti Gaming OC 16GB GDDR6 Graphics Card"
+          }
+        ]
       }
     ],
     "GTX1660TI": [
@@ -48189,6 +48843,18 @@
       {
         "model": "GTX1660TI",
         "date": "2025-08-13",
+        "price": 20495.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-gtx-1660-ti-mini-itx-6g-gddr6-graphics-card",
+            "name": "Gigabyte GeForce GTX 1660 Ti Mini ITX 6G GDDR6 Graphics Card"
+          }
+        ]
+      },
+      {
+        "model": "GTX1660TI",
+        "date": "2025-08-14",
         "price": 20495.0,
         "stores": [
           {
@@ -49821,6 +50487,18 @@
             "store": "pchub",
             "link": "https://www.pchubonline.com/products?category=2&page=10",
             "name": "ASRock Intel Arc B580 ChaIlenger OC, pn: AR-B580-CL-12GO"
+          }
+        ]
+      },
+      {
+        "model": "ARCB580",
+        "date": "2025-08-14",
+        "price": 17995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/asrock-intel-arc-b580-steel-legend-12gb-oc-gddr6-graphics-card",
+            "name": "ASRock Intel Arc B580 Steel Legend 12GB OC GDDR6 Graphics Card"
           }
         ]
       }
@@ -52687,6 +53365,18 @@
             "name": "Ayaneo Starship Graphics Dock AMD Radeon RX 7600M XT (Nebula Red)"
           }
         ]
+      },
+      {
+        "model": "AYANEO-7600M",
+        "date": "2025-08-14",
+        "price": 29995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/ayaneo-starship-graphics-dock-amd-radeon-rx-7600m-xt-nebula-red",
+            "name": "Ayaneo Starship Graphics Dock AMD Radeon RX 7600M XT (Nebula Red)"
+          }
+        ]
       }
     ],
     "RX580-8GB": [
@@ -53395,6 +54085,18 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/ramsta-rx580-jx-dual-fan-8-gb-gddr5-256-bit-graphics-card/",
             "name": "Ramsta RX580 JX Dual Fan 8 GB GDDR5 256-bit Graphics Card..."
+          }
+        ]
+      },
+      {
+        "model": "RX580-8GB",
+        "date": "2025-08-14",
+        "price": 5995.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/biostar-rx-580-va5805rv82-dual-cooling-fan-8gb-256bit-gddr5-gaming-videocard",
+            "name": "Biostar Rx 580 VA5805RV82 Dual Cooling Fan 8gb 256bit GDdr5 Gaming Videocard"
           }
         ]
       }
@@ -55607,6 +56309,18 @@
             "name": "Zotac Gaming GeForce RTX 5050 8GB Twin Edge OC GDDR6 Graphics Card (ZT-B50500H-10M)"
           }
         ]
+      },
+      {
+        "model": "RTX5050",
+        "date": "2025-08-14",
+        "price": 15595.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/zotac-gaming-geforce-rtx-5050-8gb-twin-edge-oc-gddr6-graphics-card-zt-b50500h-10m",
+            "name": "Zotac Gaming GeForce RTX 5050 8GB Twin Edge OC GDDR6 Graphics Card (ZT-B50500H-10M)"
+          }
+        ]
       }
     ],
     "RX9060XT": [
@@ -55771,6 +56485,6 @@
     ]
   },
   "meta": {
-    "last_date": "2025-08-13"
+    "last_date": "2025-08-14"
   }
 }
