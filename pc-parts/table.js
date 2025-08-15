@@ -1,7 +1,7 @@
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    const headers = ['category','model','description','shop','price','availability','link'];
+    const headers = ['category','model','description','shop','price','availability','last_update','link'];
     const table = $('#gpuTable').DataTable({
       data: data,
       ordering: true,
@@ -12,6 +12,7 @@ fetch('data.json')
         { data: 'shop' },
         { data: 'price' },
         { data: 'availability' },
+        { data: 'last_update' },
         { data: 'link', render: d => `<a href="${d}" target="_blank">link</a>` }
       ],
       dom: 'lrtip',
