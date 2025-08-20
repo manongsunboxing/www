@@ -19124,12 +19124,12 @@
       {
         "model": "RX9070",
         "date": "2025-08-20",
-        "price": 38995.0,
+        "price": 39000.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9070-oc-triple-90mm-fan-gaming-edition-graphics-card-16gb-gddr6-2700mhz-boost-rdna-4-rx-97swft3b7/",
-            "name": "XFX Swift AMD Radeon RX 9070 OC Triple 90mm Fan Gaming Edition Graphics Card 16GB GDDR6 2700MHz Boos..."
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/xfx-swift-amd-radeon-rx-9070-oc-16gb-triple-fan-gaming-edition-graphics-card/",
+            "name": "XFX Swift AMD Radeon RX 9070 OC 16GB Triple Fan Gaming Edition Graphics Card"
           }
         ]
       }
@@ -37106,17 +37106,12 @@
       {
         "model": "RX9060XT-8GB",
         "date": "2025-08-20",
-        "price": 20450.0,
+        "price": 20295.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-9060-xt-challenger-16gb-gddr6-oc-graphics-card-copy",
-            "name": "ASRock AMD Radeon RX 9060 XT Challenger 8GB GDDR6 OC Graphics Card"
-          },
-          {
-            "store": "pchub",
-            "link": "https://www.pchubonline.com/products?category=2&page=9",
-            "name": "8G ASRock Radeon RX 9060XT Challenger OC, pn: RX9060XT CL 8GO"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-9060-xt-8gb-gddr6-graphics-card-with-rdna-4-architecture-and-dual-x-cooling-spr-11350-04-20g/",
+            "name": "SAPPHIRE PULSE AMD Radeon RX 9060 XT 8GB GDDR6 Graphics Card with RDNA 4 Architecture and Dual-X Coo..."
           }
         ]
       }
