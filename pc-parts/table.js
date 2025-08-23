@@ -37,13 +37,19 @@ fetch('data.json')
       optionsHtml[key] = `<option value=""></option>` + opts;
     });
 
+    const nonFilterCols = ['last_update', 'link'];
     $('#gpuTable thead th').each(function(i){
       const header = headers[i];
+      if (nonFilterCols.includes(header)) {
+        return;
+      }
       let input;
       if(selectCols.includes(header)) {
         input = $(`<select>${optionsHtml[header]}</select>`);
         $(this).append('<br>').append(input);
-        input.select2({ width: 'resolve', placeholder: 'Filter' });
+        input.select2({ width: 'resolve', placeholder: 'Filter', allowClear: true });
+        // Prevent select2 interactions from triggering table sort
+        input.next('.select2').on('mousedown click', function(e){ e.stopPropagation(); });
         input.on('change', function(e){
           e.stopPropagation();
           const val = $(this).val();
