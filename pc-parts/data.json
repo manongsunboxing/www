@@ -28338,5 +28338,945 @@
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/sapphire-amd-radeon-rx-9070-xt-pure-gaming-oc-16gb-gddr6-256-bit-graphics-card",
     "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "ZOTAC GAMING GeForce RTX 5080 SOLID OC",
+    "shop": "pinklehub",
+    "price": 89700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-5080-solid-oc",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "GALAX GeForce\u00ae GT 1030 DDR4 2GB DDR4 64-bit HDMI 2.0b/DVI-D",
+    "shop": "pinklehub",
+    "price": 3850.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-ddr4",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "GALAX GeForce\u00ae GT 1030 2GB GDDR5 64-bit HDMI 2.0b/DVI-D",
+    "shop": "pinklehub",
+    "price": 3960.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce\u00ae-gt-1030-2gb-gddr5-64-bit-hdmi-2-0b-dvi-d",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 EAGLE OC ICE 8G",
+    "shop": "pinklehub",
+    "price": 21700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-eagle-oc-ice-8g",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX550-4GB",
+    "description": "XFX AMD Radeon\u2122 RX 550 4GB Double Dissipation",
+    "shop": "pinklehub",
+    "price": 4620.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-amd-radeon\u2122-rx-550-4gb-double-dissipation",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6500XT",
+    "description": "XFX Speedster QICK 210 AMD Radeon\u2122 RX 6500 XT Core Gaming Graphics Card with 4GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 15396.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-210-amd-radeon\u2122-rx-6500-xt-core-gaming-graphics-card-with-4gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "XFX Speedster SWFT 210 AMD Radeon\u2122 RX 6600 Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 14160.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-210-amd-radeon\u2122-rx-6600-core-gaming-graphics-card-with-8gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX SPEEDSTER QICK08 RADEON RX 6600 XT BLACK Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 19200.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick08-radeon-rx-6600-xt-black-gaming-graphics-card-with-8gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX SPEEDSTER MERC308 RADEON RX 6600 XT BLACK Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 18600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc308-radeon-rx-6600-xt-black-gaming-graphics-card-with-8gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "XFX Speedster SWFT 210 AMD Radeon\u2122 RX 6600 XT Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 37452.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-210-amd-radeon\u2122-rx-6600-xt-core-gaming-graphics-card-with-8gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 26220.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster QICK 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 81000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 82200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-3",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800",
+    "description": "XFX Speedster QICK 319 AMD Radeon\u2122 RX 6800 BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6800-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 81000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6800XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6800 XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 82200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6800-xt-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (16GB)",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-16gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "XFX Speedster QICK 319 Radeon\u2122 RX 7700 XT Black Edition (12GB)",
+    "shop": "pinklehub",
+    "price": 30600.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-radeon\u2122-rx-7700-xt-black-edition-12gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster MERC 319 Radeon\u2122 RX 7800 XT BLACK Edition (16GB)",
+    "shop": "pinklehub",
+    "price": 35700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-radeon\u2122-rx-7800-xt-black-edition-16gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK 319 White AMD Radeon\u2122 RX 7800 XT Core Edition Graphics Card - 16GB",
+    "shop": "pinklehub",
+    "price": 34560.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-white-amd-radeon\u2122-rx-7800-xt-core-edition-graphics-card-16gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "XFX Speedster QICK 319 Radeon\u2122 RX 7800 XT Core Edition (16GB)",
+    "shop": "pinklehub",
+    "price": 34560.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-radeon\u2122-rx-7800-xt-core-edition-16gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "AMD RADEON\u2122 RX 7900 XT Gaming Graphics Card (20GB)",
+    "shop": "pinklehub",
+    "price": 62400.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/amd-radeon\u2122-rx-7900-xt-gaming-graphics-card-20gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX SPEEDSTER MERC 310 AMD Radeon\u2122 RX 7900 XT Black Edition (20GB)",
+    "shop": "pinklehub",
+    "price": 67980.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-310-amd-radeon\u2122-rx-7900-xt-black-edition-20gb",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "XFX SPEEDSTER MERC 310 AMD Radeon\u2122 RX 7900 XTX Black Edition (24GB)",
+    "shop": "pinklehub",
+    "price": 76560.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-310-amd-radeon\u2122-rx-7900-xtx-black-edition",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 AMP Core GDDR6 (ZT-T16520J-10L)",
+    "shop": "pinklehub",
+    "price": 8700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-amp-core-gddr6-zt-t16520j-10l",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6700XT",
+    "description": "XFX SPEEDSTER QICK 319 AMD Radeon\u2122 RX 6700 XT BLACK Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA\u2122 2 (RX-67XTYPBDP)",
+    "shop": "pinklehub",
+    "price": 26400.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-qick-319-amd-radeon\u2122-rx-6700-xt-black-gaming-graphics-card-with-12gb-gddr6-hdmi-3xdp-amd-rdna\u2122-2-rx-67xtypbdp",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT730-4GB",
+    "description": "GALAX GeForce GT 730 4GB DDR3 4GB DDR3 128-bit HDMI/DVI/VGA",
+    "shop": "pinklehub",
+    "price": 3310.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/galax-geforce-gt-730-4gb-ddr3-4gb-ddr3-128-bit-hdmi-dvi-vga",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600",
+    "description": "GIGABYTE Radeon\u2122 RX 6600 EAGLE 8G (GV-R66EAGLE-8GD)",
+    "shop": "pinklehub",
+    "price": 16760.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-6600-eagle-8g-gv-r66eagle-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 3060 GAMING OC 8G (rev. 1.0) rev. 2.0 (GV-N3060GAMING-OC-8GD-2.0)",
+    "shop": "pinklehub",
+    "price": 16940.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-3060-gaming-oc-8g-rev-1-0-rev-2-0-gv-n3060gaming-oc-8gd-2-0",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 WINDFORCE OC 8G (GV-N4060WF2OC-8GD)",
+    "shop": "pinklehub",
+    "price": 19610.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-windforce-oc-8g-gv-n4060wf2oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 EAGLE OC 8G (GV-N4060EAGLE-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 20000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-eagle-oc-8g-gv-n4060eagle-oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 GAMING OC 8G (GV-N4060GAMING-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 20890.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-gaming-oc-8g-gv-n4060gaming-oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti EAGLE 8G (GV-N406TEAGLE-8GD)",
+    "shop": "pinklehub",
+    "price": 26660.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-eagle-8g-gv-n406teagle-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti EAGLE OC 8G (GV-N406TEAGLE-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 27230.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-eagle-oc-8g-gv-n406teagle-oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti GAMING OC 8G (GV-N406TGAMING-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 27670.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-gaming-oc-8g-gv-n406tgaming-oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti AERO OC 8G (GV-N406TAERO-OC-8GD)",
+    "shop": "pinklehub",
+    "price": 28780.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-aero-oc-8g-gv-n406taero-oc-8gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti WINDFORCE OC 16G (GV-N406TWF2OC-16GD)",
+    "shop": "pinklehub",
+    "price": 30560.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-windforce-oc-16g-gv-n406twf2oc-16gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7700XT",
+    "description": "GIGIABYTE Radeon\u2122 RX 7700 XT GAMING OC 12G (GV-R77XTGAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 30750.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigiabyte-radeon\u2122-rx-7700-xt-gaming-oc-12g-gv-r77xtgaming-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti GAMING OC 16G (GV-N406TGAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 31550.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-gaming-oc-16g-gv-n406tgaming-oc-16gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI1-6GB",
+    "description": "GIGABYTE GeForce RTX\u2122 4060 Ti AERO OC 16G (GV-N406TAERO-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 32160.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4060-ti-aero-oc-16g-gv-n406taero-oc-16gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7800XT",
+    "description": "GIGABYTE Radeon\u2122 RX 7800 XT GAMING OC 16G (GV-R78XTGAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 35200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-7800-xt-gaming-oc-16g-gv-r78xtgaming-oc-16gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 WINDFORCE OC 12G (GV-N4070WF3OC-12GD)",
+    "shop": "pinklehub",
+    "price": 38450.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gugabyte-geforce-rtx\u2122-4070-windforce-oc-12g-gv-n4070wf3oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 EAGLE OC 12G (GV-N4070EAGLE-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 42000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-eagle-oc-12g-gv-n4070eagle-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GEFORCE RTX 4070 GAMING OC 12G (GV-N4070GAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 43000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-4070-gaming-oc-12g-gv-n4070gaming-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "GIGABYTE GEFORCE RTX 4070 AERO OC 12G (GV-N4070AERO-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 43890.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-4070-aero-oc-12g-gv-n4070aero-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "GIGABYTE Radeon\u2122 RX 7900 XTX GAMING OC 24G (GV-R79XTXGAMING-OC-24GD)",
+    "shop": "pinklehub",
+    "price": 68200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-radeon\u2122-rx-7900-xtx-gaming-oc-24g-gv-r79xtxgaming-oc-24gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 2.0 (GV-N407TEAGLE-12GD-2.0)",
+    "shop": "pinklehub",
+    "price": 53240.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-2-0-gv-n407teagle-12gd-2-0",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 1.0 (GV-N407TEAGLE-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 54670.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/copy-of-gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-1-0-gv-n407teagle-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti EAGLE OC 12G rev. 2.0 ( GV-N407TEAGLE-OC-12GD-2.0)",
+    "shop": "pinklehub",
+    "price": 55220.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-eagle-oc-12g-rev-2-0-gv-n407teagle-oc-12gd-2-0",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u00ad\u00ad\u2122 4070 Ti GAMING OC 12G (GV-N407TGAMING-OC-12GD)",
+    "shop": "pinklehub",
+    "price": 56430.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx-\u2122-4070-ti-gaming-oc-12g-gv-n407tgaming-oc-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "GIGABYTE GeForce RTX\u2122 4070 Ti AERO OC V2 12G (GV-N407TAERO-OCV2-12GD)",
+    "shop": "pinklehub",
+    "price": 57200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4070-ti-aero-oc-v2-12g-gv-n407taero-ocv2-12gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "GIGABYTE GeForce RTX\u2122 4080 16GB EAGLE OC (GV-N4080EAGLE-OC-16GD )",
+    "shop": "pinklehub",
+    "price": 80410.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4080-16gb-eagle-oc",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4080",
+    "description": "GIGABYTE GeForce RTX\u2122 4080 16GB GAMING OC (GV-N4080GAMING-OC-16GD)",
+    "shop": "pinklehub",
+    "price": 82500.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/gigabyte-geforce-rtx\u2122-4080-16gb-gaming-oc-gv-n4080gaming-oc-16gd",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "ARCA750",
+    "description": "Intel\u00ae Arc\u2122 A750 Graphics , Graphics Card, GPU Intel\u00ae Arc\u2122 A-Series Graphics (INTEL-21P02J00BA-99AM3D)",
+    "shop": "pinklehub",
+    "price": 16390.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/intel\u00ae-arc\u2122-a750-graphics-graphics-card-gpu-intel\u00ae-arc\u2122-a-series-graphics-intel-21p02j00ba-99am3d",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6900XT",
+    "description": "XFX Speedster MERC 319 AMD Radeon\u2122 RX 6900 XT Limited Black Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2 (RX-69XTACSD9)",
+    "shop": "pinklehub",
+    "price": 102000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/xfx-speedster-merc-319-amd-radeon\u2122-rx-6900-xt-limited-black-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2-rx-69xtacsd9",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "Colorful GeForce GTX 1660 SUPER NB 6G V2-V 6GB GDDR6 192BIT GRAPHICS CARD",
+    "shop": "pinklehub",
+    "price": 14150.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/colorful-geforce-gtx-1660-super-nb-6g-v2-v-6gb-gddr6-192bit-graphics-card",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti Trinity OC ZT-D40710J-10P",
+    "shop": "pinklehub",
+    "price": 59450.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-4",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti AMP Extreme AIRO ZT-D40710B-10P",
+    "shop": "pinklehub",
+    "price": 64120.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-3",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070TI",
+    "description": "Zotac Gaming GeForce RTX 4070 Ti AMP AIRO SPIDER-MAN\u2122: Across the Spider-Verse Bundle ZT-D40710F-10SMP",
+    "shop": "pinklehub",
+    "price": 47385.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-2",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4070",
+    "description": "Zotac Gaming GeForce RTX 4070 Twin Edge OC ZT-D40700H-10M",
+    "shop": "pinklehub",
+    "price": 40950.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4070-twin-edge-oc-zt-d40700h-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Zotac Gaming GeForce RTX 4060 Ti 8GB Twin Edge OC White Edition ZT-D40610Q-10M",
+    "shop": "pinklehub",
+    "price": 29250.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-oc-white-edition-zt-d40610q-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "Zotac Gaming GeForce RTX 4060 Ti 8GB Twin Edge OC SPIDER-MAN\u2122: Across the Spider-Verse Bundle ZT-D40610H-10SMP",
+    "shop": "pinklehub",
+    "price": 28200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-1",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Zotac Gaming GeForce RTX 4060 8GB Twin Edge OC White Edition ZT-D40600Q-10M",
+    "shop": "pinklehub",
+    "price": 21475.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-4060-8gb-twin-edge-oc-white-edition-zt-d40600q-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060",
+    "description": "Zotac Gaming GeForce\u00ae RTX 4060 8GB OC Spider-Man\u2122 Across The Spider-Verse Bundle - 8GB GDDR6, 128 bit, 3xDP, 1x HDMI (Dual Fan, Slot Size: 2 Slot, Input Power: 1x 8-pin PCIe)",
+    "shop": "pinklehub",
+    "price": 19425.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS TUF Gaming GeForce\u00ae GTX 1650 V2 OC Edition 4GB GDDR6 rocks high refresh rates for an FPS advantage without breaking a sweat(ASUS TUF-GTX1650-O4GD6-P-V2)",
+    "shop": "pinklehub",
+    "price": 11700.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/asus-102",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS Dual GeForce\u00ae GTX 1650 V2 OC Edition 4GB GDDR6",
+    "shop": "pinklehub",
+    "price": 11460.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-101",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ASUS Phoenix GeForce\u00ae GTX 1650 OC Edition 4GB GDDR6 V2 (ASUS PH-GTX1650-O4GD6-P-V2)",
+    "shop": "pinklehub",
+    "price": 10800.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-100",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "ASUS Phoenix GeForce\u00ae GT 1030 OC edition 2GB GDDR5 is the best for compact PC build and home entertainment",
+    "shop": "pinklehub",
+    "price": 5700.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-99",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT1030-2GB",
+    "description": "ASUS GeForce\u00ae GT 1030 2GB GDDR5 low profile graphics card for silent HTPC build (with I/O port brackets)",
+    "shop": "pinklehub",
+    "price": 5280.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asus-98",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6400",
+    "description": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)",
+    "shop": "pinklehub",
+    "price": 9600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-53",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6500XT",
+    "description": "ASRock AMD Radeon\u2122 RX 6500 XT Phantom Gaming D 4GB OC (RX6500XT PGD 4GO)",
+    "shop": "pinklehub",
+    "price": 10680.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-52",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX6600XT",
+    "description": "ASRock AMD Radeon\u2122 RX 6600 XT Challenger ITX 8GB, AMD RDNA\u2122 2 Architecture 1 x 8-pin Connector (RX6600XT CLI 8G)",
+    "shop": "pinklehub",
+    "price": 28440.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-51",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "ASRock AMD Radeon\u2122 RX 7900 XTX AQUA 24GB OC, 24GB GDDR6 on 384-Bit Memory Bus 96 AMD RDNA\u2122 3 Compute Units (With Rt+Ai Accelerators) 96MB AMD Infinity Cache\u2122 Technology (RX7900XTX AQ 24GO)",
+    "shop": "pinklehub",
+    "price": 99000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/asrock-amd-radeon\u2122-rx-7900-xtx-aqua-24gb-oc-24gb-gddr6-on-384-bit-memory-bus-96-amd-rdna\u2122-3-compute-units-with-rt-ai-accelerators-96mb-amd-infinity-cache\u2122-technology-rx7900xtx-aq-24go",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "ZOTAC Gaming GeForce RTX 3070 Twin Edge OC Low Hash Rate 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Graphics Card, IceStorm 2.0 Advanced Cooling, White LED Logo Lighting (ZT-A30700H-10PLHR)",
+    "shop": "pinklehub",
+    "price": 48240.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-twin-edge-oc-low-hash-rate-8gb-gddr6-256-bit-14-gbps-pcie-4-0-graphics-card-icestorm-2-0-advanced-cooling-white-led-logo-lighting-zt-a30700h-10plhr",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3060 AMP White Edition 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop (ZT-A30600F-10P)",
+    "shop": "pinklehub",
+    "price": 23760.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3060-amp-white-edition-12gb-gddr6-192-bit-15-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-cooling-active-fan-control-freeze-fan-stop-zt-a30600f-10p",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White Edition LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, LED Logo Lighting (ZT-A30700J-10PLHR)",
+    "shop": "pinklehub",
+    "price": 39840.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-twin-edge-oc-white-edition-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-led-logo-lighting-zt-a30700j-10plhr",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080",
+    "description": "ZOTAC GeForce RTX\u2122 3080 Trinity OC LHR 10GB GDDR6X 320-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting (ZT-A30800J-10PLHR)",
+    "shop": "pinklehub",
+    "price": 72000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce-rtx\u2122-3080-trinity-oc-lhr-10gb-gddr6x-320-bit-19-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30800j-10plhr",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060TI",
+    "description": "ZOTAC Gaming GeForce RTX\u2122 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Graphics Card, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop (ZT-A30610H-10MLHR)",
+    "shop": "pinklehub",
+    "price": 31200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3060-ti-twin-edge-oc-lhr-8gb-gddr6-256-bit-14-gbps-pcie-4-0-graphics-card-icestorm-2-0-advanced-cooling-active-fan-control-freeze-fan-stop-zt-a30610h-10mlhr",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3080TI",
+    "description": "ZOTAC GAMING GeForce RTX\u2122 3080 Ti AMP Holo 12GB GDDR6X 384-bit 19 Gbps PCIE 4.0 Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting (ZT-A30810F-10P)",
+    "shop": "pinklehub",
+    "price": 105600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx\u2122-3080-ti-amp-holo-12gb-gddr6x-384-bit-19-gbps-pcie-4-0-graphics-card-holoblack-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30810f-10p",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3070TI",
+    "description": "ZOTAC GAMING GeForce RTX 3070 Ti AMP Holo, 8GB GDDR6X, 256-bit, Boost: 1830 MHz (ZT-A30710F-10P)",
+    "shop": "pinklehub",
+    "price": 57600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3070-ti-amp-holo-8gb-gddr6x-256-bit-boost-1830-mhz-zt-a30710f-10p",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3090",
+    "description": "ZOTAC GAMING GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting (ZT-A30900D-10P)",
+    "shop": "pinklehub",
+    "price": 126000.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3090-trinity-24gb-gddr6x-384-bit-19-5-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-zt-a30900d-10p",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact (ZT-T16520F-10L)",
+    "shop": "pinklehub",
+    "price": 9000.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520f-10l",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1660",
+    "description": "ZOTAC GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, Super Compact (ZT-T16600K-10M)",
+    "shop": "pinklehub",
+    "price": 14400.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce-gtx-1660-6gb-gddr5-192-bit-gaming-graphics-card-super-compact-zt-t16600k-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC GAMING GeForce GTX 1650 SUPER Twin Fan (ZT-T16510F-10)",
+    "shop": "pinklehub",
+    "price": 21600.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-super-twin-fan-zt-t16510f-10",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "ZOTAC GAMING GeForce RTX 2060 SUPER MINI 8GB GDDR6 256-bit 14Gbps Gaming Graphics Card, Ice Storm 2.0, Super Compact (ZT-T20610E-10M)",
+    "shop": "pinklehub",
+    "price": 22200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-2060-super-mini-8gb-gddr6-256-bit-14gbps-gaming-graphics-card-ice-storm-2-0-super-compact-zt-t20610e-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1650",
+    "description": "ZOTAC Gaming GeForce GTX 1650 OC 4GB GDDR5 128-Bit Gaming Graphics Card, Super Compact (ZT-T16500F-10L)",
+    "shop": "pinklehub",
+    "price": 9000.0,
+    "availability": "Out of Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr5-128-bit-gaming-graphics-card-super-compact-zt-t16500f-10l",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GTX1050TI",
+    "description": "ZOTAC GeForce\u00ae GTX 1050 Ti Mini 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card(ZT-P10510A-10L)",
+    "shop": "pinklehub",
+    "price": 11340.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-geforce\u00ae-gtx-1050-ti-mini-4gb-gddr5-displayport-128-bit-gaming-graphic-cardzt-p10510a-10l",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "GT710",
+    "description": "GeForce\u00ae GT 710 2GB DDR3 PCI-E2.0 DL-DVI VGA HDMI Passive Cooled Single Slot Low Profile Graphics Card (ZT-71302-20L)",
+    "shop": "pinklehub",
+    "price": 3120.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/geforce\u00ae-gt-710-2gb-ddr3-pci-e2-0-dl-dvi-vga-hdmi-passive-cooled-single-slot-low-profile-graphics-card-zt-71302-20l",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Twin Edge OC (ZT-A30600H-10M)",
+    "shop": "pinklehub",
+    "price": 44280.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-oc-zt-a30600h-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060",
+    "description": "ZOTAC GAMING GeForce RTX 3060 Twin Edge (ZT-A30600E-10M)",
+    "shop": "pinklehub",
+    "price": 19200.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-zt-a30600e-10m",
+    "last_update": "2025-09-07"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050",
+    "description": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC (ZT-A30500H-10M)",
+    "shop": "pinklehub",
+    "price": 16800.0,
+    "availability": "In Stock",
+    "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3050-twin-edge-oc-zt-a30500h-10m",
+    "last_update": "2025-09-07"
   }
 ]

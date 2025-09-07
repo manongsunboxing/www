@@ -20510,12 +20510,12 @@
       {
         "model": "RX6800",
         "date": "2025-09-07",
-        "price": 28395.0,
+        "price": 26220.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/xfx-radeon-rx-6800-speedster-swft-319-core-gaming-graphics-card-rx-68xlaqfd9/",
-            "name": "XFX Radeon RX 6800 Speedster SWFT 319 CORE Gaming Graphics Card \u2013 RX-68XLAQFD9..."
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/xfx-speedster-swft-319-amd-radeon\u2122-rx-6800-core-gaming-graphics-card-with-16gb-gddr6-amd-rdna\u2122-2",
+            "name": "XFX Speedster SWFT 319 AMD Radeon\u2122 RX 6800 CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA\u2122 2"
           }
         ]
       }
@@ -61230,6 +61230,18 @@
             "name": "ZOTAC GeForce\u00ae GTX 1050 Ti Mini 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card(ZT-P10510A-10L)"
           }
         ]
+      },
+      {
+        "model": "GTX1050TI",
+        "date": "2025-09-07",
+        "price": 11340.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-geforce\u00ae-gtx-1050-ti-mini-4gb-gddr5-displayport-128-bit-gaming-graphic-cardzt-p10510a-10l",
+            "name": "ZOTAC GeForce\u00ae GTX 1050 Ti Mini 4GB GDDR5 DisplayPort 128-bit Gaming Graphic Card(ZT-P10510A-10L)"
+          }
+        ]
       }
     ],
     "RX6400": [
@@ -62180,6 +62192,18 @@
             "name": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)"
           }
         ]
+      },
+      {
+        "model": "RX6400",
+        "date": "2025-09-07",
+        "price": 9600.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/asrock-53",
+            "name": "ASRock AMD Radeon\u2122 RX 6400 Challenger ITX 4GB (RX6400 CLI 4G)"
+          }
+        ]
       }
     ],
     "RTX3060": [
@@ -63026,6 +63050,18 @@
       {
         "model": "RTX3060",
         "date": "2025-09-05",
+        "price": 19200.0,
+        "stores": [
+          {
+            "store": "pinklehub",
+            "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3060-twin-edge-zt-a30600e-10m",
+            "name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge (ZT-A30600E-10M)"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060",
+        "date": "2025-09-07",
         "price": 19200.0,
         "stores": [
           {
