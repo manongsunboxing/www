@@ -33196,12 +33196,12 @@
       {
         "model": "GTX1650",
         "date": "2025-09-24",
-        "price": 7795.0,
+        "price": 7945.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/zotac-gaming-geforce-gtx-1650-amp-core-4gb-gddr6-128-bit-gaming-graphics-card-super-compact-zt-t16520j-10l/",
-            "name": "ZOTAC Gaming GeForce GTX 1650 AMP CORE 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16..."
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/zotac-geforce-gtx-1650-amp-core-4gb-gddr6-gaming-graphics-card-zt-t16520j-10l",
+            "name": "ZOTAC GeForce GTX 1650 AMP Core Gaming Graphics Card - 4GB GDDR6 Budget GPU ZT-T16520J-10L"
           }
         ]
       }
@@ -48766,12 +48766,12 @@
       {
         "model": "RTX5090",
         "date": "2025-09-24",
-        "price": 134995.0,
+        "price": 135250.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/msi-nvidia-geforce-rtx-5090-32g-ventus-3x-oc-gddr7-512-bit-blackwell-architecture-graphics-card/",
-            "name": "MSI NVIDIA GeForce RTX 5090 32G Ventus 3X OC GDDR7 512-bit Blackwell Architecture Graphics Card..."
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-ventus-3x-oc-graphics-card",
+            "name": "MSI GeForce RTX 5090 32GB GDDR7 Ventus 3X OC Graphics Card"
           }
         ]
       }
