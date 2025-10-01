@@ -50796,9 +50796,9 @@
             "name": "Powercolor Reaper AMD Radeon RX 9060 XT 16GB GDDR6 Graphics Card RX9060XT 16G-A"
           },
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/video-cards/amd-video-cards/xfx-swift-amd-radeon-rx-9060-xt-oc-gaming-edition-16gb-dual-fan-graphics-card-black-white/",
-            "name": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB Dual Fan Graphics Card \u2013 Black | White"
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9060-xt-oc-gaming-edition-16gb-gddr6-pcie-5-0-graphics-card-high-performance-dual-fan-cooling-design-rx-96tsw16bq-black-rx-96tsw16wq-white/",
+            "name": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB GDDR6 PCIe 5.0 Graphics Card High Performance..."
           }
         ]
       }
@@ -68029,18 +68029,6 @@
       {
         "model": "RX6750XT",
         "date": "2025-09-30",
-        "price": 23295.0,
-        "stores": [
-          {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/xfx-radeon-rx-6750-xt-speedster-qick-319-core-gaming-graphics-card-rx-675xyjfdp/",
-            "name": "XFX Radeon RX 6750 XT SPEEDSTER QICK 319 Core Gaming Graphics Card \u2013 RX-675XYJFDP..."
-          }
-        ]
-      },
-      {
-        "model": "RX6750XT",
-        "date": "2025-10-01",
         "price": 23295.0,
         "stores": [
           {
@@ -98075,11 +98063,6 @@
         "date": "2025-10-01",
         "price": 7349.0,
         "stores": [
-          {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card-2/",
-            "name": "ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini V..."
-          },
           {
             "store": "netcodex",
             "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/",
