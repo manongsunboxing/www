@@ -29698,5 +29698,905 @@
     "availability": "In Stock",
     "link": "https://pinklehub.com/products/zotac-gaming-geforce-rtx-3050-twin-edge-oc-zt-a30500h-10m",
     "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "GEFORCE RTX 3050 GALAX EX 6GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 9495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/aed546ace840?slug=geforce-rtx-3050-galax-ex-6gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "GEFORCE RTX 3050 GIGABYTE WINDFORCE OC V2 6GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 9995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/65ddda98f116?slug=geforce-rtx-3050-gigabyte-windforce-oc-v2-6gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "GEFORCE RTX 3050 MSI VENTUS 2X E OC 6GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 10843.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/db9378542b02?slug=geforce-rtx-3050-msi-ventus-2x-e-oc-6gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX2060",
+    "description": "GEFORCE RTX 2060 SUPER ZOTAC MINI 8GB DUAL FAN",
+    "shop": "pcworth",
+    "price": 13995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/b90072a1f1c0?slug=geforce-rtx-2060-super-zotac-mini-8gb-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "GEFORCE RTX 5050 COLORFUL BATTLE AX DUO 8GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 16995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/7387a1637958?slug=geforce-rtx-5050-colorful-battle-ax-duo-8gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "GEFORCE RTX 5050 GIGABYTE WINDFORCE OC 8GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 16999.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/2715ee09fec0?slug=geforce-rtx-5050-gigabyte-windforce-oc-8gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 ZOTAC GAMING 8GB GDDR7 SOLO FAN",
+    "shop": "pcworth",
+    "price": 17995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/b1b45df37e15?slug=geforce-rtx-5060-zotac-gaming-8gb-gddr7-solo-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 COLORFUL BATTLE AX NB DUO 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 18495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/f3b81c40c7be?slug=geforce-rtx-5060-colorful-battle-ax-nb-duo-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-8GB",
+    "description": "RADEON RX 9060 XT GIGABYTE GAMING OC 8GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 18995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/18fe8ad87213?slug=radeon-rx-9060-xt-gigabyte-gaming-oc-8gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 PNY OC 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 20460.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/72981ae387e9?slug=geforce-rtx-5060-pny-oc-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 GIGABYTE EAGLE OC 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 20710.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/6acb6caf1e3b?slug=geforce-rtx-5060-gigabyte-eagle-oc-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 COLORFUL IGAME ULTRA W DUO OC 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 20845.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/52a4b8d4b88f?slug=geforce-rtx-5060-colorful-igame-ultra-w-duo-oc-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 COLORFUL NB EX 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 20895.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/a4dd0cb71056?slug=geforce-rtx-5060-colorful-nb-ex-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 GIGABYTE EAGLE OC ICE 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 21070.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/c51012de9dc7?slug=geforce-rtx-5060-gigabyte-eagle-oc-ice-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 ASUS DUAL OC 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 21106.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/a1a49bfcc91f?slug=geforce-rtx-5060-asus-dual-oc-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 GIGABYTE GAMING OC 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 21770.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/caaa22f8d267?slug=geforce-rtx-5060-gigabyte-gaming-oc-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 ASUS PRIME OC 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 22860.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/779e2858e071?slug=geforce-rtx-5060-asus-prime-oc-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 GIGABYTE AORUS ELITE 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 23140.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/038d6f191296?slug=geforce-rtx-5060-gigabyte-aorus-elite-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT XFX SWIFT GAMING EDITION OC 16GB GDDR6 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 24395.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/87de4e85b1b6?slug=radeon-rx-9060-xt-xfx-swift-gaming-edition-oc-16gb-gddr6-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT SAPPHIRE PULSE GAMING OC 16GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 24450.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/06e06dcbd4c9?slug=radeon-rx-9060-xt-sapphire-pulse-gaming-oc-16gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT POWERCOLOR HELLHOUND OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 24495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/e5853fc9fef7?slug=radeon-rx-9060-xt-powercolor-hellhound-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT SAPPHIRE PURE GAMING OC 16GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 24750.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/aa47a3ad0a10?slug=radeon-rx-9060-xt-sapphire-pure-gaming-oc-16gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "GEFORCE RTX 5060 ASUS TUF GAMING OC 8GB GDDR7 BLACK TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 24900.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/e806e17843d5?slug=geforce-rtx-5060-asus-tuf-gaming-oc-8gb-gddr7-black-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI PALIT DUAL 8GB GDDR7 BLACK DUAL FAN",
+    "shop": "pcworth",
+    "price": 24950.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/22be507b4970?slug=geforce-rtx-5060-ti-palit-dual-8gb-gddr7-black-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT ASROCK STEEL LEGEND OC 16GB GDDR6 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 25410.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/2b163638e363?slug=radeon-rx-9060-xt-asrock-steel-legend-oc-16gb-gddr6-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT ASUS PRIME OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 25495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/32183a50ea1f?slug=radeon-rx-9060-xt-asus-prime-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI MSI VENTUS 2X OC PLUS 8GB GDDR7 SILVER DUAL FAN",
+    "shop": "pcworth",
+    "price": 26390.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/77de52dd94c5?slug=geforce-rtx-5060-ti-msi-ventus-2x-oc-plus-8gb-gddr7-silver-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT GIGABYTE GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 26631.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/28c7c7808fe3?slug=radeon-rx-9060-xt-gigabyte-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI MSI VENTUS 3X OC 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 26675.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/60c3217b9b14?slug=geforce-rtx-5060-ti-msi-ventus-3x-oc-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "GEFORCE RTX 5060 TI GIGABYTE WINDFORCE MAX OC 16GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 26995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/265ef5acde51?slug=geforce-rtx-5060-ti-gigabyte-windforce-max-oc-16gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "RADEON RX 9060 XT SAPPHIRE NITRO+ GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 27324.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/ff6a767566fd?slug=radeon-rx-9060-xt-sapphire-nitro-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI MSI GAMING OC 8GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 28050.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/01de3fc89951?slug=geforce-rtx-5060-ti-msi-gaming-oc-8gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI GIGABYTE GAMING OC 8GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 28710.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/6b5b6d3444df?slug=geforce-rtx-5060-ti-gigabyte-gaming-oc-8gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "GEFORCE RTX 5060 TI GIGABYTE EAGLE OC ICE 16GB GDDR7 WHITE DUAL FAN",
+    "shop": "pcworth",
+    "price": 29995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/7a82a158283c?slug=geforce-rtx-5060-ti-gigabyte-eagle-oc-ice-16gb-gddr7-white-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "GEFORCE RTX 5060 TI ASUS PRIME OC 8GB GDDR7 BLACK TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 30050.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/453ae4c6b320?slug=geforce-rtx-5060-ti-asus-prime-oc-8gb-gddr7-black-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "GEFORCE RTX 5060 TI GIGABYTE AERO OC 16GB GDDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 31995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/31c5cbd7b46b?slug=geforce-rtx-5060-ti-gigabyte-aero-oc-16gb-gdddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 ZOTAC GAMING SOLID OC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 36595.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/330aa93c8957?slug=geforce-rtx-5070-zotac-gaming-solid-oc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "GEFORCE RTX 5060 TI GIGABYTE AORUS ELITE 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 36895.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/dad0ddcb9265?slug=geforce-rtx-5060-ti-gigabyte-aorus-elite-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI SHADOW 2X OC 12GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 38795.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/381f634474bd?slug=geforce-rtx-5070-msi-shadow-2x-oc-12gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 COLORFUL BATTLE AX NB EX 12GB-V GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 40150.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/c419cf834777?slug=geforce-rtx-5070-colorful-battle-ax-nb-ex-12gb-v-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 ASUS PRIME 12GB GDDR7 BLACK TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 40365.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/5b868178ceb9?slug=geforce-rtx-5070-asus-prime-12gb-gddr7-black-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "RADEON RX 9070 GIGABYTE GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 40440.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/cc8bbbdb8b2c?slug=radeon-rx-9070-gigabyte-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 GIGABYTE WINDFORCE SFF OC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 40480.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/326c6bf87913?slug=geforce-rtx-5070-gigabyte-windforce-sff-oc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "RADEON RX 9070 ASROCK STEEL LEGEND 16GB GDDR6 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 40860.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/a627ff10a5fe?slug=radeon-rx-9070-asrock-steel-legend-16gb-gddr6-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "RADEON RX 9070 SAPPHIRE PULSE GAMING 16GB GDDR6 DUAL FAN",
+    "shop": "pcworth",
+    "price": 40964.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/06c0aeff6f1f?slug=radeon-rx-9070-sapphire-pulse-gaming-16gb-gddr6-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI VENTUS 2X OC 12GB GDDR7 DUAL FAN",
+    "shop": "pcworth",
+    "price": 40995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/1315c444163d?slug=geforce-rtx-5070-msi-ventus-2x-oc-12gb-gddr7-dual-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI INSPIRE 3X OC COPPER PLATED 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 42195.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/310ca1bc5a6c?slug=geforce-rtx-5070-msi-inspire-3x-oc-copper-plated-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI GAMING TRIO OC 12GB GDDR7 BLACK TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 43230.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/517f99b99b98?slug=geforce-rtx-5070-msi-gaming-trio-oc-12gb-gddr7-black-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 GIGABYTE EAGLE OC ICE SFF 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 43695.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/94fefa67477e?slug=geforce-rtx-5070-gigabyte-eagle-oc-ice-sff-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 GIGABYTE EAGLE OC SFF 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 43769.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/8b437c225c15?slug=geforce-rtx-5070-gigabyte-eagle-oc-sff-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI GAMING TRIO OC 12GB GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 43945.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/e2a40791d0dd?slug=geforce-rtx-5070-msi-gaming-trio-oc-12gb-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "RADEON RX 9070XT SAPPHIRE PULSE GAMING 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 44195.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/abf51b914e1d?slug=radeon-rx-9070xt-sapphire-pulse-gaming-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "RADEON RX 9070 ASUS PRIME OC EDITION 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 44440.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/f3eaf21156f4?slug=radeon-rx-9070-asus-prime-oc-edition-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "RADEON RX 9070 SAPPHIRE NITRO+ GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 45440.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/5f24839bac0b?slug=radeon-rx-9070-sapphire-nitro-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 GIGABYTE GAMING OC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 45848.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/840e93445062?slug=geforce-rtx-5070-gigabyte-gaming-oc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 MSI VANGUARD SOC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 46145.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/34f2e876f60b?slug=geforce-rtx-5070-msi-vanguard-soc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "AMD RX 9070 XT GIGABYTE GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 47995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/c49ed5686096?slug=amd-rx-9070-xt-gigabyte-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "RADEON RX 9070XT SAPPHIRE NITRO+ GAMING OC 16GB GDDR6 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 49075.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/8b99b49fb0cf?slug=radeon-rx-9070xt-sapphire-nitro-gaming-oc-16gb-gddr6-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "RADEON RX 9070 XT MONSTER HUNTER WILDS EDITION 16GB TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 50138.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/7294a04df491?slug=radeon-rx-9070-xt-monster-hunter-wilds-edition-16gb-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 GIGABYTE AORUS MASTER 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 51601.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/487f1e1c6f45?slug=geforce-rtx-5070-gigabyte-aorus-master-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 COLORFUL IGAME VULCAN OC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 51920.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/83fa41b6b03b?slug=geforce-rtx-5070-colorful-igame-vulcan-oc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 ASUS TUF GAMING OC 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 52150.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/f879b38a6a35?slug=geforce-rtx-5070-asus-tuf-gaming-oc-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GALAX EX GAMER 1-CLICK OC WHITE 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 52495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/ea62f828dd67?slug=geforce-rtx-5070-ti-galax-ex-gamer-1-click-oc-white-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI MSI SHADOW 3X OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 54650.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/e60b6f37950e?slug=geforce-rtx-5070-ti-msi-shadow-3x-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "GEFORCE RTX 5070 ASUS ROG STRIX GAMING O12G 12GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 55300.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/1f79be622aac?slug=geforce-rtx-5070-asus-rog-strix-gaming-o12g-12gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7900XT",
+    "description": "RADEON RX 7900XTX ASROCK TAICHI OC 24GB GDDR6 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 59000.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/a0ac57140367?slug=radeon-rx-7900xtx-asrock-taichi-oc-24gb-gddr6-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GALAX HOF GAMING EDITION 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 62700.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/7288cf55c078?slug=geforce-rtx-5070-ti-galax-hof-gaming-edition-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GIGABYTE EAGLE OC SFF 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 63695.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/ec641b2a877c?slug=geforce-rtx-5070-ti-gigabyte-eagle-oc-sff-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GIGABYTE EAGLE OC ICE SFF 16GB GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 64795.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/939104d339a6?slug=geforce-rtx-5070-ti-gigabyte-eagle-oc-ice-sff-16gb-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI ASUS PRIME EDITION OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 66550.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/f7c957220b48?slug=geforce-rtx-5070-ti-asus-prime-edition-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GIGABYTE AERO OC 16GB GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 70312.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/486846f340ba?slug=geforce-rtx-5070-ti-gigabyte-aero-oc-16gb-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 MSI SHADOW 3X OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 70345.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/b3f4642d6b6d?slug=geforce-rtx-5080-msi-shadow-3x-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI ASUS TUF GAMING OC 16G GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 71720.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/f73f96cab887?slug=geforce-rtx-5070-ti-asus-tuf-gaming-oc-16g-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI GIGABYTE AORUS MASTER 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 72622.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/30177e5350ef?slug=geforce-rtx-5070-ti-gigabyte-aorus-master-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "GEFORCE RTX 5070 TI ASUS TUF GAMING OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 73490.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/5d680ebf5b74?slug=geforce-rtx-5070-ti-asus-tuf-gaming-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 COLORFUL IGAME ADVANCE OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 74495.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/47f16c909ac3?slug=geforce-rtx-5080-colorful-igame-advance-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 GIGABYTE WINDFORCE OC SFF 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 77295.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/48a293baa7d1?slug=geforce-rtx-5080-gigabyte-windforce-oc-sff-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 MSI INSPIRE 3X OC 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 79395.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/a80d91cee427?slug=geforce-rtx-5080-msi-inspire-3x-oc-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 MSI GAMING TRIO OC 16GB GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 82225.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/57c8188543dc?slug=geforce-rtx-5080-msi-gaming-trio-oc-16gb-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 GALAX HOF GAMING EDITION 16GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 88550.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/2b33c7f3336d?slug=geforce-rtx-5080-galax-hof-gaming-edition-16gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 GALAX HOF GAMING EDITION 16GB GDDR7 WHITE TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 89100.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/b3635ba5bf9d?slug=geforce-rtx-5080-galax-hof-gaming-edition-16gb-gddr7-white-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "GEFORCE RTX 5080 ASUS ROG ASTRAL 16GB GDDR7 OC TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 107450.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/0beea6858d75?slug=geforce-rtx-5080-asus-rog-astral-16gb-gddr7-oc-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 MSI GAMING TRIO OC 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 166500.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/dd626e285d08?slug=geforce-rtx-5090-msi-gaming-trio-oc-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 MSI SUPRIM LIQUID SOC 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 168595.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/569d6c9e9f62?slug=geforce-rtx-5090-msi-suprim-liquid-soc-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 MSI VANGUARD SOC 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 169100.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/fc6e3ea4c7a2?slug=geforce-rtx-5090-msi-vanguard-soc-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 MSI SUPRIM SOC 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 169995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/7a7ac97c3d33?slug=geforce-rtx-5090-msi-suprim-soc-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 GIGABYTE GAMING OC 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 174215.05,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/d6b60014a4b0?slug=geforce-rtx-5090-gigabyte-gaming-oc-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 GIGABYTE AORUS MASTER 32GB GDDR7 TRIPLE FAN",
+    "shop": "pcworth",
+    "price": 181500.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/4577f3e1233d?slug=geforce-rtx-5090-gigabyte-aorus-master-32gb-gddr7-triple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 ASUS ROG ASTRAL OC 32GB GDDR7 QUADRUPLE FAN",
+    "shop": "pcworth",
+    "price": 199995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/1a2da0145d57?slug=geforce-rtx-5090-asus-rog-astral-oc-32gb-gddr7-quadruple-fan",
+    "last_update": "2025-11-21"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "GEFORCE RTX 5090 ASUS ROG ASTRAL LC OC 32GB GDDR7 QUADRUPLE FANS",
+    "shop": "pcworth",
+    "price": 214995.0,
+    "availability": "IN STOCK",
+    "link": "https://www.pcworth.com/product/499ef895b469?slug=geforce-rtx-5090-asus-rog-astral-lc-oc-32gb-gddr7-quadruple-fans",
+    "last_update": "2025-11-21"
   }
 ]
