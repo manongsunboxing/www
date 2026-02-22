@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>GPU Summary</title>
+  <title>Cheapest Hardware</title>
   <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="style.css">
@@ -11,20 +11,29 @@
 <body>
   <header>
     <img src="../banner.jpg" alt="Manong Unboxing Banner">
-    <h1>Cheapest GPUs</h1>
+    <h1>Cheapest Hardware</h1>
     <p class="disclaimer">
-      Data from PH online sellers – GPU only for now. Prices and availability may change anytime.
+      Data from PH online sellers. Prices and availability may change anytime.
     </p>
     <nav>
-      <a href="index.html">📊 Table</a>
-      <a href="graphs.html">📈 Graphs</a>
-      <a href="summary.html">🧾 Summary</a>
-      <a href="../index.html">← Back to manong.dev</a>
+      <a href="index.html">Table</a>
+      <a href="graphs.html">Graphs</a>
+      <a href="summary.html">Summary</a>
+      <a href="../index.html">Back to manong.dev</a>
     </nav>
   </header>
+
+  <div class="category-filter">
+    <button class="cat-btn active" data-cat="">All</button>
+    <button class="cat-btn" data-cat="GPU">GPU</button>
+    <button class="cat-btn" data-cat="RAM">RAM</button>
+    <button class="cat-btn" data-cat="CPU">CPU</button>
+  </div>
+
   <table id="summaryTable" class="display" style="width:100%">
     <thead>
       <tr>
+        <th>Category</th>
         <th>Model</th>
         <th>Cheapest Price</th>
         <th>Where to Buy</th>

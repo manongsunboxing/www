@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>GPU Price Trends</title>
+  <title>Price Trends</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
   <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
@@ -12,18 +12,27 @@
 <body>
   <header>
     <img src="../banner.jpg" alt="Manong Unboxing Banner">
-    <h1>GPU Price Trends</h1>
+    <h1>Price Trends</h1>
     <p class="disclaimer">
-      Data from PH online sellers – GPU only for now. Prices and availability may change anytime.
+      Data from PH online sellers. Prices and availability may change anytime.
     </p>
     <nav>
-      <a href="index.html">📊 Table</a>
-      <a href="graphs.html">📈 Graphs</a>
-      <a href="summary.html">🧾 Summary</a>
-      <a href="../index.html">← Back to manong.dev</a>
+      <a href="index.html">Table</a>
+      <a href="graphs.html">Graphs</a>
+      <a href="summary.html">Summary</a>
+      <a href="../index.html">Back to manong.dev</a>
     </nav>
   </header>
-  <label for="gpuSelect">Select GPU:</label>
+
+  <div class="category-filter">
+    <button class="cat-btn active" data-cat="">All</button>
+    <button class="cat-btn" data-cat="GPU">GPU</button>
+    <button class="cat-btn" data-cat="RAM">RAM</button>
+    <button class="cat-btn" data-cat="CPU">CPU</button>
+  </div>
+
+  <br>
+  <label for="gpuSelect">Select Model:</label>
   <select id="gpuSelect"></select>
   <div>
     <canvas id="trendChart" height="400"></canvas>

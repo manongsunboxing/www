@@ -3,13 +3,38 @@ fetch('trends.json')
   .then(raw => {
     const data = raw.trends || raw;
     const select = document.getElementById('gpuSelect');
-    const models = Object.keys(data).sort();
-    models.forEach(m => {
-      const opt = document.createElement('option');
-      opt.value = m;
-      opt.textContent = m;
-      select.appendChild(opt);
-    });
+    const allModels = Object.keys(data).filter(m => inferCategory(m) !== null).sort();
+    let currentCat = '';
+
+    function inferCategory(model) {
+      // Use category from trend entries if available
+      const entries = data[model];
+      if (entries && entries.length && entries[0].category) {
+        return entries[0].category;
+      }
+      // Fallback heuristic based on model prefix
+      if (/^DDR/i.test(model)) return 'RAM';
+      if (/^(I[3579]-|R[3579]-|Ultra[579]-|ATHLON-|PENTIUM-)/i.test(model)) return 'CPU';
+      if (/^(RTX[A-Z]?\d|GTX\d|GT\d|RX\d|ARC[A-Z]?\d|T\d)/i.test(model)) return 'GPU';
+      return null;
+    }
+
+    function populateSelect(cat) {
+      const filtered = cat ? allModels.filter(m => inferCategory(m) === cat) : allModels;
+      $(select).empty();
+      filtered.forEach(m => {
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = m;
+        select.appendChild(opt);
+      });
+      $(select).trigger('change.select2');
+      if (filtered.length) {
+        select.value = filtered[0];
+        render(filtered[0]);
+      }
+    }
+
     $(select).select2({ width: '200px' });
     const ctx = document.getElementById('trendChart').getContext('2d');
     let chart;
@@ -40,8 +65,14 @@ fetch('trends.json')
     }
 
     $(select).on('change', () => render(select.value));
-    if (models.length) {
-      select.value = models[0];
-      render(models[0]);
-    }
+
+    // Category toggle
+    $('.cat-btn').on('click', function() {
+      $('.cat-btn').removeClass('active');
+      $(this).addClass('active');
+      currentCat = $(this).data('cat');
+      populateSelect(currentCat);
+    });
+
+    populateSelect('');
   });
