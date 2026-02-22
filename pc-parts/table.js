@@ -92,6 +92,21 @@ fetch('data.json')
       $('.cat-btn').removeClass('active');
       $(this).addClass('active');
       const cat = $(this).data('cat');
+
+      // Clear all column filters and global search before switching category
+      table.search('');
+      $('#globalSearch').val('');
+      table.columns().every(function() {
+        this.search('');
+      });
+      // Reset select dropdowns
+      selectCols.forEach(function(header) {
+        const sel = selects[header];
+        if (sel) { sel.val('').trigger('change.select2'); }
+      });
+      // Reset text inputs
+      $('thead input[type="text"]').val('');
+
       if (cat) {
         table.column(0).search('^' + $.fn.dataTable.util.escapeRegex(cat) + '$', true, false).draw();
       } else {
