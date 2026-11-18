@@ -2663526,6 +2663526,51 @@
           }
         ]
       }
+    ],
+    "RX9700": [
+      {
+        "model": "RX9700",
+        "category": "GPU",
+        "date": "2026-11-18",
+        "price": 150000.0,
+        "stores": [
+          {
+            "store": "pcx",
+            "link": "https://pcx.com.ph/products/powercolor-radeon-ai-pro-r9700-32gb-gddr6-ai-pro-r9700-32g-b-non-rgb-256-bit-graphics-card",
+            "name": "POWERCOLOR Radeon\u2122 AI PRO R9700 32GB GDDR6 (AI PRO R9700 32G-B) Non-RGB 256-bit Graphics Card"
+          }
+        ]
+      }
+    ],
+    "A620-ATX": [
+      {
+        "model": "A620-ATX",
+        "category": "MOBO",
+        "date": "2026-11-18",
+        "price": 4965.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/shop/motherboard/amd-motherboards/asrock-a620am-hvs-ddr5-motherboard/",
+            "name": "Asrock A620AM-HVS DDR5 Motherboard"
+          }
+        ]
+      }
+    ],
+    "27-200HZ": [
+      {
+        "model": "27-200HZ",
+        "category": "MONITOR",
+        "date": "2026-11-18",
+        "price": 8999.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/shop/monitors/xiaomi-om4ff-eu-g27i-200hz-gaming-monitor-2026/",
+            "name": "Xiaomi OM4FF-EU G27i 200Hz Gaming Monitor 2026"
+          }
+        ]
+      }
     ]
   },
   "meta": {
