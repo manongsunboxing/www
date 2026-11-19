@@ -2991,6 +2991,16 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "Galax GeForce RTX 5060 Ti 8GB 1-Click OC V2 Graphics Card 56ISN8MDEHER",
+    "shop": "bermorzone",
+    "price": 41000.0,
+    "availability": "Out of Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5060-ti-8gb-1-click-oc-v2-graphics-card-56isn8mdeher/",
+    "last_update": "2026-11-19"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5060",
     "description": "Gigabyte AORUS GeForce RTX 5060 ARI 8G 8GB GDDR7 Graphics Card GV-N5060AORUS-ARI-8GD",
     "shop": "bermorzone",
@@ -3424,7 +3434,7 @@
     "model": "RTX5060TI-16GB",
     "description": "Colorful GeForce RTX 5060 Ti Gaming DUO 16GB-V Graphics Card",
     "shop": "bermorzone",
-    "price": 50000.0,
+    "price": 50695.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/colorful-geforce-rtx-5060-ti-gaming-duo-16gb-v-graphics-card/",
     "last_update": "2026-11-19"
@@ -5894,7 +5904,7 @@
     "model": "RTX5070TI",
     "description": "Galax GeForce RTX 5070 Ti EX Gamer 1-Click OC 16GB GDDR7 256-bit DLSS4 Graphics Card \u2013 Black | White - Black",
     "shop": "bermorzone",
-    "price": 61950.0,
+    "price": 99000.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-ti-ex-gamer-1-click-oc-16gb-gddr7-256-bit-dlss4-graphics-card/",
     "last_update": "2026-11-19"
@@ -5904,7 +5914,7 @@
     "model": "RTX5070TI",
     "description": "Galax GeForce RTX 5070 Ti EX Gamer 1-Click OC 16GB GDDR7 256-bit DLSS4 Graphics Card \u2013 Black | White - White",
     "shop": "bermorzone",
-    "price": 65000.0,
+    "price": 103995.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-ti-ex-gamer-1-click-oc-16gb-gddr7-256-bit-dlss4-graphics-card/",
     "last_update": "2026-11-19"
@@ -6421,6 +6431,16 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5070",
+    "description": "Inno3D GeForce RTX 5070 Twin X2 OC 12GB GDDR7 Graphics Card \u2013 White | Black - White",
+    "shop": "bermorzone",
+    "price": 38950.0,
+    "availability": "Out of Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/inno3d-geforce-rtx-5070-twin-x2-oc-white-black-graphics-card/",
+    "last_update": "2026-11-19"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5080",
     "description": "Inno3D GeForce RTX 5080 16GB iCHILL X3 GDDR7 256 Bit Graphics Card",
     "shop": "bermorzone",
@@ -6467,6 +6487,16 @@
     "price": 94300.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-oc-non-oc-graphics-card/",
+    "last_update": "2026-11-19"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "ASUS TUF Gaming GeForce RTX 5090 32GB GDDR7 OC | NON-OC Graphics Card - OC",
+    "shop": "bermorzone",
+    "price": 179900.0,
+    "availability": "Out of Stock",
+    "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7-oc-non-oc-graphics-card/",
     "last_update": "2026-11-19"
   },
   {
@@ -6704,7 +6734,7 @@
     "model": "RTX5070",
     "description": "Galax GeForce RTX 5070 1-Click OC 12GB GDDR7 192 Bit Graphics Card Black | White - Black",
     "shop": "bermorzone",
-    "price": 38950.0,
+    "price": 62995.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-1-click-oc-12gb-gddr7-192-bit-graphics-card-black-white/",
     "last_update": "2026-11-19"
@@ -6714,7 +6744,7 @@
     "model": "RTX5070",
     "description": "Galax GeForce RTX 5070 1-Click OC 12GB GDDR7 192 Bit Graphics Card Black | White - White",
     "shop": "bermorzone",
-    "price": 39950.0,
+    "price": 64995.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-1-click-oc-12gb-gddr7-192-bit-graphics-card-black-white/",
     "last_update": "2026-11-19"
@@ -6724,7 +6754,7 @@
     "model": "RTX5070",
     "description": "Galax GeForce RTX 5070 EX Gamer 1-Click OC 12GB GDDR7 192 Bit Graphics Card Black | White - Black",
     "shop": "bermorzone",
-    "price": 46995.0,
+    "price": 65995.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-ex-gamer-1-click-oc-12gb-gddr7-192-bit-graphics-card-black-white/",
     "last_update": "2026-11-19"
@@ -6734,7 +6764,7 @@
     "model": "RTX5070",
     "description": "Galax GeForce RTX 5070 EX Gamer 1-Click OC 12GB GDDR7 192 Bit Graphics Card Black | White - White",
     "shop": "bermorzone",
-    "price": 46995.0,
+    "price": 65995.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/galax-geforce-rtx-5070-ex-gamer-1-click-oc-12gb-gddr7-192-bit-graphics-card-black-white/",
     "last_update": "2026-11-19"
@@ -11045,7 +11075,7 @@
     "description": "Palit GeForce RTX 3050 StormX 6GB GDDR6 128Bit Graphics Card NE63050018JE-1072F",
     "shop": "bermorzone",
     "price": 16000.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-3050-stormx-8gb-gddr6-128bit-graphics-card/",
     "last_update": "2026-11-19"
   },
@@ -12874,7 +12904,7 @@
     "model": "RTX3060-12GB",
     "description": "Palit GeForce RTX 3060 Dual 12GB GDDR6 Video Card",
     "shop": "bermorzone",
-    "price": 15995.0,
+    "price": 30000.0,
     "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/video-cards/nvidia-video-cards/palit-geforce-rtx-3060-dual-oc-12gb-video-card/",
     "last_update": "2026-11-19"
@@ -14995,7 +15025,7 @@
     "description": "TEAMGROUP T-Force Delta RGB DDR4 8GB 3600MHz CL18 Desktop Memory \u2013 Black | White - White",
     "shop": "bermorzone",
     "price": 4995.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://bermorzone.com.ph/shop/memory-modules/desktop-memory/teamgroup-t-force-delta-rgb-ddr4-8gb-3600mhz-cl18-desktop-memory-black-white/",
     "last_update": "2026-11-19"
   },
@@ -36824,8 +36854,8 @@
     "model": "RX9060XT-16GB",
     "description": "PowerColor Hellhound AMD Radeon RX 9060 XT 16GB GDDR6 \u2013 RDNA 4 \u2013 PCIe 5.0 \u2013 Triple Fan \u2013 RX9060XT 16G-L/OC",
     "shop": "netcodex",
-    "price": 31950.0,
-    "availability": "In Stock",
+    "price": 32950.0,
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/powercolor-hellhound-amd-radeon-rx-9060-xt-16gb-gddr6-rdna-4-pcie-5-0-triple-fan-rx9060xt-16g-l-oc/",
     "last_update": "2026-11-19"
   },
@@ -38544,7 +38574,7 @@
     "model": "RX9060XT-16GB",
     "description": "SAPPHIRE PULSE AMD Radeon RX 9060 XT 16GB GDDR6 Graphics Card with RDNA 4 Architecture and Dual-X Cooling \u2013 SPR-11350-03-20G",
     "shop": "netcodex",
-    "price": 32750.0,
+    "price": 33995.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-9060-xt-16gb-gddr6-graphics-card-with-rdna-4-architecture-and-dual-x-cooling-spr-11350-03-20g/",
     "last_update": "2026-11-19"
@@ -43794,7 +43824,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.SKILL Trident Z5 Neo RGB 64GB (2x32GB) DDR5-6000 CL36 Desktop Memory Kit | F5-6000J3636F32GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 69095.0,
+    "price": 72595.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-64gb-2x32gb-ddr5-6000-cl36-desktop-memory-kit-f5-6000j3636f32gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -43995,7 +44025,7 @@
     "description": "Klevv Bolt V 64GB (2x32GB) DDR5-6000 CL30 Charcoal Grey Low Profile Desktop Memory KD5BGUA80-60A300H",
     "shop": "netcodex",
     "price": 63595.0,
-    "availability": "Out of Stock",
+    "availability": "In Stock",
     "link": "https://netcodex.ph/product/klevv-bolt-v-64gb-2x32gb-ddr5-6000-cl30-charcoal-grey-low-profile-desktop-memory-kd5bgua80-60a300h/",
     "last_update": "2026-11-19"
   },
@@ -44085,7 +44115,7 @@
     "description": "KLEVV Fit V Black 16GB 2x8GB DDR5 6000MHz CL30 UDIMM Desktop Gaming Memory AMD EXPO Intel XMP \u2013 KD58GU880-60A300L",
     "shop": "netcodex",
     "price": 16250.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/klevv-fit-v-black-16gb-2x8gb-ddr5-6000mhz-cl30-udimm-desktop-gaming-memory-amd-expo-intel-xmp-kd58gu880-60a300l/",
     "last_update": "2026-11-19"
   },
@@ -44344,7 +44374,7 @@
     "model": "DDR5 64GB 6000MHz CL32",
     "description": "G.SKILL Trident Z5 RGB 64GB 6000MT/s DDR5 CL32 Dual Channel Memory Kit Black \u2013 F5-6000J3238G32GX2-TZ5RK",
     "shop": "netcodex",
-    "price": 80595.0,
+    "price": 88745.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-64gb-6000mt-s-ddr5-cl32-dual-channel-memory-kit-black-f5-6000j3238g32gx2-tz5rk/",
     "last_update": "2026-11-19"
@@ -44455,7 +44485,7 @@
     "description": "Klevv Cras V RGB Black 32GB 2x16GB DDR5 6000MHz CL30 Gaming Desktop Memory \u2013 KD5AGUA80-60A300G",
     "shop": "netcodex",
     "price": 33200.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/klevv-cras-v-rgb-black-32gb-2x16gb-ddr5-6000mhz-cl30-gaming-desktop-memory-kd5agua80-60a300g/",
     "last_update": "2026-11-19"
   },
@@ -45385,7 +45415,7 @@
     "description": "G.Skill Ripjaws V DDR4 3200MHz CL16 32GB (2x16GB) Black Memory Kit \u2013 F4-3200C16D-32GVK",
     "shop": "netcodex",
     "price": 16795.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-v-ddr4-3200mhz-cl16-32gb-2x16gb-black-memory-kit-f4-3200c16d-32gvk/",
     "last_update": "2026-11-19"
   },
@@ -45434,7 +45464,7 @@
     "model": "DDR5 32GB 6000MHz CL38",
     "description": "Teamgroup T-CREATE EXPERT DDR5 6000MHz CL38 32GB (2x16GB) White Memory Kit \u2013 CTCWD532G6000HC38ADC01",
     "shop": "netcodex",
-    "price": 33495.0,
+    "price": 36895.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-create-expert-ddr5-6000mhz-cl38-32gb-2x16gb-white-memory-kit-ctcwd532g6000hc38adc01/",
     "last_update": "2026-11-19"
@@ -45454,7 +45484,7 @@
     "model": "DDR5 64GB 6000MHz CL38",
     "description": "Teamgroup T-FORCE DELTA RGB DDR5 6000MHz CL38 64GB (2x32GB) Memory Kit \u2013 FF3D564G6000HC38JDC01",
     "shop": "netcodex",
-    "price": 65745.0,
+    "price": 77295.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-delta-rgb-ddr5-6000mhz-cl38-64gb-2x32gb-memory-kit-ff3d564g6000hc38jdc01/",
     "last_update": "2026-11-19"
@@ -45465,7 +45495,7 @@
     "description": "Teamgroup DELTA RGB DDR5 6000MHz CL38 64GB (2x32GB) Memory Kit \u2013 FF4D564G6000HC38JDC01",
     "shop": "netcodex",
     "price": 65745.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/teamgroup-delta-rgb-ddr5-6000mhz-cl38-64gb-2x32gb-memory-kit-ff4d564g6000hc38jdc01/",
     "last_update": "2026-11-19"
   },
@@ -45554,7 +45584,7 @@
     "model": "DDR5 48GB 8000MHz CL40",
     "description": "G.Skill Trident Z5 Neo RGB 48GB DDR5 8000MHz CL40 Dual Channel Memory Kit \u2013 F5-8000J4048G24GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 62545.0,
+    "price": 68495.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-48gb-ddr5-8000mhz-cl40-dual-channel-memory-kit-f5-8000j4048g24gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -46164,7 +46194,7 @@
     "model": "DDR5 32GB 6000MHz CL28",
     "description": "G.SKILL Trident Z5 Neo RGB Black,  DDR5-6000 CL28-36-36-96 32GB (2x16GB) Dual-Channel Memory Kit \u2013 F5-6000J2836F16GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 63395.0,
+    "price": 66445.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-ddr5-6000-cl28-36-36-96-32gb-2x16gb-dual-channel-memory-kit-f5-6000j2836f16gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -46665,7 +46695,7 @@
     "description": "TEAMGROUP T-Create Expert DDR5 32GB (2x16GB) 6000MHz CL30 Non-RGB White \u2013 CTCWD532G6000HC30DC01",
     "shop": "netcodex",
     "price": 37645.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-create-expert-ddr5-32gb-2x16gb-6000mhz-cl30-non-rgb-white-ctcwd532g6000hc30dc01/",
     "last_update": "2026-11-19"
   },
@@ -46754,7 +46784,7 @@
     "model": "DDR5 64GB 6400MHz CL30",
     "description": "TEAMGROUP T-FORCE DELTA RGB Black 64GB (2x32GB) DDR5-6400 CL30 Desktop Memory FF3D564G6400HC30CDC01",
     "shop": "netcodex",
-    "price": 74395.0,
+    "price": 82595.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-delta-rgb-ddr5-64gb-2x32gb-6400mhz-cl34-rgb-black-ff3d564g6400hc30cdc01/",
     "last_update": "2026-11-19"
@@ -46764,7 +46794,7 @@
     "model": "DDR5 64GB 6400MHz CL30",
     "description": "TEAMGROUP T-Force Delta RGB DDR5 64GB (2x32GB) 6400MHz CL30 RGB White \u2013 FF4D564G6400HC30CDC01",
     "shop": "netcodex",
-    "price": 74395.0,
+    "price": 82595.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-delta-rgb-ddr5-64gb-2x32gb-6400mhz-cl30-rgb-white-ff4d564g6400hc30cdc01/",
     "last_update": "2026-11-19"
@@ -46774,7 +46804,7 @@
     "model": "DDR5 32GB 6400MHz CL32",
     "description": "TEAMGROUP T-Force Delta RGB DDR5 32GB (2x16GB) 6400MHz CL32 RGB Eco Silver \u2013 FF2D532G6400HC32ADC01",
     "shop": "netcodex",
-    "price": 39745.0,
+    "price": 42695.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-delta-rgb-ddr5-32gb-2x16gb-6400mhz-cl32-rgb-eco-silver-ff2d532g6400hc32adc01/",
     "last_update": "2026-11-19"
@@ -46894,7 +46924,7 @@
     "model": "DDR5 32GB 6000MHz CL30",
     "description": "TEAMGROUP T-Force XTREEM ARGB DDR5 32GB (2x16GB) 6000MHz CL30 RGB White \u2013 FFAD532G6000HC30DC01",
     "shop": "netcodex",
-    "price": 40795.0,
+    "price": 43795.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-xtreem-argb-ddr5-32gb-2x16gb-6000mhz-cl30-rgb-white-ffad532g6000hc30dc01/",
     "last_update": "2026-11-19"
@@ -46904,7 +46934,7 @@
     "model": "DDR5 32GB 6000MHz CL30",
     "description": "TEAMGROUP T-Force XTREEM ARGB DDR5 32GB (2x16GB) 6000MHz CL30 RGB Black \u2013 FF9D532G6000HC30DC01",
     "shop": "netcodex",
-    "price": 40795.0,
+    "price": 43795.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/teamgroup-t-force-xtreem-argb-ddr5-32gb-2x16gb-6000mhz-cl30-rgb-black-ff9d532g6000hc30dc01/",
     "last_update": "2026-11-19"
@@ -46914,7 +46944,7 @@
     "model": "DDR5 64GB 6000MHz",
     "description": "G.SKILL Trident Z5 Royal Neo DDR5-6000 64GB (2x32GB) Dual Channel Memory Kit with AMD EXPO and RGB Lighting \u2013 F5-6000J2836G32GX2-TR5NS",
     "shop": "netcodex",
-    "price": 125845.0,
+    "price": 136545.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-royal-neo-ddr5-6000-64gb-2x32gb-dual-channel-memory-kit-with-amd-expo-and-rgb-lighting-f5-6000j2836g876gx2-tr5ns/",
     "last_update": "2026-11-19"
@@ -46924,7 +46954,7 @@
     "model": "DDR5 32GB 8000MHz CL38",
     "description": "G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 8000MT/s CL38-48-48-128 1.45V White Desktop Computer Memory UDIMM \u2013 Matte White (F5-8000J3848H16GX2-TZ5NRW)",
     "shop": "netcodex",
-    "price": 61045.0,
+    "price": 66545.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-series-amd-expo-ddr5-ram-32gb-2x16gb-8000mt-s-cl38-48-48-128-1-45v-white-desktop-computer-memory-udimm-matte-black-f5-8000j3848h16gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -46934,7 +46964,7 @@
     "model": "DDR5 32GB 8000MHz CL38",
     "description": "G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 8000MT/s CL38-48-48-128 1.45V Desktop Computer Memory UDIMM \u2013 Matte Black (F5-8000J3848H16GX2-TZ5NR)",
     "shop": "netcodex",
-    "price": 61045.0,
+    "price": 66545.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-series-amd-expo-ddr5-ram-32gb-2x16gb-8000mt-s-cl38-48-48-128-1-45v-desktop-computer-memory-udimm-matte-black-f5-8000j3848h16gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -46954,8 +46984,8 @@
     "model": "DDR5 96GB 6000MHz",
     "description": "G.SKILL Trident Z5 Neo RGB DDR5-6000 96GB (2x48GB) Dual Channel Memory Kit with AMD EXPO \u2013 F5-6000J2836F48GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 137695.0,
-    "availability": "Out of Stock",
+    "price": 147295.0,
+    "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-ddr5-6000-96gb-2x48gb-dual-channel-memory-kit-with-amd-expo-f5-6000j2836f48gx2-tz5nr/",
     "last_update": "2026-11-19"
   },
@@ -46974,7 +47004,7 @@
     "model": "DDR5 64GB 6000MHz",
     "description": "G.SKILL Trident Z5 Neo RGB DDR5-6000 64GB (2x32GB) Dual Channel Memory Kit with AMD EXPO \u2013 F5-6000J2836G32GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 126995.0,
+    "price": 139645.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-ddr5-6000-64gb-2x32gb-dual-channel-memory-kit-with-amd-expo-f5-6000j2836g32gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -47555,7 +47585,7 @@
     "description": "G.SKILL Ripjaws V DDR4-3600 CL18-22-22-42 1.35V 64GB (2x32GB) Black DDR4 Memory Intel XMP \u2013 F4-3600C18D-64GVK",
     "shop": "netcodex",
     "price": 43145.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-v-ddr4-3600-cl18-22-22-42-1-35v-64gb-2x32gb-black-ddr4-memory-intel-xmp-f4-3600c18d-64gvk/",
     "last_update": "2026-11-19"
   },
@@ -47584,7 +47614,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.SKILL Trident Z5 Neo RGB DDR5-6000 CL36-36-36-96 1.35V 64GB (2x32GB) White DDR5 Memory AMD EXPO \u2013 F5-6000J3636F32GX2-TZ5NRW",
     "shop": "netcodex",
-    "price": 69295.0,
+    "price": 72795.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-ddr5-6000-cl36-36-36-96-1-35v-64gb-2x32gb-white-ddr5-memory-amd-expo-f5-6000j3636f32gx2-tz5nrw/",
     "last_update": "2026-11-19"
@@ -47654,7 +47684,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.SKILL Ripjaws M5 Neo RGB DDR5-6000 CL36-36-36-96 1.35V 64GB (2x32GB) Black DDR5 Memory AMD EXPO \u2013 F5-6000J3636F32GX2-RM5NRK",
     "shop": "netcodex",
-    "price": 68695.0,
+    "price": 72145.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-m5-neo-rgb-ddr5-6000-cl36-36-36-96-1-35v-64gb-2x32gb-black-ddr5-memory-amd-expo-f5-6000j3636f32gx2-rm5nrk/",
     "last_update": "2026-11-19"
@@ -47664,7 +47694,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.SKILL Ripjaws M5 Neo RGB DDR5-6000 CL36-36-36-96 1.35V 64GB (2x32GB) White DDR5 Memory AMD EXPO \u2013 F5-6000J3636F32GX2-RM5NRW",
     "shop": "netcodex",
-    "price": 68695.0,
+    "price": 72145.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-m5-neo-rgb-ddr5-6000-cl36-36-36-96-1-35v-64gb-2x32gb-white-ddr5-memory-amd-expo-f5-6000j3636f32gx2-rm5nrw/",
     "last_update": "2026-11-19"
@@ -47754,7 +47784,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.Skill Flare X5 DDR5 RAM 6000 MT/s CL36 1.35V AMD Expo 64GB (2x32GB) White Desktop Memory \u2013 F5-6000J3636F32GX2-FX5W",
     "shop": "netcodex",
-    "price": 68045.0,
+    "price": 71745.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-flare-x5-ddr5-ram-6000-mt-s-cl36-1-35v-amd-expo-64gb-2x32gb-white-desktop-memory-f5-6000j3636f32gx2-fx5w/",
     "last_update": "2026-11-19"
@@ -47764,7 +47794,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.Skill Flare X5 DDR5 RAM 6000 MT/s CL36 1.35V AMD Expo 64GB (2x32GB) Desktop Memory \u2013 F5-6000J3636F32GX2-FX5",
     "shop": "netcodex",
-    "price": 67845.0,
+    "price": 71395.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-flare-x5-ddr5-ram-6000-mt-s-cl36-1-35v-amd-expo-64gb-2x32gb-desktop-memory-f5-6000j3636f32gx2-fx5/",
     "last_update": "2026-11-19"
@@ -47984,7 +48014,7 @@
     "model": "DDR5 64GB 6400MHz CL32",
     "description": "G.Skill Trident Royal DDR5 RAM 6400 MT/s CL32 1.40V Intel XMP 64GB (2x32GB) Desktop Memory \u2013 F5-6400J3239G32GX2-TR5S",
     "shop": "netcodex",
-    "price": 126595.0,
+    "price": 132645.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-royal-ddr5-ram-6400-mt-s-cl32-1-40v-intel-xmp-64gb-2x32gb-desktop-memory-f5-6400j3239g32gx2-tr5s/",
     "last_update": "2026-11-19"
@@ -48014,7 +48044,7 @@
     "model": "DDR5 64GB 6000MHz CL30",
     "description": "G.Skill Trident Z5 Neo RGB DDR5 RAM 6000 MT/s CL30 1.40V AMD Expo 64GB (2x32GB) Black Desktop Memory \u2013 F5-6000J3040G32GX2-TZ5NR",
     "shop": "netcodex",
-    "price": 80795.0,
+    "price": 88895.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-ddr5-ram-6000-mt-s-cl30-1-40v-amd-expo-64gb-2x32gb-black-desktop-memory-f5-6000j3040g32gx2-tz5nr/",
     "last_update": "2026-11-19"
@@ -48094,7 +48124,7 @@
     "model": "DDR5 64GB 6000MHz CL36",
     "description": "G.Skill Trident Z5 RGB DDR5 RAM 6000 MT/s CL36 1.35V Intel XMP 64GB (2x32GB) White Desktop Memory \u2013 F5-6000J3636F32GX2-TZ5RW",
     "shop": "netcodex",
-    "price": 68995.0,
+    "price": 72495.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-ddr5-ram-6000-mt-s-cl36-1-35v-intel-xmp-64gb-2x32gb-white-desktop-memory-f5-6000j3636f32gx2-tz5rw/",
     "last_update": "2026-11-19"
@@ -48115,7 +48145,7 @@
     "description": "G.Skill Ripjaws M5 RGB DDR5 RAM 6000 MT/s CL36 1.35V Intel XMP 32GB (2x16GB) White Desktop Memory \u2013 F5-6000J3636F16GX2-RM5NRW",
     "shop": "netcodex",
     "price": 35195.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-m5-rgb-ddr5-ram-6000-mt-s-cl36-1-35v-intel-xmp-32gb-2x16gb-white-desktop-memory-f5-6000j3636f16gx2-rm5nrw/",
     "last_update": "2026-11-19"
   },
@@ -48124,7 +48154,7 @@
     "model": "DDR5 32GB 6000MHz CL36",
     "description": "G.Skill Ripjaws M5 RGB DDR5 RAM 6000 MT/s CL36 1.35V Intel XMP 32GB (2x16GB) Black Desktop Memory \u2013 F5-6000J3636F16GX2-RM5NRK",
     "shop": "netcodex",
-    "price": 35195.0,
+    "price": 36995.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-m5-rgb-ddr5-ram-6000-mt-s-cl36-1-35v-intel-xmp-32gb-2x16gb-black-desktop-memory-f5-6000j3636f16gx2-rm5nrk/",
     "last_update": "2026-11-19"
@@ -48164,7 +48194,7 @@
     "model": "DDR5 64GB 6000MHz CL30",
     "description": "G.Skill Flare X5 DDR5 RAM 6000 MT/s CL30 1.35V AMD Expo 64GB (2x32GB) Desktop Memory \u2013 F5-6000J3040G32GX2-FX5",
     "shop": "netcodex",
-    "price": 83545.0,
+    "price": 87795.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-flare-x5-ddr5-ram-6000-mt-s-cl30-1-35v-amd-expo-64gb-2x32gb-desktop-memory-f5-6000j3040g32gx2-fx5/",
     "last_update": "2026-11-19"
@@ -48185,7 +48215,7 @@
     "description": "G.Skill Flare X5 DDR5 RAM 6000 MT/s CL36 1.35V AMD Expo 32GB (2x16GB) Desktop Memory \u2013 F5-6000J3636F16GX2-FX5",
     "shop": "netcodex",
     "price": 34645.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-flare-x5-ddr5-ram-6000-mt-s-cl36-1-35v-amd-expo-32gb-2x16gb-desktop-memory-f5-6000j3636f16gx2-fx5/",
     "last_update": "2026-11-19"
   },
@@ -48204,7 +48234,7 @@
     "model": "DDR5 64GB 6000MHz CL32",
     "description": "G.Skill Ripjaws S5 DDR5 RAM 6000 MT/s CL32 1.35V Intel XMP 64GB (2x32GB) Black Desktop Memory \u2013 F5-6000J3238G32GX2-RS5K",
     "shop": "netcodex",
-    "price": 79745.0,
+    "price": 87795.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-ripjaws-s5-ddr5-ram-6000-mt-s-cl32-1-35v-intel-xmp-64gb-2x32gb-black-desktop-memory-f5-6000j3238g32gx2-rs5k/",
     "last_update": "2026-11-19"
@@ -48404,7 +48434,7 @@
     "model": "DDR5 32GB 6400MHz CL32",
     "description": "G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 6400MT/s CL32-39-39-102 1.40V Desktop Computer Memory UDIMM \u2013 Matte White (F5-6400J3239G16GX2-TZ5NRW)",
     "shop": "netcodex",
-    "price": 58595.0,
+    "price": 63945.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-series-amd-expo-ddr5-ram-32gb-2x16gb-6400mt-s-cl32-39-39-102-1-40v-desktop-computer-memory-udimm-matte-white-f5-6400j3239g16gx2-tz5nrw/",
     "last_update": "2026-11-19"
@@ -48434,7 +48464,7 @@
     "model": "DDR5 32GB 6400MHz CL32",
     "description": "G.Skill Trident Z5 RGB DDR5 RAM 6400 MT/s CL32 1.40V Intel XMP 32GB (2x16GB) White Desktop Memory \u2013 F5-6400J3239G16GX2-TZ5RW",
     "shop": "netcodex",
-    "price": 41345.0,
+    "price": 43295.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-sdram-ddr5-6400-pc5-51200-cl32-39-39-102-1-40v-dual-channel-desktop-memory-model-f5-6400j3239g16gx2-tz5rk-matte-white/",
     "last_update": "2026-11-19"
@@ -48444,7 +48474,7 @@
     "model": "DDR5 64GB 6400MHz",
     "description": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) 6400mhz Desktop Memory White Model F5-6400J3239G32GX2-TZ5RW (extremely fast RAM kit)",
     "shop": "netcodex",
-    "price": 122745.0,
+    "price": 131595.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6400-pc5-51200-6400mhz-desktop-memory-white-model-f5-6400j3239g32gx2-tz5rw-extremely-fast-ram-kit/",
     "last_update": "2026-11-19"
@@ -48614,7 +48644,7 @@
     "model": "DDR5 64GB 6400MHz",
     "description": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) 6400mhz Desktop Memory Model F5-6400J3239G32GX2-TZ5RK (extremely fast RAM kit)",
     "shop": "netcodex",
-    "price": 125595.0,
+    "price": 131595.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6400-pc5-51200-6400mhz-desktop-memory-model-f5-6400j3239g32gx2-tz5rk-extremely-fast-ram-kit/",
     "last_update": "2026-11-19"
@@ -48755,7 +48785,7 @@
     "description": "G.SKILL Trident Z Neo Series 32GB (2 x 16GB) 288-Pin RGB DDR4 SDRAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GTZN",
     "shop": "netcodex",
     "price": 17795.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z-neo-series-32gb-2-x-16gb-288-pin-rgb-ddr4-sdram-ddr4-3200-pc4-25600-desktop-memory-model-f4-3200c16d-32gtzn/",
     "last_update": "2026-11-19"
   },
@@ -49004,7 +49034,7 @@
     "model": "DDR5 32GB 6400MHz CL32",
     "description": "G.Skill Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin SDRAM DDR5 6400 (PC5-51200) CL32-39-39-102 1.40V Dual Channel Desktop Memory Model F5-6400J3239G16GX2-TZ5RK (Matte Black)",
     "shop": "netcodex",
-    "price": 41345.0,
+    "price": 43295.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-sdram-ddr5-6400-pc5-51200-cl32-39-39-102-1-40v-dual-channel-desktop-memory-model-f5-6400j3239g16gx2-tz5rk-matte-black/",
     "last_update": "2026-11-19"
@@ -49025,7 +49055,7 @@
     "description": "G.Skill Trident Z NEO Series 64GB (2 x 32GB) 288-Pin SDRAM PC4-28800 DDR4 3600 CL18-22-22-42 **Local PH Release and Warranty** 1.35V Dual Channel Desktop Memory Model F4-3600C18D-64GTZN",
     "shop": "netcodex",
     "price": 44195.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z-neo-series-64gb-2-x-32gb-288-pin-sdram-pc4-28800-ddr4-3600-cl18-22-22-42-local-ph-release-and-warranty-1-35v-dual-channel-desktop-memory-model-f4-3600c18d-64gtzn/",
     "last_update": "2026-11-19"
   },
@@ -49094,7 +49124,7 @@
     "model": "DDR5 32GB 6000MHz CL36",
     "description": "G.Skill Trident Z5 NEO RGB Series CL36 32GB (2 x 16GB) 288-Pin SDRAM DDR5 6000 CL36-36-36-96 1.35V Dual Channel Desktop Memory F5-6000J3636F16GX2-TZ5NR (Matte Black)",
     "shop": "netcodex",
-    "price": 35595.0,
+    "price": 37395.0,
     "availability": "In Stock",
     "link": "https://netcodex.ph/product/g-skill-trident-z5-neo-rgb-series-cl36-32gb-2-x-16gb-288-pin-sdram-ddr5-6000-cl36-36-36-96-1-35v-dual-channel-desktop-memory-f5-6000j3636f16gx2-tz5nr-matte-black/",
     "last_update": "2026-11-19"
@@ -50977,7 +51007,7 @@
     "price": 16995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -50987,7 +51017,7 @@
     "price": 36995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -50997,7 +51027,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51007,7 +51037,7 @@
     "price": 17995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51017,7 +51047,7 @@
     "price": 148995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51027,7 +51057,7 @@
     "price": 159850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51037,7 +51067,7 @@
     "price": 598395.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51047,7 +51077,7 @@
     "price": 502995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51057,7 +51087,7 @@
     "price": 97995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51067,7 +51097,7 @@
     "price": 105850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51077,7 +51107,7 @@
     "price": 101995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51087,7 +51117,7 @@
     "price": 103150.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51097,7 +51127,7 @@
     "price": 63500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51107,7 +51137,7 @@
     "price": 64995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51117,7 +51147,7 @@
     "price": 63150.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51127,7 +51157,7 @@
     "price": 64295.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51137,7 +51167,7 @@
     "price": 32995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51147,7 +51177,7 @@
     "price": 34995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51157,7 +51187,7 @@
     "price": 42650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51167,7 +51197,7 @@
     "price": 48995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51177,7 +51207,7 @@
     "price": 52995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51187,7 +51217,7 @@
     "price": 49995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51197,7 +51227,7 @@
     "price": 30995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51207,7 +51237,7 @@
     "price": 33850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51217,7 +51247,7 @@
     "price": 36750.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51227,7 +51257,7 @@
     "price": 31795.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51237,7 +51267,7 @@
     "price": 34500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51247,7 +51277,7 @@
     "price": 25995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=1",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51257,7 +51287,7 @@
     "price": 17995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51267,7 +51297,7 @@
     "price": 132995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51277,7 +51307,7 @@
     "price": 133995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51287,7 +51317,7 @@
     "price": 147350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51297,7 +51327,7 @@
     "price": 473750.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51307,7 +51337,7 @@
     "price": 473750.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51317,7 +51347,7 @@
     "price": 516995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51327,7 +51357,7 @@
     "price": 489650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51337,7 +51367,7 @@
     "price": 98850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51347,7 +51377,7 @@
     "price": 99750.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51357,7 +51387,7 @@
     "price": 99995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51367,7 +51397,7 @@
     "price": 59500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51377,7 +51407,7 @@
     "price": 59850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51387,7 +51417,7 @@
     "price": 58995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51397,7 +51427,7 @@
     "price": 31650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51407,7 +51437,7 @@
     "price": 31650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51417,7 +51447,7 @@
     "price": 31995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51427,7 +51457,7 @@
     "price": 32995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51437,7 +51467,7 @@
     "price": 31250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51447,7 +51477,7 @@
     "price": 31250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51457,7 +51487,7 @@
     "price": 33350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51467,7 +51497,7 @@
     "price": 49995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51477,7 +51507,7 @@
     "price": 50500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51487,7 +51517,7 @@
     "price": 28500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51497,7 +51527,7 @@
     "price": 28995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51507,7 +51537,7 @@
     "price": 28995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51517,7 +51547,7 @@
     "price": 29500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51527,7 +51557,7 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=2",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51537,7 +51567,7 @@
     "price": 153350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51547,7 +51577,7 @@
     "price": 99995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51557,7 +51587,7 @@
     "price": 104250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51567,7 +51597,7 @@
     "price": 63295.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51577,7 +51607,7 @@
     "price": 65295.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51587,7 +51617,7 @@
     "price": 31995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51597,7 +51627,7 @@
     "price": 30995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51607,7 +51637,7 @@
     "price": 45995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51617,7 +51647,7 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51627,7 +51657,7 @@
     "price": 15850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51637,7 +51667,7 @@
     "price": 59995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51647,7 +51677,7 @@
     "price": 59995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51657,7 +51687,7 @@
     "price": 61995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51667,7 +51697,7 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51677,7 +51707,7 @@
     "price": 45995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51687,7 +51717,7 @@
     "price": 46995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51697,7 +51727,7 @@
     "price": 47995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51707,7 +51737,7 @@
     "price": 29500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51717,7 +51747,7 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51727,7 +51757,7 @@
     "price": 31995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51737,7 +51767,7 @@
     "price": 25295.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51747,7 +51777,7 @@
     "price": 20800.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51757,7 +51787,7 @@
     "price": 21500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51767,7 +51797,7 @@
     "price": 149250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51777,7 +51807,7 @@
     "price": 137500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51787,7 +51817,7 @@
     "price": 569850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51797,7 +51827,7 @@
     "price": 71250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51807,7 +51837,7 @@
     "price": 20500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=3",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51817,7 +51847,7 @@
     "price": 26350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51827,7 +51857,7 @@
     "price": 17695.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51837,7 +51867,7 @@
     "price": 132500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51847,7 +51877,7 @@
     "price": 557350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51857,7 +51887,7 @@
     "price": 99995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51867,7 +51897,7 @@
     "price": 98150.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51877,7 +51907,7 @@
     "price": 59650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51887,7 +51917,7 @@
     "price": 60500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51897,7 +51927,7 @@
     "price": 57995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51907,7 +51937,7 @@
     "price": 58850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51917,7 +51947,7 @@
     "price": 30995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51927,7 +51957,7 @@
     "price": 35350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51937,7 +51967,7 @@
     "price": 30695.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51947,7 +51977,7 @@
     "price": 30995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51957,7 +51987,7 @@
     "price": 31850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51967,7 +51997,7 @@
     "price": 32695.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51977,7 +52007,7 @@
     "price": 31795.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51987,7 +52017,7 @@
     "price": 20350.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -51997,7 +52027,7 @@
     "price": 15995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52007,7 +52037,7 @@
     "price": 27995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52017,7 +52047,7 @@
     "price": 28995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52027,7 +52057,7 @@
     "price": 29995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52037,7 +52067,7 @@
     "price": 46995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52047,7 +52077,7 @@
     "price": 46500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52057,7 +52087,7 @@
     "price": 47995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52067,7 +52097,7 @@
     "price": 28500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52077,7 +52107,7 @@
     "price": 27995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52087,7 +52117,7 @@
     "price": 37995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=4",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52097,7 +52127,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52107,7 +52137,7 @@
     "price": 63995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52117,7 +52147,7 @@
     "price": 62500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52127,7 +52157,7 @@
     "price": 63995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52137,7 +52167,7 @@
     "price": 67395.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52147,7 +52177,7 @@
     "price": 38995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52157,7 +52187,7 @@
     "price": 36995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52167,7 +52197,7 @@
     "price": 39995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52177,7 +52207,7 @@
     "price": 42995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52187,7 +52217,7 @@
     "price": 41500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52197,7 +52227,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52207,7 +52237,7 @@
     "price": 53650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52217,7 +52247,7 @@
     "price": 47650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52227,7 +52257,7 @@
     "price": 73995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52237,7 +52267,7 @@
     "price": 31695.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52247,7 +52277,7 @@
     "price": 34250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52257,7 +52287,7 @@
     "price": 32650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52267,7 +52297,7 @@
     "price": 37250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52277,7 +52307,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52287,7 +52317,7 @@
     "price": 20995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52297,7 +52327,7 @@
     "price": 57500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52307,7 +52337,7 @@
     "price": 64500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52317,7 +52347,7 @@
     "price": 27500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52327,7 +52357,7 @@
     "price": 26795.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52337,7 +52367,7 @@
     "price": 34250.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52347,7 +52377,7 @@
     "price": 20850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52357,7 +52387,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52367,7 +52397,7 @@
     "price": 59850.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=5",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52377,7 +52407,7 @@
     "price": 37650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52387,7 +52417,7 @@
     "price": 37650.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52397,7 +52427,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52407,7 +52437,7 @@
     "price": 63995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52417,7 +52447,7 @@
     "price": 64395.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52427,7 +52457,7 @@
     "price": 62500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52437,7 +52467,7 @@
     "price": 35500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52447,7 +52477,7 @@
     "price": 35995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52457,7 +52487,7 @@
     "price": 36500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52467,7 +52497,7 @@
     "price": 36995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52477,7 +52507,7 @@
     "price": 35995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52487,7 +52517,7 @@
     "price": 36750.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52497,7 +52527,7 @@
     "price": 19995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52507,7 +52537,7 @@
     "price": 19695.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52517,7 +52547,7 @@
     "price": 51150.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52527,7 +52557,7 @@
     "price": 49500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52537,7 +52567,7 @@
     "price": 31995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52547,7 +52577,7 @@
     "price": 30500.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -52557,7 +52587,7 @@
     "price": 18995.0,
     "availability": "In Stock",
     "link": "https://www.pchubonline.com/products?category=2&page=6",
-    "last_update": "2026-11-19"
+    "last_update": "2026-11-18"
   },
   {
     "category": "GPU",
@@ -68041,16 +68071,6 @@
   },
   {
     "category": "RAM",
-    "model": "DDR4 32GB 3200MHz",
-    "description": "G.Skill DDR4 RAM 32GB (2x16GB) 3200Mhz Trident Z Neo for AMD Ryzen (F4-3200C16D-32GTZN)",
-    "shop": "itworld",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/f4-3200c16d-32gtzn-g-skill-ddr4-ram-32gb-2x16gb-3200mhz-trident-z-neo-for-amd-ryzen-f4-3200c16d-32gtzn-9837?page=6&category=161",
-    "last_update": "2026-11-19"
-  },
-  {
-    "category": "RAM",
     "model": "DDR4 16GB 4266MHz",
     "description": "G.Skill DDR4 RAM 16GB (8GBx2) 4266Mhz Trident Z RGB Desktop Memory (F4-4266C19D-16GTZRC)",
     "shop": "itworld",
@@ -68126,7 +68146,7 @@
     "shop": "itworld",
     "price": 35999.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/cp2k16g60c48u5-crucial-pro-32gb-16gbx2-ddr5-6000-dual-kit-udimm-desktop-memory-black-cp2k16g60c48u5-9239?page=7&category=161",
+    "link": "https://www.itworldph.com/shop/cp2k16g60c48u5-crucial-pro-32gb-16gbx2-ddr5-6000-dual-kit-udimm-desktop-memory-black-cp2k16g60c48u5-9239?page=6&category=161",
     "last_update": "2026-11-19"
   },
   {
@@ -94931,16 +94951,6 @@
   },
   {
     "category": "MOBO",
-    "model": "B760-MATX",
-    "description": "MSI Motherboard Pro B760M-A Wifi DDR4 mATX LGA1700",
-    "shop": "itworld",
-    "price": 8799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/pro-b760m-a-wifi-ddr4-msi-motherboard-pro-b760m-a-wifi-ddr4-matx-lga1700-11112?page=3&category=164",
-    "last_update": "2026-11-19"
-  },
-  {
-    "category": "MOBO",
     "model": "B840-ATX",
     "description": "MSI Motherboard B840 Gaming Plus Wifi ATX AM5 DDR5",
     "shop": "itworld",
@@ -95036,7 +95046,7 @@
     "shop": "itworld",
     "price": 13999.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/b650m-project-zero-msi-b650m-project-zero-matx-amd-ryzen-ddr5-motherboard-11000?page=4&category=164",
+    "link": "https://www.itworldph.com/shop/b650m-project-zero-msi-b650m-project-zero-matx-amd-ryzen-ddr5-motherboard-11000?page=3&category=164",
     "last_update": "2026-11-19"
   },
   {
@@ -95136,7 +95146,7 @@
     "shop": "itworld",
     "price": 5199.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ga-h610m-h-v3-ddr4-gigabyte-motherboard-h610m-h-v3-matx-ddr4-ga-h610m-h-v3-ddr4-10101?page=5&category=164",
+    "link": "https://www.itworldph.com/shop/ga-h610m-h-v3-ddr4-gigabyte-motherboard-h610m-h-v3-matx-ddr4-ga-h610m-h-v3-ddr4-10101?page=4&category=164",
     "last_update": "2026-11-19"
   },
   {
@@ -95236,7 +95246,7 @@
     "shop": "itworld",
     "price": 11499.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ga-b650-eagle-ax-gigabyte-b650-eagle-ax-atx-am5-ddr5-amd-b650-chipset-motherboard-ga-b650-eagle-ax-10024?page=6&category=164",
+    "link": "https://www.itworldph.com/shop/ga-b650-eagle-ax-gigabyte-b650-eagle-ax-atx-am5-ddr5-amd-b650-chipset-motherboard-ga-b650-eagle-ax-10024?page=5&category=164",
     "last_update": "2026-11-19"
   },
   {
@@ -95274,7 +95284,7 @@
     "model": "B550-MATX",
     "description": "Gigabyte B550M Aorus Elite micro-ATX AM4 DDR4 AMD B550 Chipset Motherboard GA-B550M-AORUS-ELITE",
     "shop": "itworld",
-    "price": 6889.0,
+    "price": 6999.0,
     "availability": "In Stock",
     "link": "https://www.itworldph.com/shop/ga-b550m-aorus-elite-gigabyte-b550m-aorus-elite-micro-atx-am4-ddr4-amd-b550-chipset-motherboard-ga-b550m-aorus-elite-9916?page=6&category=164",
     "last_update": "2026-11-19"
@@ -95336,7 +95346,7 @@
     "shop": "itworld",
     "price": 8689.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asus-mb-prime-b650m-a-wifi-ii-asus-motherboard-prime-b650m-a-wifi-ii-matx-am5-ddr5-8593?page=7&category=164",
+    "link": "https://www.itworldph.com/shop/asus-mb-prime-b650m-a-wifi-ii-asus-motherboard-prime-b650m-a-wifi-ii-matx-am5-ddr5-8593?page=6&category=164",
     "last_update": "2026-11-19"
   },
   {
@@ -95436,7 +95446,7 @@
     "shop": "itworld",
     "price": 13995.0,
     "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/b850-steel-legend-wifi-asrock-b850-steel-legend-wifi-atx-am5-ddr5-amd-b850-chipset-motherboard-8187?page=8&category=164",
+    "link": "https://www.itworldph.com/shop/b850-steel-legend-wifi-asrock-b850-steel-legend-wifi-atx-am5-ddr5-amd-b850-chipset-motherboard-8187?page=7&category=164",
     "last_update": "2026-11-19"
   },
   {
@@ -101465,7 +101475,7 @@
     "description": "ASRock B450M Steel Legend AM4 AMD Promontory B450 5000 Series Ready SATA 6Gb/s Micro ATX AMD Motherboard 2x M.2",
     "shop": "netcodex",
     "price": 5995.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://netcodex.ph/product/asrock-b450m-steel-legend-am4-amd-promontory-b450-5000-series-ready-sata-6gb-s-micro-atx-amd-motherboard-2x-m-2/",
     "last_update": "2026-11-19"
   },
