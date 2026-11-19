@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Laptop Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* Laptops are a vanilla page: the component pages use DataTables, but the
+       facet filtering here is simpler hand-rolled and avoids loading jQuery. */
+    .wrap{max-width:1500px;margin:0 auto;padding:0 1rem 3rem}
+    .controls{display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center;align-items:flex-end;margin:.5rem 0 1rem}
+    .ctl{display:flex;flex-direction:column;align-items:flex-start;gap:.25rem}
+    .ctl label{font-size:.7rem;color:#888;letter-spacing:.06em;text-transform:uppercase}
+    .controls select,.controls input{background:#1a1a1a;color:#eee;border:1px solid #333;border-radius:6px;padding:.45rem .6rem;font-size:.85rem}
+    #q{min-width:340px}
+    .controls input[type=number]{width:95px}
+    button.reset{background:none;border:1px solid #333;color:#888;border-radius:6px;padding:.45rem .8rem;cursor:pointer;font-size:.8rem}
+    button.reset:hover{border-color:#00ffcc;color:#00ffcc}
+    .count{color:#888;font-size:.85rem;margin:.4rem 0 .8rem}
+    .count b{color:#00ffcc}
+    .tablewrap{overflow-x:auto;border:1px solid #333;border-radius:8px}
+    table.laptops{border-collapse:collapse;width:100%;font-size:.85rem;min-width:900px}
+    table.laptops th{background:#1a1a1a;color:#888;text-transform:uppercase;font-size:.7rem;letter-spacing:.06em;padding:.6rem;text-align:left;cursor:pointer;white-space:nowrap}
+    table.laptops th:hover{color:#00ffcc}
+    table.laptops td{padding:.6rem;border-top:1px solid #222;text-align:left;vertical-align:top}
+    table.laptops tr:hover td{background:#171717}
+    .name{max-width:620px}
+    .name a{color:#eee;text-decoration:none}
+    .name a:hover{color:#00ffcc}
+    .chips{margin-top:.3rem;display:flex;flex-wrap:wrap;gap:.25rem}
+    .chip{background:#202020;border:1px solid #2e2e2e;border-radius:4px;padding:.1rem .4rem;font-size:.68rem;color:#bbb;white-space:nowrap}
+    .chip.gpu{border-color:#2d5c52;color:#7fe6d0}
+    .chip.unk{border-color:#3a3a3a;color:#666;font-style:italic}
+    .chip.gpu.unk{border-color:#3a3a3a;color:#666}
+    .price{color:#00ffcc;font-weight:700;white-space:nowrap}
+    .oos{color:#ff6b6b}
+    .shop{color:#9aa;white-space:nowrap}
+    .more{margin:1rem 0}
+    .more button{background:none;border:1px solid #00ffcc;color:#00ffcc;border-radius:6px;padding:.5rem 1.4rem;cursor:pointer;font-size:.85rem}
+    .more button:hover{background:#00ffcc;color:#000}
+  </style>
+</head>
+<body>
+  <header>
+    <img src="../banner.jpg" alt="Manong Unboxing Banner">
+    <h1>Laptop Tracker</h1>
+    <p class="disclaimer">
+      Data from PH online sellers. Prices and availability may change anytime.
+    </p>
+    <nav>
+      <a href="index.html">&#128202; Table</a>
+      <a href="graphs.html">&#128200; Graphs</a>
+      <a href="summary.html">&#129534; Summary</a>
+      <a href="laptops.html">&#128187; Laptops</a>
+      <a href="../index.html">&#8592; Back to manong.dev</a>
+    </nav>
+  </header>
+
+  <div class="wrap">
+    <div class="controls">
+      <div class="ctl"><label for="q">Search</label><input type="text" id="q" placeholder="e.g. rtx 4060 16gb, legion, macbook air"/></div>
+      <div class="ctl"><label for="f_brand">Brand</label><select id="f_brand"></select></div>
+      <div class="ctl"><label for="f_cpu">CPU</label><select id="f_cpu"></select></div>
+      <div class="ctl"><label for="f_gpu">GPU</label><select id="f_gpu"></select></div>
+      <div class="ctl"><label for="f_ram">RAM</label><select id="f_ram"></select></div>
+      <div class="ctl"><label for="f_storage">Storage</label><select id="f_storage"></select></div>
+      <div class="ctl"><label for="f_screen">Screen</label><select id="f_screen"></select></div>
+      <div class="ctl"><label for="f_store">Shop</label><select id="f_store"></select></div>
+      <div class="ctl"><label for="f_stock">Availability</label><select id="f_stock"></select></div>
+      <div class="ctl"><label for="pmin">Min &#8369;</label><input type="number" id="pmin" placeholder="0"/></div>
+      <div class="ctl"><label for="pmax">Max &#8369;</label><input type="number" id="pmax" placeholder="any"/></div>
+      <div class="ctl"><label>&nbsp;</label><button class="reset" id="reset">Reset</button></div>
+    </div>
+
+    <div class="count" id="count">Loading&hellip;</div>
+
+    <div class="tablewrap">
+      <table class="laptops">
+        <thead><tr>
+          <th data-sort="title">Laptop</th>
+          <th data-sort="store">Shop</th>
+          <th data-sort="price">Price</th>
+          <th data-sort="stock">Stock</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="more" id="more"></div>
+  </div>
+
+  <script src="laptops.js"></script>
+</body>
+</html>
