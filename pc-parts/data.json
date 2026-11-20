@@ -51011,6 +51011,1596 @@
   },
   {
     "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "6G Inno3d RTX 3050 Twin X2 V2, pn: N30502-06D6-1880VA60",
+    "shop": "pchub",
+    "price": 16995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Palit RTX 5060Ti Infinity 3, pn: NE7506T019P1-GB2062S",
+    "shop": "pchub",
+    "price": 36995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "8G Asus RTX 3050 Dual OC, pn: DUAL-RTX3050-O8G-V2",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "6G Asus RTX 3050 Dual OC, pn: DUAL-RTX3050-O6G",
+    "shop": "pchub",
+    "price": 17995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Asus RTX 5080 Prime OC, 3x Fan, pn: PRIME-RTX5080-O16G",
+    "shop": "pchub",
+    "price": 148995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Asus RTX 5080 ProArt OC, 3x Fan, pn: PROART-RTX5080-O16G",
+    "shop": "pchub",
+    "price": 159850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Asus RTX 5090 ROG Astral 20th Edition, 4x Fan, pn: ROG-ASTRAL-RTX-5090-P32G-EDIT....",
+    "shop": "pchub",
+    "price": 598395.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Asus RTX 5090 ROG Astral OC, 3x Fan, pn: ROG-ASTRAL-RTX5090-O32G-GAMING",
+    "shop": "pchub",
+    "price": 502995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus RTX 5070Ti Prime OC, 3x Fan, pn: PRIME-RTX5070TI-O16G",
+    "shop": "pchub",
+    "price": 97995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus RTX 5070Ti TUF Gaming OC black, 3x Fan, pn: TUF-RTX5070TI-O16G-GAMING",
+    "shop": "pchub",
+    "price": 105850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus RTX 5070Ti TUF Gaming OC white, 3x Fan, pn: TUF-RTX5070TI-O16G-WHITE-GAMING",
+    "shop": "pchub",
+    "price": 101995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus RTX 5070Ti ProArt OC, 3x Fan, pn: PROART-RTX5070TI-O16G",
+    "shop": "pchub",
+    "price": 103150.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Asus RTX 5070 Prime OC black, 3x Fan, pn: PRIME-RTX5070-O12G",
+    "shop": "pchub",
+    "price": 63500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Asus RTX 5070 TUF Gaming OC, 3x Fan, pn: TUF-RTX5070-O12G-GAMING",
+    "shop": "pchub",
+    "price": 64995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Asus RTX 5070 Dual OC, pn: DUAL-RTX5070-O12G",
+    "shop": "pchub",
+    "price": 63150.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Asus RTX 5070 T1 Gaming OC, 3x Fan, pn: T1-RTX5070-O12G-GAMING",
+    "shop": "pchub",
+    "price": 64295.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Asus RTX 5060Ti Dual OC, pn: DUAL-RTX5060TI-O8G",
+    "shop": "pchub",
+    "price": 32995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Asus RTX 5060Ti Prime OC, 3x Fan, pn: PRIME-RTX5060TI-O8G",
+    "shop": "pchub",
+    "price": 34995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Asus RTX 5060Ti T1 Gaming OC, 3x Fan, pn: T1-RTX5060TI-O8G-GAMING",
+    "shop": "pchub",
+    "price": 42650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Asus RTX 5060Ti Dual OC, pn: DUAL-RTX5060TI-O16G",
+    "shop": "pchub",
+    "price": 48995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Asus RTX 5060Ti TUF Gaming OC, pn: TUF-RTX5060TI-O16G-GAMING",
+    "shop": "pchub",
+    "price": 52995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Asus RTX 5060Ti Dual OC white, pn: DUAL-RTX5060TI-O16G-WHITE",
+    "shop": "pchub",
+    "price": 49995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Asus RTX 5060 Dual OC, pn: DUAL-RTX5060-O8G",
+    "shop": "pchub",
+    "price": 30995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Asus RTX 5060 Prime OC, 3x Fan, pn: PRIME-RTX5060-O8G",
+    "shop": "pchub",
+    "price": 33850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Asus RTX 5060 TUF Gaming OC, 3x Fan, pn: TUF-RTX5060-O8G-GAMING",
+    "shop": "pchub",
+    "price": 36750.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Asus RTX 5060 Dual OC EVO, pn: DUAL-RTX5060-O8G-EVO",
+    "shop": "pchub",
+    "price": 31795.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Asus RTX 5060 Dual OC Advance, pn: DUAL-RTX5060-O8G-A",
+    "shop": "pchub",
+    "price": 34500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Asus RTX 5050 Prime OC, 3x Fan, pn: PRIME-RTX5050-O8G",
+    "shop": "pchub",
+    "price": 25995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=1",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "6G MSI RTX 3050 Ventus 2X E OC",
+    "shop": "pchub",
+    "price": 17995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI RTX 5080 Shadow 3X OC",
+    "shop": "pchub",
+    "price": 132995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI RTX 5080 Ventus 3X OC black",
+    "shop": "pchub",
+    "price": 133995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "MSI RTX 5080 Inspire 3X OC",
+    "shop": "pchub",
+    "price": 147350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI RTX 5090 Ventus 3X OC",
+    "shop": "pchub",
+    "price": 473750.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI RTX 5090 Gaming Trio OC",
+    "shop": "pchub",
+    "price": 473750.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI RTX 5090 Lightning Z, 3x Fan",
+    "shop": "pchub",
+    "price": 516995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "MSI RTX 5090 Suprim Liquid SOC, 3x Fan",
+    "shop": "pchub",
+    "price": 489650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI RTX 5070Ti Frieren Edition OC, 3x Fan",
+    "shop": "pchub",
+    "price": 98850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI RTX 5070Ti Shadow 3X OC",
+    "shop": "pchub",
+    "price": 99750.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "MSI RTX 5070Ti Ventus 3X OC",
+    "shop": "pchub",
+    "price": 99995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "MSI RTX 5070 Shadow 2X OC",
+    "shop": "pchub",
+    "price": 59500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "MSI RTX 5070 Ventus 2X OC black",
+    "shop": "pchub",
+    "price": 59850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "MSI RTX 5070 Ventus 2X OC white",
+    "shop": "pchub",
+    "price": 58995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Ventus 2X Plus",
+    "shop": "pchub",
+    "price": 31650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Ventus 2X OC Plus black",
+    "shop": "pchub",
+    "price": 31650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Ventus 2X OC Plus white",
+    "shop": "pchub",
+    "price": 31995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Ventus 3X OC black",
+    "shop": "pchub",
+    "price": 32995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Shadow 2X Plus",
+    "shop": "pchub",
+    "price": 31250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Shadow 2X OC Plus",
+    "shop": "pchub",
+    "price": 31250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G MSI RTX 5060Ti Inspire 2X OC",
+    "shop": "pchub",
+    "price": 33350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G MSI RTX 5060Ti Shadow 2X OC Plus",
+    "shop": "pchub",
+    "price": 49995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G MSI RTX 5060Ti Ventus 2X OC Plus",
+    "shop": "pchub",
+    "price": 50500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G MSI RTX 5060 Shadow 2X OC",
+    "shop": "pchub",
+    "price": 28500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G MSI RTX 5060 Ventus 2X OC black",
+    "shop": "pchub",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G MSI RTX 5060 Ventus 2X OC white",
+    "shop": "pchub",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G MSI RTX 5060 Inspire 2X OC",
+    "shop": "pchub",
+    "price": 29500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G MSI RTX 5060 Gaming OC, 2x Fan",
+    "shop": "pchub",
+    "price": 29995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=2",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Galax RTX 5080 HOF Gaming black, 3x Fan, pn: 58NZN6MDCXHO",
+    "shop": "pchub",
+    "price": 153350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Galax RTX 5070Ti EX Gamer 1-Click OC black, 3x Fan, pn: 57IZN6MDBUEX",
+    "shop": "pchub",
+    "price": 99995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Galax RTX 5070Ti EX Gamer 1-Click OC white, 3x Fan, pn: 57IZN6MDBVGW",
+    "shop": "pchub",
+    "price": 104250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Galax RTX 5070 1-Click OC black,, 2x Fan, pn: 57NON7MDBROC",
+    "shop": "pchub",
+    "price": 63295.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Galax RTX 5070 EX Gamer 1-Click OC black, 3x Fan, pn: 57NON7MDBUEX",
+    "shop": "pchub",
+    "price": 65295.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Galax RTX 5060Ti 1-Click OC black, 2x Fan, pn: 56ISN8MDCPCT",
+    "shop": "pchub",
+    "price": 31995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Galax RTX 5060Ti 1-Click OC Classic, 2x Fan, pn: 56ISN8MDABCC",
+    "shop": "pchub",
+    "price": 30995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Galax RTX 5060Ti 1-Click OC black, 2x Fan, pn: 56IZN8MDCPOC",
+    "shop": "pchub",
+    "price": 45995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Galax RTX 5060 1-Click OC V2 black, 2x Fan, pn: 56NSN8MDDXBO",
+    "shop": "pchub",
+    "price": 29995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "8G Zotac RTX 3050 Eco Solo, pn: ZT-A30500R-10L",
+    "shop": "pchub",
+    "price": 15850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Zotac RTX 5070 Twin Edge OC black, pn: ZT-B50700H-10P",
+    "shop": "pchub",
+    "price": 59995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Zotac RTX 5070 Twin Edge OC white, pn: ZT-B50700Q-10P",
+    "shop": "pchub",
+    "price": 59995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Zotac RTX 5070 AMP white, 3x Fan, pn: ZT-B50700FQ-10P",
+    "shop": "pchub",
+    "price": 61995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Zotac RTX 5060Ti Twin Edge OC, pn: ZT-B50610H-10M",
+    "shop": "pchub",
+    "price": 29995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Zotac RTX 5060Ti Twin Edge, pn: ZT-B50620E-10M",
+    "shop": "pchub",
+    "price": 45995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Zotac RTX 5060Ti Twin Edge OC white, pn: ZT-B50620Q-10M",
+    "shop": "pchub",
+    "price": 46995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Zotac RTX 5060Ti AMP, 2x Fan, pn: ZT-B50620F-10M",
+    "shop": "pchub",
+    "price": 47995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Zotac RTX 5060 Twin Edge OC black, pn: ZT-B50600H-10M",
+    "shop": "pchub",
+    "price": 29500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Zotac RTX 5060 Twin Edge OC white, pn: ZT-B50600Q-10M",
+    "shop": "pchub",
+    "price": 29995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Zotac RTX 5060 Solo, pn: ZT-B50600G-10L",
+    "shop": "pchub",
+    "price": 31995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Zotac RTX 5050 Twin Edge OC black, pn: ZT-B50500H-10M",
+    "shop": "pchub",
+    "price": 25295.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Zotac RTX 5050 Solo, pn: ZT-B50500G-10L",
+    "shop": "pchub",
+    "price": 20800.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Zotac RTX 5050 Low Profile, 3x Fan, pn: ZT-B50500L-10L",
+    "shop": "pchub",
+    "price": 21500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Aorus RTX 5080 Infinity Wood, 2x Fan, pn: GV-N5080AORUSIF-WD-16GD",
+    "shop": "pchub",
+    "price": 149250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Aorus RTX 5080 Master, pn: GV-N5080AORUS-M-16GD",
+    "shop": "pchub",
+    "price": 137500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Aorus RTX 5090 Master ICE, 3x Fan, pn: GV-N5090AORUSM ICE-32GD",
+    "shop": "pchub",
+    "price": 569850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Aorus RTX 5070 Infinity, 2x Fan, pn: GV-N5070AORUS-IF-12GD",
+    "shop": "pchub",
+    "price": 71250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-8GB",
+    "description": "8G Gigabyte RTX 3050 Windforce OC V2, 2x Fan, pn: GV-N3050WF2OCV2-8GD",
+    "shop": "pchub",
+    "price": 20500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=3",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "12G Gigabyte RTX 3060 Windforce OC, pn: GV-N3060WF2OC-12GD-2.0",
+    "shop": "pchub",
+    "price": 26350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "6G Gigabyte RTX 3050 Windforce OC V2, 2x Fan, pn: GV-N3050WF2OCV2-6GD",
+    "shop": "pchub",
+    "price": 17695.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5080",
+    "description": "Gigabyte RTX 5080 Aero OC SFF, pn: GV-N5080AERO-OC-16GD",
+    "shop": "pchub",
+    "price": 132500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5090",
+    "description": "Gigabyte RTX 5090 Gaming OC, pn: GV-N5090GAMING-OC-32GD",
+    "shop": "pchub",
+    "price": 557350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Gigabyte RTX 5070Ti Gaming OC, 3x Fan, pn: GV-N507TGAMING-OC-16GD",
+    "shop": "pchub",
+    "price": 99995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Gigabyte RTX 5070Ti Eagle OC BLK SFF, 3x Fan, pn: GV-N507TEAGLE-OC-16GD",
+    "shop": "pchub",
+    "price": 98150.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Gigabyte RTX 5070 Gaming OC, 3x Fan, pn: GV-N5070GAMING-OC-12GD",
+    "shop": "pchub",
+    "price": 59650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Gigabyte RTX 5070 Aero OC, 3x Fan, pn: GV-N5070AERO-OC-12GD",
+    "shop": "pchub",
+    "price": 60500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Gigabyte RTX 5070 Eagle OC BLK SFF, 3x Fan, pn: GV-N5070EAGLE-OC-12GD",
+    "shop": "pchub",
+    "price": 57995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070",
+    "description": "Gigabyte RTX 5070 Eagle OC ICE SFF, 3x Fan, pn: GV-N5070EAGLEOC-ICE-12GD",
+    "shop": "pchub",
+    "price": 58850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Gigabyte RTX 5060Ti Windforce OC, 2x Fan, pn: GV-N506TWF2OC-8GD",
+    "shop": "pchub",
+    "price": 30995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Gigabyte RTX 5060Ti Eagle OC BLK, 2x Fan, pn: GV-N506TEAGLE-OC-8GD",
+    "shop": "pchub",
+    "price": 35350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Gigabyte RTX 5060 Gaming OC, 3x Fan, pn: GV-N5060GAMING OC-8GD",
+    "shop": "pchub",
+    "price": 30695.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Gigabyte RTX 5060 Aero OC, pn: GV-N5060AERO-OC-8GD",
+    "shop": "pchub",
+    "price": 30995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Gigabyte RTX 5060 Eagle OC BLK, 2x Fan, pn: GV-N5060EAGLE OC-8GD",
+    "shop": "pchub",
+    "price": 31850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Gigabyte RTX 5060 Eagle Max OC, 3x Fan, pn: GV-N5060EAGLEMAX OC-8GD",
+    "shop": "pchub",
+    "price": 32695.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Gigabyte RTX 5060 Windforce Max OC V2, 2x Fan, pn: GV-N5060WF2MAX-OCV2-8GD",
+    "shop": "pchub",
+    "price": 31795.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Gigabyte RTX 5050 Windforce OC, 2x Fan, pn: GV-N5050WF2OC-8GD",
+    "shop": "pchub",
+    "price": 20350.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX3050-6GB",
+    "description": "6G Colorful RTX 3050 V4-V, 2x Fan",
+    "shop": "pchub",
+    "price": 15995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "8G Colorful iGame RTX 4060Ti Ultra W Duo OC 8GB-V, WHT",
+    "shop": "pchub",
+    "price": 27995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX4060TI-8GB",
+    "description": "8G Colorful iGame RTX 4060Ti Ultra W OC 8GB-V, 3x Fan, WHT",
+    "shop": "pchub",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-8GB",
+    "description": "8G Colorful iGame RTX 5060Ti Battle AX NB Duo 8GB-V",
+    "shop": "pchub",
+    "price": 29995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Colorful iGame RTX 5060Ti Battle AX NB Duo 16GB-V",
+    "shop": "pchub",
+    "price": 46995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Colorful iGame RTX 5060Ti Gaming Duo 16GB-V",
+    "shop": "pchub",
+    "price": 46500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "16G Colorful iGame RTX 5060Ti Ultra OC 16GB-V, 3x Fan, BLK",
+    "shop": "pchub",
+    "price": 47995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Colorful iGame RTX 5060 Battle AX NB Duo 8GB-V",
+    "shop": "pchub",
+    "price": 28500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Colorful iGame RTX 5060 Gaming Duo 8GB-V",
+    "shop": "pchub",
+    "price": 27995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "8G Colorful RTX 5060 MEOW-ORG Duo 8GB-V",
+    "shop": "pchub",
+    "price": 37995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=4",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Colorful iGame RTX 5050 Battle AX NB Duo 8GB-V",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Powercolor Radeon RX 9070XT Hellhound, 3x Fan, pn: RX9070XT 16G-L/OC",
+    "shop": "pchub",
+    "price": 63995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Powercolor Radeon RX 9070XT Reaper, 3x Fan, pn: RX9070XT 16G-A",
+    "shop": "pchub",
+    "price": 62500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Powercolor Radeon RX 9070XT Hellhound Reva, 3x Fan, pn: RX9070XT 16G-L/OC/REVA",
+    "shop": "pchub",
+    "price": 63995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Powercolor Radeon RX 9070XT Hellhound Spectral White, 3x Fan, pn: RX9070XT 16G-L....",
+    "shop": "pchub",
+    "price": 67395.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Powercolor Radeon RX 9060XT Hellhound, 3x Fan, pn: RX9060XT 16G-L/OC",
+    "shop": "pchub",
+    "price": 38995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Powercolor Radeon RX 9060XT Reaper, 2x Fan, pn: RX9060XT 16G-A",
+    "shop": "pchub",
+    "price": 36995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Powercolor Radeon RX 9060XT Hellhound Spectral White, 3x Fan, pn: RX9060XT 1....",
+    "shop": "pchub",
+    "price": 39995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070GRE",
+    "description": "Powercolor Radeon RX 9070 GRE Hellhound, 3x Fan, pn: RX9070GRE 12G-L/OC",
+    "shop": "pchub",
+    "price": 42995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070GRE",
+    "description": "Powercolor Radeon RX 9070 GRE Reaper, 3x Fan, pn: RX9070GRE 12G-A",
+    "shop": "pchub",
+    "price": 41500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Sapphire Radeon RX 7600 Pulse OC, 2x Fan, pn: SPR-11324-01-20G",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "Sapphire Radeon RX 9070 Nitro+ OC, 3x Fan, pn: SPR-11349-01-20G",
+    "shop": "pchub",
+    "price": 53650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "Sapphire Radeon RX 9070 Pure OC, 3x Fan, pn: SPR-11349-02-20G",
+    "shop": "pchub",
+    "price": 47650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Sapphire Radeon RX 9070XT Pulse, 3x Fan, pn: SPR-11348-03-20G",
+    "shop": "pchub",
+    "price": 73995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Sapphire Radeon RX 9060XT Pulse OC, 2x Fan, pn: SPR-11350-03-20G",
+    "shop": "pchub",
+    "price": 31695.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Sapphire Radeon RX 9060XT Nitro+ Gaming OC, 3x Fan, pn: SPR-11350-01-20G",
+    "shop": "pchub",
+    "price": 34250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Sapphire Radeon RX 9060XT Pure OC, 2x Fan, pn: SPR-11350-02-20G",
+    "shop": "pchub",
+    "price": 32650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070GRE",
+    "description": "Sapphire Radeon RX 9070 GRE Pulse OC, 2x Fan, pn: SPR-11354-01-20G",
+    "shop": "pchub",
+    "price": 37250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9050",
+    "description": "Sapphire Radeon RX 9050 Pulse, 2x Fan, pn: SPR-11363-01-20G",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "8G Asus Radeon RX 7600 Dual OC EVO, pn: DUAL-RX7600-O8G-EVO",
+    "shop": "pchub",
+    "price": 20995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070",
+    "description": "Asus Radeon RX 9070 Prime OC, 3x Fan, pn: PRIME-RX9070-O16G",
+    "shop": "pchub",
+    "price": 57500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Asus Radeon RX 9070XT Prime OC, 3x Fan, pn: PRIME-RX9070XT-O16G",
+    "shop": "pchub",
+    "price": 64500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-8GB",
+    "description": "8G Asus Radeon RX 9060XT Prime OC, 3x Fan, pn: PRIME-RX9060XT-O8G",
+    "shop": "pchub",
+    "price": 27500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-8GB",
+    "description": "8G Asus Radeon RX 9060XT Dual, pn: DUAL-RX9060XT-8G",
+    "shop": "pchub",
+    "price": 26795.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Asus Radeon RX 9060XT Prime OC, 3x Fan, pn: PRIME-RX9060XT-O16G",
+    "shop": "pchub",
+    "price": 34250.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9050",
+    "description": "8G Asus Radeon RX 9050 Dual OC, pn: DUAL-RX9050-O8G",
+    "shop": "pchub",
+    "price": 20850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Gigabyte Radeon RX 7600 Gaming OC, 3x Fan, pn: GV-R76GAMING-OC-8GD",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Gigabyte Radeon RX 9070XT Gaming OC, 3x Fan, pn: GV-R9070XTGAMING-OC-16GD",
+    "shop": "pchub",
+    "price": 59850.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=5",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Gigabyte Radeon RX 9060XT Gaming OC BLK, 3x Fan, pn: GV-R9060XTGAMING-OC-16G....",
+    "shop": "pchub",
+    "price": 37650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G Gigabyte Radeon RX 9060XT Gaming OC ICE, 3x Fan, pn: GV-R906XGAMINGOCICE-16G....",
+    "shop": "pchub",
+    "price": 37650.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9050",
+    "description": "Gigabyte Radeon RX 9050 Gaming OC, 3x Fan, pn: GV-R9050GAMING-OC-8GD",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Radeon RX 9070XT Mercury OC Gaming black, 3x Fan, pn: RX-97TRGBBB9",
+    "shop": "pchub",
+    "price": 63995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Radeon RX 9070XT Mercury OC Gaming white, 3x Fan, pn: RX-97TRGBBW9",
+    "shop": "pchub",
+    "price": 64395.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Radeon RX 9070XT Swift Gaming white, 3x Fan, pn: RX-97TSWF3W9",
+    "shop": "pchub",
+    "price": 62500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G XFX Radeon RX 9060XT Swift OC Gaming black, 2x Fan, pn: RX-96TSW16BQ",
+    "shop": "pchub",
+    "price": 35500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G XFX Radeon RX 9060XT Swift OC Gaming white, 2x Fan, pn: RX-96TSW16WQ",
+    "shop": "pchub",
+    "price": 35995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G XFX Radeon RX 9060XT Swift OC Triple Fan Gaming black, 3x Fan, pn: RX-96TS31....",
+    "shop": "pchub",
+    "price": 36500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G XFX Radeon RX 9060XT Swift OC Triple Fan Gaming white, 3x Fan, pn: RX-96TS31....",
+    "shop": "pchub",
+    "price": 36995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070GRE",
+    "description": "XFX Radeon RX 9070 GRE Swift Triple Fan Gaming black, pn: RX-97GRE29B7",
+    "shop": "pchub",
+    "price": 35995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070GRE",
+    "description": "XFX Radeon RX 9070 GRE Swift Triple Fan Gaming white, pn: RX-97GRE29W7",
+    "shop": "pchub",
+    "price": 36750.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9050",
+    "description": "XFX Radeon RX 9050 Swift Gaming black, 2x Fan, pn: RX-95SWFT8BE",
+    "shop": "pchub",
+    "price": 19995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Asrock Radeon RX 7600 Challenger Pro OC, 3x Fan, pn: RX7600 CLP 8GO",
+    "shop": "pchub",
+    "price": 19695.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "ASRock Radeon RX 9070XT Steel Legend, pn: RX9070XT SL 16G",
+    "shop": "pchub",
+    "price": 51150.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "ASRock Radeon RX 9070XT Challenger, 3x Fan, pn: RX9070XT CL 16G",
+    "shop": "pchub",
+    "price": 49500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G ASRock Radeon RX 9060XT Steel Legend OC, 3x Fan, pn: RX9060XT SL 16GO",
+    "shop": "pchub",
+    "price": 31995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9060XT-16GB",
+    "description": "16G ASRock Radeon RX 9060XT Challenger OC, 2x Fan, pn: RX9060XT CL 16GO",
+    "shop": "pchub",
+    "price": 30500.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9050",
+    "description": "8G ASRock Radeon RX 9050 Challenger, 2x Fan, pn: RX9050 CL 8G",
+    "shop": "pchub",
+    "price": 18995.0,
+    "availability": "In Stock",
+    "link": "https://pchubonline.com/products?category=2&page=6",
+    "last_update": "2026-11-20"
+  },
+  {
+    "category": "GPU",
     "model": "RX9060XT-16GB",
     "description": "ASROCK AMD Radeon\u2122 RX9060XT Challenger 16GB GDDR6 128-bit Graphics Card",
     "shop": "pcx",
