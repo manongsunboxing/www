@@ -1,22 +1,15 @@
 fetch('trends.json')
   .then(res => res.json())
   .then(raw => {
-    const data = raw.trends || raw;
+    // trends.json interns store details in a top-level table; expandTrends in
+    // trends_format.js resolves the indices and accepts the old layout too.
+    const data = expandTrends(raw).models;
     const select = document.getElementById('gpuSelect');
     const allModels = Object.keys(data).filter(m => inferCategory(m) !== null).sort();
     let currentCat = '';
 
     function inferCategory(model) {
-      // Use category from trend entries if available
-      const entries = data[model];
-      if (entries && entries.length && entries[0].category) {
-        return entries[0].category;
-      }
-      // Fallback heuristic based on model prefix
-      if (/^DDR/i.test(model)) return 'RAM';
-      if (/^(I[3579]-|R[3579]-|Ultra[579]-|ATHLON-|PENTIUM-)/i.test(model)) return 'CPU';
-      if (/^(RTX[A-Z]?\d|GTX\d|GT\d|RX\d|ARC[A-Z]?\d|T\d)/i.test(model)) return 'GPU';
-      return null;
+      return inferTrendCategory(model, data[model]);
     }
 
     function populateSelect(cat) {
@@ -40,7 +33,9 @@ fetch('trends.json')
     let chart;
 
     function render(model) {
-      const entries = (data[model] || []).sort((a,b) => new Date(a.date) - new Date(b.date));
+      const node = data[model];
+      const entries = ((node && node.entries) || []).slice()
+        .sort((a,b) => new Date(a.date) - new Date(b.date));
       const dataset = entries.map(e => ({x: e.date, y: e.price, stores: e.stores.map(s => s.store).join(', ')}));
       const cfg = {
         type: 'line',

@@ -1,21 +1,15 @@
 fetch('trends.json')
   .then(res => res.json())
   .then(raw => {
-    const data = raw.trends || raw;
-
-    function inferCategory(model, entries) {
-      if (entries && entries.length && entries[0].category) {
-        return entries[0].category;
-      }
-      if (/^DDR/i.test(model)) return 'RAM';
-      if (/^(I[3579]-|R[3579]-|Ultra[579]-|ATHLON-|PENTIUM-)/i.test(model)) return 'CPU';
-      if (/^(RTX[A-Z]?\d|GTX\d|GT\d|RX\d|ARC[A-Z]?\d|T\d)/i.test(model)) return 'GPU';
-      return null;
-    }
+    // trends.json interns store details in a top-level table; expandTrends in
+    // trends_format.js resolves the indices and accepts the old layout too.
+    const data = expandTrends(raw).models;
 
     const rows = [];
-    for (const [model, entries] of Object.entries(data)) {
-      const sorted = entries.sort((a,b) => new Date(a.date) - new Date(b.date));
+    for (const [model, node] of Object.entries(data)) {
+      const sorted = (node.entries || []).slice()
+        .sort((a,b) => new Date(a.date) - new Date(b.date));
+      if (!sorted.length) continue;
       const lastDate = sorted[sorted.length - 1].date;
       const latest = sorted.filter(e => e.date === lastDate);
       const cheapest = latest.reduce((a,b) => a.price <= b.price ? a : b);
@@ -25,7 +19,7 @@ fetch('trends.json')
           return `<a href="${s.link}" target="_blank">${s.store}${desc}</a>`;
         })
         .join(', ');
-      const category = inferCategory(model, entries);
+      const category = inferTrendCategory(model, node);
       if (!category) continue;
       rows.push({category, model, price: cheapest.price, stores});
     }
