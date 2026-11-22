@@ -165124,6 +165124,19 @@
             "name": "PNY GeForce RTX\u2122 4070 SUPER 12GB OC XLR8 ARGB TF VERTO Graphics Card-VCG4070S12TFXXPB1-O"
           }
         ]
+      },
+      {
+        "model": "RTX4070S",
+        "category": "GPU",
+        "date": "2026-11-22",
+        "price": 158234.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/gigabyte-nvidia\u00ae-geforce\u00ae-rtx-4070-super\u2122-eagle-oc-12gb-gddr6x-1",
+            "name": "Gigabyte NVIDIA\u00ae GeForce RTX\u2122 4070 SUPER Eagle OC  12GB GDDR6X Graphics Card"
+          }
+        ]
       }
     ],
     "RTX5060TI-8GB": [
@@ -539437,12 +539450,12 @@
         "model": "I3-12100",
         "category": "CPU",
         "date": "2026-11-22",
-        "price": 7995.0,
+        "price": 7248.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/processors/intel-processor/intel-core-i3-12100-12th-gen-4-core-8-thread-3-3-to-4-3-ghz-lga1700-desktop-processor/",
-            "name": "Intel Core i3-12100 12th Gen 4 Core 8 Thread 3.3 to 4.3 GHz LGA1700 Desktop Processor - 6 Months Warranty"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/intel-i3-12100-4-3ghz-4-cores-8-threads-12m-cache-lga1700-cpu",
+            "name": "Intel I3-12100 4.3GHz 4-cores 8 Threads 12M Cache LGA1700 CPU"
           }
         ]
       }
@@ -834344,12 +834357,12 @@
         "model": "DDR3 8GB 1600MHz CL11 SO-DIMM",
         "category": "RAM",
         "date": "2026-11-22",
-        "price": 3095.0,
+        "price": 2405.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/g-skill-sniper-series-ddr3-1600-cl11-11-11-28-1-50v-8gb-1x8gb-black-ddr3-memory-sodimm-f3-1600c11s-8gsl/",
-            "name": "G.SKILL Sniper Series DDR3-1600 CL11-11-11-28 1.50V 8GB (1x8GB) Black DDR3 Memory SODIMM \u2013 F3-1600C11S-8GSL"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/kingston-kvr16ls11-8wp-8gb-1600mhz-ddr3l-non-ecc-cl11-sodimm-1-35",
+            "name": "Kingston KVR16LS11/8WP 8GB 1600MHz DDR3L Non-ECC CL11 SODIMM 1.35"
           }
         ]
       }
@@ -1382230,12 +1382243,12 @@
         "model": "27-1080P-100HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 4999.0,
+        "price": 4829.0,
         "stores": [
           {
-            "store": "itworld",
-            "link": "https://www.itworldph.com/shop/n2755-pro-black-nvision-n2755-pro-27-1920x1080-fhd-ips-100hz-5ms-hdmi-vga-n2755-pro-black-monitor-itw-11325?page=12&category=163",
-            "name": "Nvision N2755 Pro - 27\" 1920x1080 FHD / IPS / 100Hz / 5ms / HDMI VGA / N2755-Pro Black Monitor itw"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/aoc-27b36h-27-ips-3-side-frameless-100hz-fhd-monitor",
+            "name": "AOC 27B36H 27\" IPS 3-Side Frameless 100hz FHD Monitor"
           }
         ]
       }
@@ -1703473,6 +1703486,19 @@
             "name": "Asus VY229HF 22\" FHD (1920x1080) 100Hz 1ms MPRT IPS Adaptive Sync Eye Care Gaming Monitor"
           }
         ]
+      },
+      {
+        "model": "22-1080P-100HZ-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 5125.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/samsung-ls22d300gaexxp-22-ips-fhd-100hz-monitor-1",
+            "name": "Samsung LS22D300GAEXXP 22\" IPS FHD 100Hz Monitor"
+          }
+        ]
       }
     ],
     "27-1440P-480HZ-OLED": [
@@ -1737533,12 +1737559,12 @@
         "model": "34-UW1440P-165HZ-VA",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 18195.0,
+        "price": 16699.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/viewsonic-vx3480-2k-pro-34-wqhd-3440x1440-165hz-1ms-va-technology-gaming-monitor",
-            "name": "Viewsonic VX3480-2K-PRO 34\" WQHD (3440X1440) 165Hz 1ms VA Technology Gaming Monitor"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-curved-gaming-monitor-g34wqi",
+            "name": "Xiaomi Curved Gaming Monitor G34WQi"
           }
         ]
       }
@@ -1793939,12 +1793965,12 @@
         "model": "27-1080P-165HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 7450.0,
+        "price": 6699.0,
         "stores": [
           {
-            "store": "datablitz",
-            "link": "https://ecommerce.datablitz.com.ph/products/philips-evnia-27m1n3200z-71-27-fhd-1920x1080-165hz-1ms-mprt-ips-gaming-monitor-with-height-tilt-swivel-pivot-adjustment-black",
-            "name": "Philips Evnia 27M1N3200Z/71 27\" FHD (1920x1080) 165Hz 1ms MPRT IPS Gaming Monitor with Height, Tilt, Swivel & Pivot Adjustment (Black)"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-gaming-monitor-g27i",
+            "name": "Xiaomi Gaming Monitor G27i"
           }
         ]
       }
@@ -1814235,12 +1814261,12 @@
         "model": "24-1080P-165HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 9965.0,
+        "price": 5999.0,
         "stores": [
           {
-            "store": "pinklehub",
-            "link": "https://pinklehub.com/products/galax-gaming-monitor-vivance-02-24-fhd-ips-165hz-1ms-g-sync-compatible-hdr-srgb-100-borderless",
-            "name": "GALAX Gaming Monitor VIVANCE-02 24\" FHD / IPS / 165Hz / 1ms / G-Sync Compatible / HDR / sRGB 100% / Borderless"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-gaming-monitor-g24i",
+            "name": "Xiaomi Gaming Monitor G24i"
           }
         ]
       }
@@ -1823642,12 +1823668,12 @@
         "model": "27-1440P-165HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 18495.0,
+        "price": 9599.0,
         "stores": [
           {
-            "store": "pinklehub",
-            "link": "https://pinklehub.com/products/galax-gaming-monitor-vivance-01-27-qhd-ips-165hz-1ms-g-sync-certified-hdr-dci-p3-95-borderless",
-            "name": "GALAX Gaming Monitor VIVANCE-01 27\" QHD / IPS / 165Hz / 1ms / G-Sync Certified / HDR / DCI-P3 95% / Borderless"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-2k-gaming-monitor-g27qi",
+            "name": "Xiaomi 2K Gaming Monitor G27Qi"
           }
         ]
       }
@@ -1889407,12 +1889433,12 @@
         "model": "32-4K",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 28995.0,
+        "price": 27000.0,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/monitors/benq-ew3290u-32-4k-3840x2160-with-95-p3-color-coverage-exclusive-ai-contrast-technology-built-in-5w-speakers-premium-monitor/",
-            "name": "BenQ EW3290U 32\u201d 4K 3840\u00d72160 with 95% P3 Color Coverage Exclusive AI Contrast Technology Built-in 5W Speakers Premium Monitor"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/samsung-ls32fm803uexxp-32-smart-monitor-m8-m80f-4k-monitor",
+            "name": "Samsung LS32FM803UEXXP 32\" Smart Monitor M8 M80F 4K Monitor"
           }
         ]
       }
@@ -1910678,12 +1910704,12 @@
         "model": "27-4K-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 13490.0,
+        "price": 12599.0,
         "stores": [
           {
-            "store": "dynaquest",
-            "link": "https://dynaquestpc.com/products/samsung-ls27d700eaexxp-27-viewfinity-s7-s70d-uhd-ips-4k-3840x2160-monitor",
-            "name": "Samsung LS27D700EAEXXP 27\" ViewFinity S7 S70D UHD IPS 4K 3840x2160 Monitor"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/aoc-u27b3cf-27-4k-uhd-ips-monitor",
+            "name": "AOC U27B3CF 27\" 4K UHD IPS Monitor"
           }
         ]
       }
@@ -1928901,12 +1928927,12 @@
         "model": "27-165HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 8950.0,
+        "price": 7875.8,
         "stores": [
           {
-            "store": "dynaquest",
-            "link": "https://dynaquestpc.com/products/gigabyte-g27f-2-27-ips-144hz-1080p-freesync-gsync-gaming-monitor",
-            "name": "Gigabyte G27F-2 27\" IPS 165Hz 1080p Freesync Gsync Gaming Monitor"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/aoc-27g2spe-27-ips-165hz-adaptive-sync-gaming-monitor",
+            "name": "AOC 27G2SPE 27\" IPS 165Hz  Adaptive Sync Gaming Monitor"
           }
         ]
       }
@@ -1936019,6 +1936045,19 @@
             "store": "datablitz",
             "link": "https://ecommerce.datablitz.com.ph/products/viewsonic-va2223-h-22-1080p-home-and-office-monitor-1",
             "name": "Viewsonic VA2223-H 22\" 1080p Home And Office Monitor"
+          }
+        ]
+      },
+      {
+        "model": "22",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 7800.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/north-bayou-nb40-22-32-sit-stand-work-station",
+            "name": "North Bayou NB40 22\"-32\" Sit-Stand Work Station"
           }
         ]
       }
@@ -1966032,6 +1966071,19 @@
             "store": "easypc",
             "link": "https://easypc.com.ph/products/nvision-n2455pro-w-100hz-ips-panel-23-8-monitor-white",
             "name": "Nvision N2455PRO-W 100Hz IPS Panel 23.8\" Monitor White"
+          }
+        ]
+      },
+      {
+        "model": "23-100HZ-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 4699.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/aoc-24b36h-23-8-100hz-ips-monitor",
+            "name": "Aoc 24B36H 23.8\" 100Hz IPS Monitor"
           }
         ]
       }
@@ -2027456,12 +2027508,12 @@
         "model": "24-1080P-100HZ-VA",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 20495.0,
+        "price": 4000.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/viewsonic-24-inch-full-hd-100hz-va-10-point-pcap-touch-monitor-td2465/",
-            "name": "ViewSonic 24 Inch Full HD 100Hz VA 10-Point PCAP Touch Monitor \u2013 TD2465"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/aoc-25b40hm-24-5-fhd-100hz-1920x1080-4ms-gtg-1ms-mprt-va-adaptive-sync-monitor",
+            "name": "AOC 25B40HM 24.5\" FHD 100Hz 4ms GTG / 1ms MPRT VA Adaptive Sync Monitor"
           }
         ]
       }
@@ -2150527,12 +2150579,12 @@
         "model": "27-180HZ-IPS",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 11500.0,
+        "price": 7699.0,
         "stores": [
           {
-            "store": "pchub",
-            "link": "https://pchubonline.com/products?category=6&page=1",
-            "name": "27 Samsung Odyssey G50F LED IPS HDR10 180hz 2K 1440, HD DP, 4D STND, pn: LS27FG5...."
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/aoc-27-27g11e-180hz-ips-gaming-monitor",
+            "name": "AOC 27\" 27G11E 180Hz IPS Gaming Monitor"
           }
         ]
       }
@@ -2163119,12 +2163171,12 @@
         "model": "27-75HZ",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 11995.0,
+        "price": 8099.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/asus-va27dcp-27-office-monitor-75hz-display/",
-            "name": "ASUS VA27DCP 27\u2033 Office Monitor \u2013 75Hz Display"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/acer-ka272-bmix-27-1920x1080-75hz",
+            "name": "Acer KA272 BMIX 27\" 75Hz"
           }
         ]
       }
@@ -2171737,6 +2171789,19 @@
             "store": "netcodex",
             "link": "https://netcodex.ph/product/asus-va329he-32-office-monitor-75hz-display/",
             "name": "ASUS VA329HE 32\u2033 Office Monitor \u2013 75Hz Display"
+          }
+        ]
+      },
+      {
+        "model": "32-75HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 12499.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/asus-va329he-eye-care-monitor-32-75hz",
+            "name": "Asus VA329HE Eye Care Monitor 32\" 75Hz"
           }
         ]
       }
@@ -2230529,12 +2230594,12 @@
         "model": "23",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 7850.0,
+        "price": 7799.0,
         "stores": [
           {
-            "store": "pcx",
-            "link": "https://pcx.com.ph/products/lenovo-23-8-r24e-legion-67ccgac4ph-ips-monitor",
-            "name": "LENOVO Legion R24e 23.8\u201d Gaming Monitor"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/acer-nitro-vg240y-x1-23-8-gaming-monitor",
+            "name": "Acer Nitro VG240Y X1 23.8\" Gaming Monitor"
           }
         ]
       }
@@ -2264598,12 +2264663,12 @@
         "model": "21-1080P",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 6350.0,
+        "price": 4099.0,
         "stores": [
           {
-            "store": "pinklehub",
-            "link": "https://pinklehub.com/products/hkc-mb21v13-21-5-1920-x1080-led-monitor-with-hdmi-dsub",
-            "name": "HKC MB21V13 21.5\u2033 1920 X 1080 LED MONITOR WITH HDMI/DSUB"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-monitor-a22i",
+            "name": "Xiaomi Monitor A22i"
           }
         ]
       }
@@ -2305167,6 +2305232,19 @@
             "name": "Philips Evnia 32M2C3500L 32\u2033 QHD 1440P 180Hz  Curved Gaming Monitor"
           }
         ]
+      },
+      {
+        "model": "32-1440P-180HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 17000.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/samsung-ls32fg502eexxp-32-odyssey-g5-g50f-qhd-180hz-gaming-monitor",
+            "name": "Samsung LS32FG502EEXXP 32\" Odyssey G5 G50F QHD 180Hz Gaming Monitor"
+          }
+        ]
       }
     ],
     "24-1080P-144HZ": [
@@ -2318491,6 +2318569,19 @@
             "store": "bermorzone",
             "link": "https://bermorzone.com.ph/shop/monitors/philips-21-5-22e1n1100-1920-x-1080-120hz-full-hd-ips-monitor/",
             "name": "Philips 22E1N1100 21.5\u2033 1920X1080 120hz 4ms Full HD IPS Monitor"
+          }
+        ]
+      },
+      {
+        "model": "21-1080P-120HZ-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 4450.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/acer-sa222q-g3bi-21-5-ips-fhd-120hz-monitor-pn-mm-tx5sp-004",
+            "name": "Acer SA222Q G3bi 21.5\" IPS FHD 120Hz Monitor \u2013 PN: MM.TX5SP.004"
           }
         ]
       }
@@ -2346532,6 +2346623,19 @@
             "store": "dynaquest",
             "link": "https://dynaquestpc.com/products/aoc-24g2se-23-8-va-165hz-fhd-1080p-1ms-adaptive-sync-gaming-monitor-black-red",
             "name": "AOC 24G2SE 23.8\" VA 165Hz FHD 1080p 1ms Adaptive Sync Gaming Monitor Black/Red"
+          }
+        ]
+      },
+      {
+        "model": "23-1080P-165HZ-VA",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 5618.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/aoc-24g2se-23-8-va-fhd-165hz-free-sync-gaming-monitor",
+            "name": "AOC 24G2SE 23.8\" VA FHD 165Hz Free Sync Gaming Monitor"
           }
         ]
       }
@@ -2430984,6 +2431088,19 @@
             "name": "G-Story 15.6\u201d HDR QLED Portable Gaming Monitor (GSQ56SD)"
           }
         ]
+      },
+      {
+        "model": "15",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 8899.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/asus-zenscreen-mb169ck-15-6",
+            "name": "Asus ZenScreen MB169CK 15.6\""
+          }
+        ]
       }
     ],
     "DDR5 64GB CL30": [
@@ -2474038,12 +2474155,12 @@
         "model": "I5-10400",
         "category": "CPU",
         "date": "2026-11-22",
-        "price": 8895.0,
+        "price": 8328.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/intel-core-i5-10400-2-90ghz-4-30ghz-turbo-6-core-12-thread-lga1200-desktop-processor-i5-10400-tray/",
-            "name": "Intel Core i5 10400 2.90GHz 4.30GHz Turbo 6 Core 12 Thread LGA1200 Desktop Processor \u2013 I5 10400 TRAY"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/intel\u00ae-core\u2122-i5-10400-processor-12m-cache-up-to-4-30-ghz",
+            "name": "Intel\u00ae Core\u2122 i5-10400 Processor 12M Cache, up to 4.30 GHz"
           }
         ]
       }
@@ -2667924,12 +2668041,12 @@
         "model": "34",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 22300.0,
+        "price": 18999.0,
         "stores": [
           {
-            "store": "pcx",
-            "link": "https://pcx.com.ph/products/asus-34-tuf-gaming-series-5-vg34wqml5a-curved-gaming-monitor-black",
-            "name": "ASUS 34\" TUF Gaming Series 5 (VG34WQML5A) Curved Gaming Monitor - Black"
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/xiaomi-curved-gaming-monitor-g34wqi-2026-34inch-panel-va-refresh-rate-180hz-brightness-350nits-178h-178v-mprt-1ms-typ-support-vesa-75-x-75mm",
+            "name": "Xiaomi Curved Gaming Monitor G34WQi 2026 34\""
           }
         ]
       }
@@ -2676305,12 +2676422,12 @@
         "model": "23-1080P-100HZ",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 10690.0,
+        "price": 8312.5,
         "stores": [
           {
-            "store": "bermorzone",
-            "link": "https://bermorzone.com.ph/shop/monitors/benq-gw2486tc-23-8-full-hd-1080p-usb-c-100hz-eye-care-ergonomic-monitor/",
-            "name": "BenQ GW2486TC 23.8\u2033 Full HD 1080p USB-C 100Hz  Eye Care Ergonomic Monitor"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/hp-324pv-9u5c1aa-series-3-pro-23-8-fhd-100hz-monitor",
+            "name": "HP 324pv 9U5C1AA Series 3 Pro 23.8\" FHD 100Hz Monitor"
           }
         ]
       }
@@ -2697554,12 +2697671,12 @@
         "model": "17",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 1680.0,
+        "price": 905.0,
         "stores": [
           {
-            "store": "netcodex",
-            "link": "https://netcodex.ph/product/brateck-amethyst-articulating-gaming-monitor-arm-fits-17-40-screens-up-to-12kg-matte-black-brateck-ldt89-c012/",
-            "name": "BRATECK Amethyst Articulating Gaming Monitor Arm \u2013 Fits 17\u2033-40\u2033 Screens, Up to 12kg, Matte Black \u2013 Brateck-LDT89-C012"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/north-bayou-f80-17-32-monitor-desk-stand",
+            "name": "North Bayou F80 17\"-32\" Monitor Desk Stand"
           }
         ]
       }
@@ -2705181,12 +2705298,12 @@
         "model": "27-180HZ-VA",
         "category": "MONITOR",
         "date": "2026-11-22",
-        "price": 19500.0,
+        "price": 11700.0,
         "stores": [
           {
-            "store": "pchub",
-            "link": "https://pchubonline.com/products?category=6&page=4",
-            "name": "27 AOC Q27G40XMN Mini LED VA HDR1000 180hz 2K 1440, HD DP"
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/gigabyte-gp-gs27qca-ap-27-va-hdmi-dp-180hz-curved-gaming-monitor",
+            "name": "Gigabyte GP-GS27QCA-AP 27\" VA HDMI/DP 180Hz Curved Gaming Monitor"
           }
         ]
       }
@@ -2705499,6 +2705616,66 @@
         ]
       }
     ],
+    "DDR4": [
+      {
+        "model": "DDR4",
+        "category": "RAM",
+        "date": "2026-11-22",
+        "price": 3792.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/gigabyte-ga-b450m-k-2-dimm-am4-ddr4-m-atx",
+            "name": "Gigabyte GA-B450M-K 2 DIMM AM4 DDR4 m-ATX"
+          }
+        ]
+      }
+    ],
+    "DDR3 8GB 1600MHz CL11": [
+      {
+        "model": "DDR3 8GB 1600MHz CL11",
+        "category": "RAM",
+        "date": "2026-11-22",
+        "price": 8450.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/kingston-kvr16n11-8wp-8gb-1600mhz-ddr3-non-ecc-cl11-dimm",
+            "name": "Kingston KVR16N11/8WP 8GB 1600MHz DDR3 NON-ECC CL11 DIMM"
+          }
+        ]
+      }
+    ],
+    "DDR4 4GB 3200MHz CL22": [
+      {
+        "model": "DDR4 4GB 3200MHz CL22",
+        "category": "RAM",
+        "date": "2026-11-22",
+        "price": 1163.5,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/kingston-kvr32n22s6-4-4gb-3200mhz-ddr4-non-ecc-cl22-dimm",
+            "name": "Kingston KVR32N22S6/4 4GB 3200MHz DDR4 Non-ECC CL22 Dimm"
+          }
+        ]
+      }
+    ],
+    "DDR4 4GB 3200MHz CL22 SO-DIMM": [
+      {
+        "model": "DDR4 4GB 3200MHz CL22 SO-DIMM",
+        "category": "RAM",
+        "date": "2026-11-22",
+        "price": 4311.94,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/kingston-kvr32s22s6-4-4gb-3200mhz-ddr4-non-ecc-cl22-sodimm",
+            "name": "Kingston KVR32S22S6/4 4GB 3200MHz DDR4 Non-ECC CL22 SODIMM"
+          }
+        ]
+      }
+    ],
     "20-60HZ-VA": [
       {
         "model": "20-60HZ-VA",
@@ -2705510,6 +2705687,201 @@
             "store": "pcx",
             "link": "https://pcx.com.ph/products/viewplus-20-mh-20-va-60hz-monitor-black",
             "name": "VIEWPLUS 20\" MH-20 VA 60Hz Monitor - Black"
+          }
+        ]
+      }
+    ],
+    "21-100HZ": [
+      {
+        "model": "21-100HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 4999.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/acer-sa222q-21-5-100hz-widescreen-lcd-monitor",
+            "name": "Acer SA222Q 21.5\" 100Hz Widescreen LCD Monitor"
+          }
+        ]
+      }
+    ],
+    "31-250HZ": [
+      {
+        "model": "31-250HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 12499.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/aoc-c32g2ze2-31-5-250hz-curved-gaming-monitor",
+            "name": "AOC C32G2ZE2 31.5\" 250Hz Curved Gaming Monitor"
+          }
+        ]
+      }
+    ],
+    "45-VA": [
+      {
+        "model": "45-VA",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 3799.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/aoc-va-22b30hm2-21-45-panel-monitor",
+            "name": "AOC VA 22B30HM2 21.45\" Panel Monitor"
+          }
+        ]
+      }
+    ],
+    "24-1440P-IPS": [
+      {
+        "model": "24-1440P-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 14599.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/lenovo-q24h-10-66a8gac6ph",
+            "name": "Lenovo Q24h-10 66A8GAC6PH"
+          }
+        ]
+      }
+    ],
+    "21-144HZ": [
+      {
+        "model": "21-144HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 6799.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/acer-eg220q-pbipx-21-5-144hz",
+            "name": "Acer Gaming Monitor EG220Q PBIPX 21.5\" 144Hz"
+          }
+        ]
+      }
+    ],
+    "23-180HZ": [
+      {
+        "model": "23-180HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 9399.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/lenovo-legion-r24e-67ccgac4ph-23-8-180hz",
+            "name": "Lenovo Legion R24e 67CCGAC4PH | 23.8\" | 180Hz"
+          }
+        ]
+      }
+    ],
+    "24-310HZ": [
+      {
+        "model": "24-310HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 10999.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/asus-tuf-vg259qmr5a-24-5inch-310hz-monitor",
+            "name": "Asus TUF VG259QMR5A 24.5inch 310Hz Monitor"
+          }
+        ]
+      }
+    ],
+    "28-60HZ-IPS": [
+      {
+        "model": "28-60HZ-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 34399.0,
+        "stores": [
+          {
+            "store": "gigahertz",
+            "link": "https://www.gigahertz.com.ph/products/huawei-mateview-hsn-cba-28-2-60hz-ips-hes",
+            "name": "Huawei Mateview HSN-CBA 28.2\" 60Hz IPS"
+          }
+        ]
+      }
+    ],
+    "31-1080P-144HZ": [
+      {
+        "model": "31-1080P-144HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 12750.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/acer-nitro-ed320qr-s3biipx-31-5-1920x1080-144hz-hdmi-curved-monitor",
+            "name": "Acer Nitro ED320QR S3BIIPX 31.5 1920x1080 144Hz HDMI Curved Monitor"
+          }
+        ]
+      }
+    ],
+    "23-165HZ-IPS": [
+      {
+        "model": "23-165HZ-IPS",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 5940.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/aoc-24g2spe-23-8-ips-165hz-adaptive-sync-gaming-monitor",
+            "name": "AOC 24G2SPE 23.8 IPS 165Hz Adaptive Sync Gaming Monitor"
+          }
+        ]
+      }
+    ],
+    "20-60HZ": [
+      {
+        "model": "20-60HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 2030.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/n-vision-n200hd-v8-20-60hz-led-monitor",
+            "name": "N-vision N200HD-V8  20'' 60Hz LED Monitor"
+          }
+        ]
+      }
+    ],
+    "37-4K": [
+      {
+        "model": "37-4K",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 23250.0,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/samsung-ls37d702eaexxp-37-viewfinity-s7-s70d-uhd-monitor",
+            "name": "Samsung LS37D702EAEXXP 37\" ViewFinity S7 S70D UHD Monitor"
+          }
+        ]
+      }
+    ],
+    "27-260HZ": [
+      {
+        "model": "27-260HZ",
+        "category": "MONITOR",
+        "date": "2026-11-22",
+        "price": 121566.5,
+        "stores": [
+          {
+            "store": "pcworx",
+            "link": "https://pcworx.ph/products/asus-agent-neuron-gaming-pc-bundle-ryzen-7-7700-prime-rx-9060-xt-oc-16gb-16gb-ddr5-1tb-nvme-ssd-27-260hz-monitor",
+            "name": "ASUS Agent Neuron Gaming PC Bundle \u2013 Ryzen 7 7700 | PRIME RX 9060 XT OC 16GB | 16GB DDR5 | 1TB NVMe SSD | 27\" 260Hz Monitor"
           }
         ]
       }
