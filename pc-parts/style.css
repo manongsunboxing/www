@@ -33,6 +33,21 @@ nav a:hover {
   background-color: #00ffcc;
   color: #000;
 }
+
+/* Beta pill in the nav. Muted on purpose: it should read as a label on the
+   link, not compete with it. Inherits colour on hover so it stays legible
+   once the link inverts. */
+nav a .beta {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  vertical-align: 0.15em;
+  margin-left: 0.3rem;
+  padding: 0.05rem 0.3rem;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  opacity: 0.75;
+}
 p.disclaimer {
   font-size: 0.9rem;
   color: #aaa;

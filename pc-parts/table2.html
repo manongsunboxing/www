@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PC Component Table v2</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* Vanilla, like laptops.html: the v1 table needs jQuery, DataTables and
+       select2 for one grid, and the facet filtering here is simpler hand-rolled.
+       Keeping v2 dependency-free also means it cannot break v1 by sharing a
+       library version with it. */
+    .wrap{max-width:1500px;margin:0 auto;padding:0 1rem 3rem}
+    .controls{display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center;align-items:flex-end;margin:.5rem 0 1rem}
+    .ctl{display:flex;flex-direction:column;align-items:flex-start;gap:.25rem}
+    .ctl label{font-size:.7rem;color:#888;letter-spacing:.06em;text-transform:uppercase}
+    .controls select,.controls input{background:#1a1a1a;color:#eee;border:1px solid #333;border-radius:6px;padding:.45rem .6rem;font-size:.85rem}
+    #q{min-width:320px}
+    .controls input[type=number]{width:95px}
+    button.reset{background:none;border:1px solid #333;color:#888;border-radius:6px;padding:.45rem .8rem;cursor:pointer;font-size:.8rem}
+    button.reset:hover{border-color:#00ffcc;color:#00ffcc}
+    .count{color:#888;font-size:.85rem;margin:.4rem 0 .8rem}
+    .count b{color:#00ffcc}
+    .tablewrap{overflow-x:auto;border:1px solid #333;border-radius:8px}
+    table.comp{border-collapse:collapse;width:100%;font-size:.85rem;min-width:900px}
+    table.comp th{background:#1a1a1a;color:#888;text-transform:uppercase;font-size:.7rem;letter-spacing:.06em;padding:.6rem;text-align:left;cursor:pointer;white-space:nowrap}
+    table.comp th:hover{color:#00ffcc}
+    table.comp td{padding:.6rem;border-top:1px solid #222;text-align:left;vertical-align:top}
+    table.comp tr:hover td{background:#171717}
+    .modelcell{font-weight:700;color:#00ffcc;white-space:nowrap}
+    .name{max-width:560px}
+    .name a{color:#eee;text-decoration:none}
+    .name a:hover{color:#00ffcc}
+    .chips{margin-top:.3rem;display:flex;flex-wrap:wrap;gap:.25rem}
+    .chip{background:#202020;border:1px solid #2e2e2e;border-radius:4px;padding:.1rem .4rem;font-size:.68rem;color:#bbb;white-space:nowrap}
+    .chip.unk{border-color:#3a3a3a;color:#666;font-style:italic}
+    .price{color:#00ffcc;font-weight:700;white-space:nowrap}
+    .oos{color:#ff6b6b}
+    .shop{color:#9aa;white-space:nowrap}
+    .more{margin:1rem 0}
+    .more button{background:none;border:1px solid #00ffcc;color:#00ffcc;border-radius:6px;padding:.5rem 1.4rem;cursor:pointer;font-size:.85rem}
+    .more button:hover{background:#00ffcc;color:#000}
+    .v2note{color:#888;font-size:.8rem;margin:.2rem 0 1rem}
+  </style>
+</head>
+<body>
+  <header>
+    <img src="../banner.jpg" alt="Manong Unboxing Banner">
+    <h1>PC Component Table v2</h1>
+    <p class="disclaimer">
+      Data from PH online sellers. Prices and availability may change anytime.
+    </p>
+    <nav>
+      <a href="index.html">&#128202; Table</a>
+      <a href="table2.html">&#129513; Table v2 <span class="beta">beta</span></a>
+      <a href="graphs.html">&#128200; Graphs</a>
+      <a href="summary.html">&#129534; Summary</a>
+      <a href="laptops.html">&#128187; Laptops</a>
+      <a href="../index.html">&#8592; Back to manong.dev</a>
+    </nav>
+  </header>
+
+  <div class="category-filter">
+    <button class="cat-btn active" data-cat="GPU">GPU</button>
+    <button class="cat-btn" data-cat="RAM">RAM</button>
+    <button class="cat-btn" data-cat="CPU">CPU</button>
+    <button class="cat-btn" data-cat="MOBO">MOBO</button>
+    <button class="cat-btn" data-cat="MONITOR">MONITOR</button>
+  </div>
+
+  <div class="wrap">
+    <p class="v2note">
+      Beta. Each category is its own page with its own filters, so a GPU can be
+      narrowed by VRAM and brand while a monitor is narrowed by size, refresh
+      and panel. The original combined table is still at
+      <a href="index.html">Table</a>.
+    </p>
+
+    <div class="controls" id="controls"></div>
+    <div class="count" id="count">Loading&hellip;</div>
+
+    <div class="tablewrap">
+      <table class="comp">
+        <thead><tr>
+          <th data-sort="model">Model</th>
+          <th data-sort="description">Product</th>
+          <th data-sort="shop">Shop</th>
+          <th data-sort="price">Price</th>
+          <th data-sort="availability">Stock</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="more" id="more"></div>
+  </div>
+
+  <script src="table2.js"></script>
+</body>
+</html>
